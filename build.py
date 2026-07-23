@@ -114,7 +114,35 @@ def fix_acc(a):
     return 'road'
 
 
-def fix_region(r, name, blurb, hub):
+def geo_region(lat, lng):
+    """Region from coordinates. Beats both the agent's label and name matching -
+    'Wrangell-St. Elias' and the town of Wrangell are 600 km apart but share a string."""
+    if lng < -168 or (lng < -160 and lat > 62):
+        return 'Arctic' if lat > 62 else 'Aleutians-Bering'
+    if lat >= 66.0:
+        return 'Arctic'
+    if lat <= 58.2 and lng <= -158:
+        return 'Aleutians-Bering'
+    if lng >= -141.2 and lat <= 60.6:
+        return 'Southeast'
+    if lat <= 61.5 and -163 <= lng <= -152:
+        return 'Southwest'
+    if 59.0 <= lat <= 60.95 and -154 <= lng <= -148.4:
+        return 'Kenai Peninsula'
+    if 60.4 <= lat <= 63.0 and -148.4 <= lng <= -141.2:
+        return 'Wrangell-Copper-Valdez'
+    if lat >= 62.0:
+        return 'Interior'
+    if 60.5 <= lat < 62.0 and -152 <= lng <= -146:
+        return 'Southcentral'
+    return None
+
+
+def fix_region(r, name, blurb, hub, lat=None, lng=None):
+    if lat is not None:
+        g = geo_region(lat, lng)
+        if g:
+            return g
     r = str(r or '').strip()
     for c in REGIONS:
         if norm_key(c) == norm_key(r):
@@ -181,7 +209,7 @@ def normalize(raw):
         months = sorted({int(m) for m in months if isinstance(m, (int, float, str)) and str(m).strip().isdigit() and 1 <= int(m) <= 12})
         a = {
             'name': name,
-            'region': fix_region(pick(d, 'region', 'r'), name, blurb, hub),
+            'region': fix_region(pick(d, 'region', 'r'), name, blurb, hub, lat, lng),
             'lat': round(lat, 4), 'lng': round(lng, 4),
             'cat': fix_cat(pick(d, 'category', 'cat', 'c')),
             'imp': int(round(max(1, min(100, fnum(pick(d, 'importance', 'imp', 'i'), 50))))),
@@ -213,8 +241,15 @@ def normalize(raw):
         if s in seen_slug:
             dup = seen_slug[s]
         else:
+            ka = norm_key(a['name'])
             for b in out:
-                if close(a, b) and difflib.SequenceMatcher(None, norm_key(a['name']), norm_key(b['name'])).ratio() > .55:
+                kb = norm_key(b['name'])
+                if close(a, b) and difflib.SequenceMatcher(None, ka, kb).ratio() > .55:
+                    dup = b
+                    break
+                # "Alaska Railroad Coastal Classic" vs "... (Seward Depot)": same thing, two ends of it
+                if a['cat'] == b['cat'] and (ka in kb or kb in ka) \
+                        and min(len(ka), len(kb)) / max(len(ka), len(kb)) > .6:
                     dup = b
                     break
         if dup:
@@ -388,10 +423,13 @@ def write_doc(attrs, season, hubs, itin, logi, built):
     W('## How the score works\n')
     W('One number, 0–100, answering: *if you only had time for one more thing, how much would you regret skipping this?*')
     W('Anchors — Denali NP 98, Kenai Fjords day cruise 93, Brooks Falls 92, Mendenhall 88, Talkeetna 74, Anchorage Museum 70, a good brewery 35, a roadside pullout 25.\n')
-    W('| Tier | Score | Meaning | Count |')
-    W('|---|---|---|---|')
-    for t, lab, rng in ((1, 'Bucket list', '88–100'), (2, 'Major', '72–87'), (3, 'Worth it', '50–71'), (4, 'If nearby', '<50')):
-        W('| %d | %s | %s | %d |' % (t, rng, lab, sum(1 for a in attrs if a['tier'] == t)))
+    W('Tiers are relative, not absolute: the top of the list is capped so the map stays readable.\n')
+    W('| Tier | Meaning | Count | Score range |')
+    W('|---|---|--:|---|')
+    for t, lab in ((1, 'Bucket list — go out of your way'), (2, 'Major — worth a half day'),
+                   (3, 'Worth it if you are passing'), (4, 'If nearby')):
+        rows = [a['imp'] for a in attrs if a['tier'] == t]
+        W('| %d | %s | %d | %s |' % (t, lab, len(rows), ('%d–%d' % (min(rows), max(rows))) if rows else '—'))
     W('')
     W('## The top 50\n')
     W('| # | Place | Region | What | Score | Time | Season | Access |')
