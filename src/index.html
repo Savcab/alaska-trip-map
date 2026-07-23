@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover">
+<title>ALASKA — every place worth going, ranked and mapped</title>
+<meta name="description" content="An interactive, ranked map of Alaska's attractions — glaciers, bears, aurora, parks, drives and towns — with a seasonal planner and a trip builder. One HTML file, no servers.">
+<meta name="theme-color" content="#05080f">
+<meta property="og:title" content="ALASKA — every place worth going, ranked and mapped">
+<meta property="og:description" content="Ranked interactive map + trip planner for Alaska.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23070c16'/%3E%3Cpath d='M4 21l6-9 4 5 3-4 5 6 6-11' stroke='%2352ffb8' stroke-width='2.4' fill='none' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>/*__CSS__*/</style>
+</head>
+<body>
+<div id="app">
+
+  <header>
+    <canvas id="auroraCanvas"></canvas>
+    <button class="hbtn" id="mobToggle" title="Menu">☰</button>
+    <div class="brand"><b>ALASKA</b><span class="sub">ranked · mapped · plannable</span></div>
+    <div class="hstat">
+      <div><div class="v" id="hCount">0</div><div class="k">shown</div></div>
+      <div><div class="v" id="hTotal">0</div><div class="k">places</div></div>
+      <button class="hbtn" id="hHelp">How this works</button>
+    </div>
+  </header>
+
+  <aside>
+    <div class="tabs">
+      <button class="on" data-tab="explore">Explore</button>
+      <button data-tab="trip">Trip <span class="n" id="tripN">0</span></button>
+      <button data-tab="plan">Plan</button>
+      <button data-tab="data">Data</button>
+    </div>
+
+    <!-- ══ explore ══ -->
+    <div class="pane on" id="pane-explore">
+      <div class="searchbar"><div class="wrap">
+        <span class="ico">⌕</span>
+        <input id="q" placeholder="Search places, towns, regions…" autocomplete="off" spellcheck="false">
+        <span class="kbd">/</span>
+      </div></div>
+
+      <div class="scroll">
+        <details class="sec" open><summary>Tier <span class="tag">shift-click to isolate</span></summary>
+          <div class="body"><div class="chips" id="fTiers"></div>
+            <div class="rowbtns"><button class="tbtn" id="btnT1">Bucket list only</button>
+              <button class="tbtn" id="btnAllCats">Reset all filters</button></div>
+          </div></details>
+
+        <details class="sec"><summary>Category <span class="tag" id="tagCats"></span></summary>
+          <div class="body"><div class="chips" id="fCats"></div></div></details>
+
+        <details class="sec"><summary>Region <span class="tag" id="tagRegions"></span></summary>
+          <div class="body"><div class="chips" id="fRegions"></div></div></details>
+
+        <details class="sec"><summary>How you get there</summary>
+          <div class="body"><div class="chips" id="fAccess"></div></div></details>
+
+        <details class="sec"><summary>Fine tuning</summary>
+          <div class="body">
+            <div class="slab"><label>Min score</label><span class="val" id="impV">any</span></div>
+            <input type="range" id="impR" min="0" max="95" step="5" value="0">
+            <div class="slab"><label>Max time</label><span class="val" id="hourV">any</span></div>
+            <input type="range" id="hourR" min="1" max="48" step="1" value="48">
+            <label class="switch"><input type="checkbox" id="swKid"><span>Kid-friendly only</span></label>
+            <label class="switch"><input type="checkbox" id="swBook"><span>No advance booking</span></label>
+            <label class="switch"><input type="checkbox" id="swDim" checked><span>Dim out-of-season</span></label>
+            <label class="switch"><input type="checkbox" id="swGhost" checked><span>Ghost filtered pins</span></label>
+          </div></details>
+
+        <div class="listhead">Ranked <span id="count">0</span>
+          <select id="sortSel">
+            <option value="rank">by importance</option>
+            <option value="name">A–Z</option>
+            <option value="time">by time needed</option>
+            <option value="region">by region</option>
+            <option value="cat">by category</option>
+          </select>
+        </div>
+        <div id="list"></div>
+      </div>
+    </div>
+
+    <!-- ══ trip ══ -->
+    <div class="pane" id="pane-trip"><div class="scroll"><div class="trip" id="tripBody"></div></div></div>
+
+    <!-- ══ plan ══ -->
+    <div class="pane" id="pane-plan"><div class="scroll"><div class="trip" id="planBody"></div></div></div>
+
+    <!-- ══ data ══ -->
+    <div class="pane" id="pane-data"><div class="scroll"><div class="trip" id="dataBody"></div></div></div>
+  </aside>
+
+  <main>
+    <canvas id="map"></canvas>
+    <div id="tip"></div>
+    <div id="detail"></div>
+
+    <div class="mapui ctrls">
+      <button class="cbtn" id="zoomIn" title="Zoom in">+</button>
+      <button class="cbtn" id="zoomOut" title="Zoom out">−</button>
+      <button class="cbtn" id="zoomFit" title="Fit Alaska (F)">⤢</button>
+      <button class="cbtn" id="layerBtn" title="Layers">◧</button>
+      <div id="layerPop"><div id="layers"></div></div>
+    </div>
+
+    <div class="mapui legend">
+      <h4>Legend</h4>
+      <div class="lg"><i style="background:#52ffb8"></i>Tier 1 · bucket list</div>
+      <div class="lg"><i style="background:#7fd8ff"></i>Bigger dot = higher score</div>
+      <div class="lg"><span class="ln" style="border-color:#ffcd6e"></span>Highway</div>
+      <div class="lg"><span class="ln" style="border-color:#a78bfa;border-top-style:dashed"></span>Alaska Railroad</div>
+      <div class="lg"><span class="ln" style="border-color:#7fd8ff;border-top-style:dotted"></span>Ferry (AMHS)</div>
+      <div class="lg"><i style="background:rgba(150,225,255,.55);border-radius:2px"></i>Glacier / icefield</div>
+      <div class="lg"><i style="background:rgba(74,222,128,.35);border-radius:2px"></i>National park</div>
+    </div>
+
+    <div class="mapui monthbar">
+      <div class="mrow" id="months"></div>
+      <div class="minfo" id="minfo"></div>
+    </div>
+
+    <div class="scalebar">
+      <span id="scaleTxt">—</span> · <span id="zoomLbl">1×</span>
+      <div class="bar" id="scaleBar" style="width:60px"></div>
+    </div>
+  </main>
+</div>
+
+<div id="modal"><div class="box" id="modalBox"></div></div>
+<div class="toast" id="toast"></div>
+
+<script>/*__JS__*/</script>
+</body>
+</html>
