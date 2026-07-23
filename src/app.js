@@ -833,24 +833,28 @@ function toggleTrip(id) {
   renderTrip(); renderList(); draw(); syncHash();
   if (sel) renderDetail(sel);
 }
+// Alaska's road network is one connected blob plus two islands you can only reach by
+// boat or plane. Mode follows the network, not the activity you do when you get there.
+const ROADNET = ['Southcentral', 'Kenai Peninsula', 'Interior', 'Wrangell-Copper-Valdez', 'Arctic'];
 function legOf(a, b) {
   const km = haversine(a, b);
-  const air = ['air-only', 'cruise-port'].includes(a.access) || ['air-only', 'cruise-port'].includes(b.access);
-  const water = a.access === 'ferry' || b.access === 'ferry' || a.access === 'boat-tour' || b.access === 'boat-tour';
-  const noRoadRegions = ['Southeast', 'Southwest', 'Aleutians-Bering'];
-  const crossWater = noRoadRegions.includes(a.region) !== noRoadRegions.includes(b.region) ||
-    (noRoadRegions.includes(a.region) && a.region !== b.region);
-  // known road leg between hubs beats the estimate
-  if (a.hub && b.hub && !crossWater) {
-    const key = (x, y) => x.toLowerCase().replace(/[^a-z]/g, '') + '|' + y.toLowerCase().replace(/[^a-z]/g, '');
-    const want = [key(a.hub, b.hub), key(b.hub, a.hub)];
-    const d = HUBS.drives.find(dr => want.includes(key(dr.from, dr.to)));
-    if (d && d.hours) return { km: Math.round(d.miles * 1.609), h: d.hours, mode: d.mode || 'drive', note: d.road || '' };
-  }
   if (km < 1) return { km: 0, h: 0, mode: 'walk', note: '' };
-  if (air || crossWater || km > 700) return { km: Math.round(km), h: +(km / 320 + 2).toFixed(1), mode: 'fly', note: 'no road link' };
-  if (water) return { km: Math.round(km), h: +(km / 32 + 1).toFixed(1), mode: 'ferry', note: '' };
-  return { km: Math.round(km * 1.28), h: +(km * 1.28 / 78).toFixed(1), mode: 'drive', note: '' };
+  const flyIn = a.access === 'air-only' || b.access === 'air-only';
+  const roadA = ROADNET.includes(a.region), roadB = ROADNET.includes(b.region);
+  const bothSE = a.region === 'Southeast' && b.region === 'Southeast';
+
+  if (roadA && roadB && !flyIn) {                       // a known leg beats an estimate
+    if (a.hub && b.hub) {
+      const key = x => x.toLowerCase().replace(/[^a-z]/g, '');
+      const d = (HUBS.drives || []).find(dr =>
+        (key(dr.from) === key(a.hub) && key(dr.to) === key(b.hub)) ||
+        (key(dr.from) === key(b.hub) && key(dr.to) === key(a.hub)));
+      if (d && d.hours) return { km: Math.round(d.miles * 1.609), h: d.hours, mode: d.mode || 'drive', note: d.road || '' };
+    }
+    return { km: Math.round(km * 1.28), h: +(km * 1.28 / 78).toFixed(1), mode: 'drive', note: '' };
+  }
+  if (bothSE && !flyIn) return { km: Math.round(km * 1.15), h: +(km * 1.15 / 30 + 1.5).toFixed(1), mode: 'ferry', note: 'ferry or short hop' };
+  return { km: Math.round(km), h: +(km / 320 + 2).toFixed(1), mode: 'fly', note: flyIn ? 'bush flight' : 'no road link' };
 }
 function tripStats() {
   const st = trip.map(id => byId[id]).filter(Boolean);

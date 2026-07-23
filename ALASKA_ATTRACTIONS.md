@@ -1,6 +1,6 @@
 # Alaska — everything worth seeing, ranked
 
-*526 places, coordinate-verified, scored 1–100 for a first-time visitor. Generated 2026-07-22.*
+*613 places, coordinate-verified, scored 1–100 for a first-time visitor. Generated 2026-07-22.*
 
 Interactive map: **[the map](https://savcab.github.io/alaska-trip-map/)** — filter by season, category and access, then build a route.
 
@@ -12,9 +12,9 @@ Anchors — Denali NP 98, Kenai Fjords day cruise 93, Brooks Falls 92, Mendenhal
 | Tier | Score | Meaning | Count |
 |---|---|---|---|
 | 1 | 88–100 | Bucket list | 22 |
-| 2 | 72–87 | Major | 60 |
-| 3 | 50–71 | Worth it | 133 |
-| 4 | <50 | If nearby | 311 |
+| 2 | 72–87 | Major | 58 |
+| 3 | 50–71 | Worth it | 136 |
+| 4 | <50 | If nearby | 397 |
 
 ## The top 50
 
@@ -22,124 +22,124 @@ Anchors — Denali NP 98, Kenai Fjords day cruise 93, Brooks Falls 92, Mendenhal
 |--:|---|---|---|--:|---|---|---|
 | 1 | **Denali National Park & Preserve** | Interior | national-park | 98 | 1d | 6,7,8,9 | road |
 | 2 | **Kenai Fjords National Park Day Cruise** | Kenai Peninsula | boat-cruise | 93 | 8h | 6,7,8 | boat-tour |
-| 3 | **Brooks Falls** | Southwest | wildlife | 92 | 10h | 6,7,9 | air-only |
-| 4 | **Glacier Bay National Park - Bartlett Cove** | Southeast | national-park | 91 | 6h | 6,7,8 | air-only |
-| 5 | **Mendenhall Glacier & Visitor Center** | Southeast | glacier | 88 | 3h | 5,6,7,8,9 | road |
-| 6 | **Talkeetna Denali Flightseeing & Glacier Landing** | Interior | flightseeing | 88 | 3h | 5,6,7,8,9 | air-only |
-| 7 | **Denali Park Road** | Interior | scenic-drive | 86 | 5h | 6,7,8,9 | road |
-| 8 | **Seward Highway** | Southcentral | scenic-drive | 86 | 4h | 5,6,7,8,9 | road |
-| 9 | **Alaska Railroad Denali Star** | Interior | railroad | 85 | 12h | 5,6,7,8,9 | rail |
-| 10 | **Chena Hot Springs Resort** | Interior | hot-springs | 84 | 1d | 1,2,3,6,7,8,9,10,11,12 | road |
-| 11 | **Margerie Glacier** | Southeast | glacier | 84 | 1.5h | 6,7,8,9 | boat-tour |
-| 12 | **White Pass & Yukon Route Railroad** | Southeast | railroad | 84 | 3h | 5,6,7,8,9 | rail |
-| 13 | **Auke Bay whale watching (Stephens Passage)** | Southeast | wildlife | 83 | 4h | 6,7,8,9 | boat-tour |
-| 14 | **Kennecott Mines National Historic Landmark** | Southeast | historic-site | 83 | 8h | 6,7,8,9 | road |
-| 15 | **Wrangell-St. Elias National Park & Preserve** | Southeast | national-park | 83 | 2d | 6,7,8,9 | road |
-| 16 | **Alaska Railroad Coastal Classic** | Kenai Peninsula | railroad | 82 | 4.5h | 5,6,7,8,9 | rail |
-| 17 | **Denali Flightseeing & Glacier Landings** | Interior | flightseeing | 82 | 3h | 6,7,8 | air-only |
-| 18 | **Endicott Arm & Dawes Glacier** | Southeast | glacier | 82 | 9h | 6,7,8,9 | boat-tour |
-| 19 | **Prince William Sound Glacier Cruise** | Kenai Peninsula | boat-cruise | 82 | 6h | 5,6,7,8,9 | boat-tour |
-| 20 | **Silver Salmon Creek** | Kenai Peninsula | wildlife | 82 | 8h | 6,7,8,9 | air-only |
-| 21 | **Alaska Native Heritage Center** | Southcentral | native-culture | 80 | 3h | 5,6,7,8,9 | road |
-| 22 | **Alaska Railroad Coastal Classic (Seward Depot)** | Kenai Peninsula | railroad | 80 | 4.5h | 5,6,7,8,9 | rail |
-| 23 | **Brooks Camp** | Southwest | wilderness-lodge | 80 | 2d | 6,7,8,9 | air-only |
-| 24 | **Dalton Highway** | Interior | scenic-drive | 80 | 2d | 6,7,8,9 | road |
-| 25 | **Harding Icefield Trail** | Kenai Peninsula | hike-trail | 80 | 8h | 7,8,9 | trail |
-| 26 | **Iditarod Ceremonial Start** | Interior | festival-event | 80 | 4h | 2,3 | road |
-| 27 | **Juneau** | Southeast | town-city | 80 | 1d | 5,6,7,8,9 | cruise-port |
-| 28 | **Matanuska Glacier** | Wrangell-Copper-Valdez | glacier | 80 | 5h | 5,6,7,8,9 | road |
-| 29 | **Seward Highway - Turnagain Arm** | Kenai Peninsula | scenic-drive | 80 | 3h | 5,6,7,8,9 | road |
-| 30 | **Juneau Icefield helicopter tour & glacier dog camp** | Southeast | flightseeing | 79 | 2.5h | 6,7,8 | air-only |
-| 31 | **Klondike Gold Rush National Historical Park** | Southeast | historic-site | 79 | 3h | 5,6,7,8,9 | road |
-| 32 | **Misty Fjords National Monument** | Southeast | national-park | 79 | 4h | 6,7,8,9 | air-only |
-| 33 | **Sitka** | Southeast | town-city | 79 | 10h | 5,6,7,8,9 | cruise-port |
-| 34 | **Exit Glacier** | Kenai Peninsula | glacier | 78 | 3h | 6,7,8,9 | road |
-| 35 | **Homer Spit** | Kenai Peninsula | town-city | 78 | 4h | 6,7,8 | road |
-| 36 | **Dawson City** | Southcentral | town-city | 77 | 1d | 6,7,8,9 | road |
-| 37 | **AMHS Southeast Mainline** | Southeast | ferry-route | 76 | 1.6d | 5,6,7,8,9 | ferry |
-| 38 | **Anan Wildlife Observatory** | Southeast | wildlife | 76 | 8h | 7,8 | boat-tour |
-| 39 | **Hubbard Glacier** | Southeast | glacier | 76 | 2h | 6,7,8 | boat-tour |
-| 40 | **Murphy Dome** | Interior | aurora | 76 | 4h | 1,2,3,9,10,11,12 | road |
-| 41 | **Prince William Sound 26 Glacier Cruise** | Kenai Peninsula | boat-cruise | 76 | 6h | 6,7,8 | boat-tour |
-| 42 | **Root Glacier Trail** | Southeast | hike-trail | 76 | 5h | 6,7,8,9 | trail |
-| 43 | **Savage River** | Interior | hike-trail | 76 | 3h | 6,7,8,9 | road |
-| 44 | **Sitka National Historical Park** | Southeast | historic-site | 76 | 2h | 5,6,7,8,9 | cruise-port |
-| 45 | **Skagway** | Southeast | town-city | 76 | 8h | 5,6,7,8,9 | cruise-port |
-| 46 | **University of Alaska Museum of the North** | Interior | museum-culture | 76 | 2.5h | 1,2,3,4,5,6,7,8,9,10,11,12 | road |
-| 47 | **Top of the World Highway** | Southcentral | scenic-drive | 75 | 4h | 6,7,8,9 | road |
-| 48 | **Alaska Railroad Glacier Discovery** | Southcentral | railroad | 74 | 9h | 6,7,8,9 | rail |
-| 49 | **Alaska Wildlife Conservation Center** | Kenai Peninsula | wildlife | 74 | 2h | 5,6,7,8,9 | road |
-| 50 | **Alyeska Resort** | Interior | winter-sport | 74 | 8h | 1,2,3,4,6,7,8,9,12 | road |
+| 3 | **Brooks Falls** | Southwest | wildlife | 92 | 8h | 6,7,8,9 | air-only |
+| 4 | **Glacier Bay National Park - Bartlett Cove** | Southeast | national-park | 89 | 6h | 5,6,7,8,9 | air-only |
+| 5 | **Talkeetna Denali Flightseeing & Glacier Landing** | Interior | flightseeing | 88 | 3h | 5,6,7,8,9 | air-only |
+| 6 | **Denali Park Road** | Interior | scenic-drive | 86 | 5h | 6,7,8,9 | road |
+| 7 | **Seward Highway** | Southcentral | scenic-drive | 86 | 4h | 5,6,7,8,9 | road |
+| 8 | **Alaska Railroad Denali Star** | Interior | railroad | 85 | 12h | 5,6,7,8,9 | rail |
+| 9 | **Chena Hot Springs Resort** | Interior | hot-springs | 84 | 1d | 1,2,3,6,7,8,9,10,11,12 | road |
+| 10 | **Mendenhall Glacier & Visitor Center** | Southeast | glacier | 84 | 3h | 5,6,7,8,9 | road |
+| 11 | **Kennecott Mines National Historic Landmark** | Southeast | historic-site | 83 | 8h | 6,7,8,9 | road |
+| 12 | **Wrangell-St. Elias National Park & Preserve** | Southeast | national-park | 83 | 2d | 6,7,8,9 | road |
+| 13 | **Alaska Railroad Coastal Classic** | Kenai Peninsula | railroad | 82 | 4.5h | 5,6,7,8,9 | rail |
+| 14 | **Denali Flightseeing & Glacier Landings** | Interior | flightseeing | 82 | 3h | 6,7,8 | air-only |
+| 15 | **Prince William Sound Glacier Cruise** | Kenai Peninsula | boat-cruise | 82 | 6h | 5,6,7,8,9 | boat-tour |
+| 16 | **White Pass & Yukon Route Railroad** | Southeast | railroad | 81 | 3h | 5,6,7,8,9 | rail |
+| 17 | **Alaska Native Heritage Center** | Southcentral | native-culture | 80 | 3h | 5,6,7,8,9 | road |
+| 18 | **Alaska Railroad Coastal Classic (Seward Depot)** | Kenai Peninsula | railroad | 80 | 4.5h | 5,6,7,8,9 | rail |
+| 19 | **Dalton Highway** | Interior | scenic-drive | 80 | 2d | 6,7,8,9 | road |
+| 20 | **Harding Icefield Trail** | Kenai Peninsula | hike-trail | 80 | 8h | 7,8,9 | trail |
+| 21 | **Iditarod Ceremonial Start** | Interior | festival-event | 80 | 4h | 2,3 | road |
+| 22 | **Matanuska Glacier** | Wrangell-Copper-Valdez | glacier | 80 | 5h | 5,6,7,8,9 | road |
+| 23 | **Seward Highway - Turnagain Arm** | Kenai Peninsula | scenic-drive | 80 | 3h | 5,6,7,8,9 | road |
+| 24 | **Silver Salmon Creek** | Kenai Peninsula | wildlife | 80 | 8h | 6,7,8,9 | air-only |
+| 25 | **Klondike Gold Rush National Historical Park** | Southeast | historic-site | 79 | 3h | 5,6,7,8,9 | road |
+| 26 | **Endicott Arm & Dawes Glacier** | Southeast | glacier | 78 | 9h | 6,7,8,9 | boat-tour |
+| 27 | **Exit Glacier** | Kenai Peninsula | glacier | 78 | 3h | 6,7,8,9 | road |
+| 28 | **Gates of the Arctic National Park & Preserve** | Arctic | national-park | 78 | 4d | 6,7,8 | air-only |
+| 29 | **Homer Spit** | Kenai Peninsula | town-city | 78 | 4h | 6,7,8 | road |
+| 30 | **Auke Bay whale watching (Stephens Passage)** | Southeast | wildlife | 77 | 4h | 6,7,8,9 | boat-tour |
+| 31 | **Dawson City** | Southcentral | town-city | 77 | 1d | 6,7,8,9 | road |
+| 32 | **Juneau** | Southeast | town-city | 77 | 1d | 5,6,7,8,9 | cruise-port |
+| 33 | **AMHS Southeast Mainline** | Southeast | ferry-route | 76 | 1.6d | 5,6,7,8,9 | ferry |
+| 34 | **Anan Wildlife Observatory** | Southeast | wildlife | 76 | 7h | 7,8 | boat-tour |
+| 35 | **Juneau Icefield helicopter tour & glacier dog camp** | Southeast | flightseeing | 76 | 2.5h | 5,6,7,8,9 | air-only |
+| 36 | **Misty Fjords National Monument** | Southeast | national-park | 76 | 4h | 5,6,7,8,9 | air-only |
+| 37 | **Murphy Dome** | Interior | aurora | 76 | 4h | 1,2,3,9,10,11,12 | road |
+| 38 | **Prince William Sound 26 Glacier Cruise** | Kenai Peninsula | boat-cruise | 76 | 6h | 6,7,8 | boat-tour |
+| 39 | **Root Glacier Trail** | Southeast | hike-trail | 76 | 5h | 6,7,8,9 | trail |
+| 40 | **Savage River** | Interior | hike-trail | 76 | 3h | 6,7,8,9 | road |
+| 41 | **Sitka National Historical Park** | Southeast | historic-site | 76 | 2h | 5,6,7,8,9 | cruise-port |
+| 42 | **University of Alaska Museum of the North** | Interior | museum-culture | 76 | 2.5h | 1,2,3,4,5,6,7,8,9,10,11,12 | road |
+| 43 | **Sitka** | Southeast | town-city | 75 | 10h | 5,6,7,8,9 | cruise-port |
+| 44 | **Top of the World Highway** | Southcentral | scenic-drive | 75 | 4h | 6,7,8,9 | road |
+| 45 | **Alaska Railroad Glacier Discovery** | Southcentral | railroad | 74 | 9h | 6,7,8,9 | rail |
+| 46 | **Alaska Wildlife Conservation Center** | Kenai Peninsula | wildlife | 74 | 2h | 5,6,7,8,9 | road |
+| 47 | **Alyeska Resort** | Interior | winter-sport | 74 | 8h | 1,2,3,4,6,7,8,9,12 | road |
+| 48 | **Columbia Glacier cruise** | Wrangell-Copper-Valdez | boat-cruise | 74 | 6h | 6,7,8 | boat-tour |
+| 49 | **George Parks Highway** | Interior | scenic-drive | 74 | 8h | 5,6,7,8,9 | road |
+| 50 | **Homer Bear-Viewing Flights (Katmai / Lake Clark)** | Kenai Peninsula | flightseeing | 74 | 7h | 6,7,8 | air-only |
 
 ## Everything, by region
 
-### Southcentral  *(47)*
+### Southcentral  *(55)*
 
-- **#8 Seward Highway** · `86` · scenic-drive
+- **#7 Seward Highway** · `86` · scenic-drive
   - 127mi Anchorage-Seward along Turnagain Arm then over Turnagain Pass; the only triple-designated byway in the US.
   - *Tip:* Budget 4h, not the 2.5h Google says - the pullouts are the point. Coord is Turnagain Pass rest area, MP 68.
   - 4h · Free · road · months 5,6,7,8,9 · `60.8033, -149.1853`
-- **#21 Alaska Native Heritage Center** · `80` · native-culture
+- **#17 Alaska Native Heritage Center** · `80` · native-culture
   - Recreated village sites from all 11 Alaska Native culture groups around a lake, plus dance, storytelling and artist demos.
   - *Tip:* Arrive by 10am for the first dance set, then walk the lake loop; combo ticket with Anchorage Museum saves money.
   - 3h · $32 adult summer / $15 suggested winter · road · months 5,6,7,8,9 · `61.2261, -149.7166`
-- **#36 Dawson City** · `77` · town-city
+- **#31 Dawson City** · `77` · town-city
   - Klondike gold-rush town with dirt streets, boardwalks, Diamond Tooth Gerties gambling hall and Dredge No. 4.
   - *Tip:* Passport needed and Yukon runs 1 hr ahead of Alaska - budget the time change when planning your border crossing.
   - 1d · Free to wander; site tours ~C$10-20 · road · months 6,7,8,9 · `64.0607, -139.4317`
-- **#47 Top of the World Highway** · `75` · scenic-drive
+- **#44 Top of the World Highway** · `75` · scenic-drive
   - 79mi ridgeline gravel road from Jack Wade Junction to Dawson City, running along the crest above treeline the whole way.
   - *Tip:* Poker Creek is the northernmost US border post and shuts at 6pm AK time sharp - miss it and you are sleeping on the ridge.
   - 4h · Free (Yukon River ferry at Dawson is free) · road · months 6,7,8,9 · `64.0686, -139.4641`
-- **#48 Alaska Railroad Glacier Discovery** · `74` · railroad
+- **#45 Alaska Railroad Glacier Discovery** · `74` · railroad
   - Anchorage-Girdwood-Portage-Whittier plus the whistle-stop leg to Spencer Glacier and Grandview, dropping hikers and rafters.
   - *Tip:* Spencer Glacier is only reachable by this train - 1.3mi walk to the lake, or book a float trip that ends at Portage.
   - 9h · ~$85-115 round trip Anchorage-Spencer; Whittier  · rail · months 6,7,8,9 · `60.7059, -149.0535` · **book ahead**
-- **#71 Hatcher Pass** · `70` · scenic-drive
+- **#68 Hatcher Pass** · `70` · scenic-drive
   - 3,886ft alpine pass above Palmer: open tundra, mine ruins, blueberries in August, paragliders and marmots.
   - *Tip:* Summit road over to Willow opens around July 1 and shuts by October - check DNR conditions before planning the loop.
   - 4h · Free ($5 at some lots) · road · months 7,8,9 · `61.7728, -149.2864`
-- **#79 Iditarod Official Restart, Willow Lake** · `69` · festival-event
+- **#74 Iditarod Official Restart, Willow Lake** · `69` · festival-event
   - Where the race actually starts: teams launch off frozen Willow Lake, 80mi north of Anchorage on the Parks Hwy.
   - *Tip:* Parks Hwy backs up badly after 1pm - leave Anchorage by 10am. 2025's low-snow year moved it to Fairbanks; 2026 was back at Willow.
   - 6h · Free; ~$20 parking · road · months 3 · `61.7444, -150.0364`
-- **#95 Flattop Mountain Trail** · `66` · hike-trail
+- **#86 Flattop Mountain Trail** · `66` · hike-trail
   - Alaska's most-climbed peak: 1.5mi and 1,350ft to a 3,510ft summit above Anchorage, Cook Inlet and the Alaska Range.
   - *Tip:* Last 300ft is loose-rock scramble - skip it when wet. Glen Alps lot fills by 10am summer weekends; overflow is a walk.
   - 3h · $5 state park parking · road · months 6,7,8,9 · `61.1024, -149.6825`
-- **#112 Portage Glacier Highway & Whittier Tunnel** · `64` · scenic-drive
+- **#104 Portage Glacier Highway & Whittier Tunnel** · `64` · scenic-drive
   - 2.5mi single-lane tunnel under Maynard Mtn, the longest highway tunnel in North America and shared with the railroad.
   - *Tip:* Traffic alternates: into Whittier on the :30, out on the :00. Arrive 15 min early and check the schedule - you can get stuck.
   - 2h · $13 toll per 2-axle car, eastbound only; return  · road · months 5,6,7,8,9 · `60.7831, -148.7683`
-- **#123 Independence Mine State Historical Park** · `62` · historic-site
+- **#118 Independence Mine State Historical Park** · `62` · historic-site
   - Ruins of a 1930s hard-rock gold camp at 3,500 ft in Hatcher Pass: bunkhouses, mill and assay office on alpine tundra.
   - *Tip:* Only the Palmer side is plowed - you cannot drive through to Willow before late June. Avalanche terrain above the lot.
   - 3h · $5 parking; $6 guided tour · road · months 1,2,3,4,6,7,8,9,12 · `61.7896, -149.2836`
-- **#147 Bird Point** · `58` · viewpoint
+- **#144 Bird Point** · `58` · viewpoint
   - Best pullout for Turnagain Arm's bore tide - a 2-6ft wall of water that surfers and paddleboarders ride up the Arm.
   - *Tip:* Arrive about 2h15m after Anchorage low tide; the wave is biggest on tides of -4.0ft or lower. Free tide charts online.
   - 1.5h · $5 parking · road · months 5,6,7,8,9 · `60.9539, -149.3536`
-- **#151 Eklutna Lake** · `58` · hike-trail
+- **#148 Eklutna Lake** · `58` · hike-trail
   - 7-mile turquoise glacial lake in Chugach State Park with a flat lakeside trail, campground and kayak/bike rentals.
   - *Tip:* Lakeside Trail is gravel and bike-legal; ATVs allowed Sun-Wed only. Eklutna Glacier is 13mi in - a full-day ride.
   - 5h · $5 parking · road · months 6,7,8,9 · `61.4103, -149.1381`
-- **#162 Spencer Glacier Whistle Stop** · `58` · glacier
+- **#160 Spencer Glacier Whistle Stop** · `58` · glacier
   - Rail-only stop on the Glacier Discovery train; 1.3 mi of trail to an iceberg lake below Spencer Glacier.
   - *Tip:* The train gives you about 4 hours on the ground - the float back down the Placer River must be booked ahead.
   - 8h · ~$100 round-trip rail from Anchorage · rail · months 6,7,8,9 · `60.7167, -148.9083` · **book ahead**
-- **#172 Crow Pass Trail** · `56` · hike-trail
+- **#170 Crow Pass Trail** · `56` · hike-trail
   - 3.5mi climb from Girdwood to a 3,500ft pass past mine ruins, a waterfall and Raven Glacier; start of the 23mi traverse.
   - *Tip:* Day-hiking to the pass and back is plenty. The full traverse fords Eagle River waist-deep - cross before noon.
   - 6h · Free (Forest Service cabin $75/night) · trail · months 7,8,9 · `60.9878, -149.0656`
-- **#175 Knik Glacier** · `56` · glacier
+- **#173 Knik Glacier** · `56` · glacier
   - Five-mile-wide glacier calving into a berg-filled lake 25 miles up the Knik River, with no road to it at all.
   - *Tip:* Jetboat tours (~4-5 hrs) launch off Knik River Rd near Palmer; icebergs are thickest late June through August.
   - 5h · $180+ jetboat tour · boat-tour · months 6,7,8 · `61.4600, -148.4600` · **book ahead**
-- **#183 Alaska State Fair giant cabbage weigh-off** · `55` · festival-event
+- **#181 Alaska State Fair giant cabbage weigh-off** · `55` · festival-event
   - Alaska's biggest annual event in Palmer: giant-vegetable weigh-offs (1,000lb+ pumpkins), lumberjack shows, concerts.
   - *Tip:* The cabbage weigh-off happens the opening weekend - go then if the giant vegetables are why you're coming.
   - 6h · ~$18 gate admission · road · months 8,9 · `61.5714, -149.0967`
-- **#185 Beluga Point** · `55` · viewpoint
+- **#187 Beluga Point** · `55` · viewpoint
   - Rock-outcrop pullout 17mi south of Anchorage; the classic Turnagain Arm stop for belugas, bore tides and Dall sheep.
   - *Tip:* Belugas chase eulachon here late May and silvers in Aug. The bore arrives ~2h after Anchorage low tide - check the tables.
   - 0.5h · Free · road · months 4,5,6,7,8,9 · `61.0053, -149.6942`
@@ -147,661 +147,789 @@ Anchors — Denali NP 98, Kenai Fjords day cruise 93, Brooks Falls 92, Mendenhal
   - 1935 New Deal farm-colony town under Pioneer Peak - walkable downtown, colony-era barns, and Alaska's farm belt.
   - *Tip:* Best base for Hatcher Pass, Matanuska Glacier and the State Fair; the Colony House Museum sits on Elmwood Ave.
   - 3h · Free · road · months 5,6,7,8,9 · `61.5994, -149.1133`
-- **#222 Moose's Tooth Pub & Pizzeria** · `52` · food-drink
+- **#226 Moose's Tooth Pub & Pizzeria** · `52` · food-drink
   - Anchorage institution pouring its own beer beside huge specialty pizzas; among the busiest independent pizzerias in the US.
   - *Tip:* No reservations and 45-90 min waits at dinner. Put your name in and walk over, or order takeout to skip the line.
   - 1.5h · $20-30 per person · road · months 1,2,3,4,5,6,7,8,9,10,11,12 · `61.1897, -149.8639`
-- **#224 Musk Ox Farm** · `52` · wildlife
+- **#228 Musk Ox Farm** · `52` · wildlife
   - Nonprofit farm outside Palmer raising domesticated muskoxen for qiviut wool; guided tours get you within feet of the herd.
   - *Tip:* Tours leave on the half hour in summer. Calves are out May-June. Qiviut yarn in the shop runs $95+ a skein.
   - 1.5h · ~$18 guided tour · road · months 5,6,7,8,9 · `61.6275, -149.0892`
-- **#225 Reed Lakes Trail** · `52` · hike-trail
+- **#229 Reed Lakes Trail** · `52` · hike-trail
   - 9mi round trip up Archangel Valley over a big boulder field to two turquoise alpine lakes under granite walls.
   - *Tip:* The best hike in Hatcher Pass. Trailhead is Mile 2.5 Archangel Rd (rough gravel); the boulder field slows everyone down.
   - 7h · Free · road · months 7,8,9 · `61.7908, -149.1494`
-- **#232 Bird Point Scenic Overlook** · `50` · viewpoint
+- **#236 Bird Point Scenic Overlook** · `50` · viewpoint
   - Big paved wayside with elevated viewing decks over the mudflats; the best public spot to watch a Turnagain Arm bore tide.
   - *Tip:* The bore reaches Bird Point about 2h15m after low tide at Anchorage; biggest 2-3 days after a new or full moon.
   - 0.5h · Free · road · months 5,6,7,8,9 · `60.9294, -149.3465`
-- **#253 Iditarod Trail Sled Dog Race Headquarters** · `48` · museum-culture
+- **#260 Iditarod Trail Sled Dog Race Headquarters** · `48` · museum-culture
   - Wasilla headquarters and museum of the 1,000-mile race: sleds, gear, trophies, films, and a kennel of working huskies.
   - *Tip:* Easy 45min stop on the way to Denali. Puppy availability is seasonal - call ahead if that's the reason you're going.
   - 1.5h · Free entry; about $15 for a wheeled sled-dog rid · road · months 3,5,6,7,8,9 · `61.5644, -149.4586`
-- **#269 Alaska Aviation Museum** · `46` · museum-culture
+- **#277 Alaska Aviation Museum** · `46` · museum-culture
   - Bush-plane history hangars on Lake Hood, the world's busiest floatplane base, with a deck over the taxiway.
   - *Tip:* Floatplane watching from Lake Hood Air Harbor Dr is free; traffic peaks 8-11am on clear summer mornings.
   - 1.5h · $20 adult · road · months 5,6,7,8,9 · `61.1786, -149.9694`
-- **#277 Eklutna Historical Park** · `46` · native-culture
+- **#285 Eklutna Historical Park** · `46` · native-culture
   - Dena'ina Athabascan cemetery of brightly painted spirit houses beside the oldest standing building in the Anchorage area.
   - *Tip:* The 1830s Old St. Nicholas log chapel is only enterable with a guide - tours run on the hour in summer.
   - 1h · $15 guided tour · road · months 5,6,7,8,9 · `61.4636, -149.3608`
-- **#299 Snow City Cafe** · `45` · food-drink
+- **#310 Snow City Cafe** · `45` · food-drink
   - Downtown Anchorage's default breakfast: crab cake Benedict, reindeer sausage hash, open 7am every day.
   - *Tip:* Weekend waits pass 45min - use the online waitlist from your hotel, or walk in between 7 and 8am.
   - 1h · $15-22 · road · months 1,2,3,4,5,6,7,8,9,10,11,12 · `61.2184, -149.9032`
-- **#302 Tordrillo Mountain Lodge** · `45` · wilderness-lodge
+- **#313 Tordrillo Mountain Lodge** · `45` · wilderness-lodge
   - Judd Lake heli-ski and adventure lodge in the Tordrillo Mountains, 40min by floatplane west of Anchorage.
   - *Tip:* Spring corn-snow heli weeks sell out a year ahead; summer swaps skis for glacier trekking and king salmon.
   - 3d · $8,000-12,000 per week · air-only · months 3,4,5,6,7,8 · `61.5669, -151.5468` · **book ahead**
-- **#325 Potter Marsh Boardwalk** · `44` · wildlife
+- **#339 Potter Marsh Boardwalk** · `44` · wildlife
   - 1550ft boardwalk over a marsh at the very start of the Seward Highway; trumpeter swans, arctic terns, moose, spawning salmon.
   - *Tip:* First stop leaving Anchorage and the easiest wildlife on the whole drive. Best light and bird activity before 9am.
   - 1h · Free · road · months 5,6,7,8 · `61.1106, -149.7956`
-- **#331 Winner Creek Trail** · `44` · hike-trail
+- **#340 Powerline Pass Trail** · `44` · hike-trail
+  - Wide 11-mi valley trail from Glen Alps into Chugach State Park - moose, Dall sheep and Anchorage's best blueberry picking.
+  - *Tip:* Berries ripen late Jul-early Sep on the slopes past Mile 2; the Glen Alps lot fills by 10am on summer weekends.
+  - 4h · $5 state park parking · road · months 7,8,9 · `61.0672, -149.5911`
+- **#348 Winner Creek Trail** · `44` · hike-trail
   - Flat 2.5mi boardwalk-and-dirt trail from Alyeska through mossy hemlock rainforest to a gorge footbridge over Glacier Creek.
   - *Tip:* The famous hand tram was removed in 2021 and replaced by a bridge. Trailhead is behind the hotel; largely stroller-OK.
   - 2.5h · Free · road · months 6,7,8,9 · `60.9700, -149.0956`
-- **#332 Winterlake Lodge** · `44` · wilderness-lodge
+- **#349 Winterlake Lodge** · `44` · wilderness-lodge
   - Iditarod Trail lodge on Finger Lake, 45min by floatplane from Anchorage: cooking school, sled kennel, alpine hikes.
   - *Tip:* It is a real Iditarod checkpoint - the race passes the door in early March. Floatplane summer, ski plane winter.
   - 2d · ~$1,500 per person per night, all-inclusive · air-only · months 2,3,6,7,8 · `61.9873, -152.0762` · **book ahead**
-- **#334 49th State Brewing - Anchorage** · `42` · food-drink
+- **#351 49th State Brewing - Anchorage** · `42` · food-drink
   - Downtown brewpub with a rooftop deck over Cook Inlet toward Mt. Susitna; big menu, house beer, live music.
   - *Tip:* Rooftop is first-come and fills by 6pm on clear evenings; three blocks from the Alaska Railroad depot.
   - 2h · $18-32 mains · road · months 5,6,7,8,9 · `61.2198, -149.8958`
-- **#335 Alaska Federation of Natives Convention & Elders and Youth** · `42` · festival-event
+- **#352 Alaska Federation of Natives Convention & Elders and Youth** · `42` · festival-event
   - Largest annual gathering of Alaska Native people: thousands of delegates, dance groups and a huge craft market.
   - *Tip:* Venue rotates between Anchorage's Dena'ina Center and Fairbanks by year; hotels sell out months ahead.
   - 1d · Free to attend; registration required · road · months 10 · `61.2168, -149.8891` · **book ahead**
-- **#345 George Black Ferry** · `42` · ferry-route
+- **#364 George Black Ferry** · `42` · ferry-route
   - Free Yukon government cable ferry across the Yukon River linking Dawson City to the Top of the World Highway.
   - *Tip:* First-come queues at the foot of Front Street can run 1-2 hrs midday in July; tour buses get priority 6-9am and 5-9pm.
   - 0.5h · Free · ferry · months 6,7,8,9 · `64.0637, -139.4344`
-- **#354 Reindeer Farm** · `42` · wildlife
+- **#377 Reindeer Farm** · `42` · wildlife
   - Old Matanuska Colony farm under Pioneer Peak where you walk into the pen and hand-feed reindeer; also elk and bison.
   - *Tip:* Wear boots - the pens are muddy. Combines with the Musk Ox Farm and Hatcher Pass into one Palmer day.
   - 1.5h · ~$18 adult · road · months 5,6,7,8,9 · `61.5408, -149.0593`
-- **#357 Ted Stevens Anchorage International Airport** · `42` · town-city
+- **#380 Ted Stevens Anchorage International Airport** · `42` · town-city
   - Alaska's main air gateway and the connecting hub for essentially every in-state flight; 15 min from downtown.
   - *Tip:* Book summer rental cars 3+ months out - Anchorage routinely sells out of vehicles in July at any price.
   - 1h · Free · road · months 1,2,3,4,5,6,7,8,9,10,11,12 · `61.1744, -149.9961` · **book ahead**
-- **#360 Windy Corner** · `42` · viewpoint
+- **#383 Windy Corner** · `42` · viewpoint
   - Cliff band where Dall sheep come to a mineral lick right beside the road - roughly the only place they are seen at sea level.
   - *Tip:* Park in the gravel pullout on the water side and walk back; stopping in the travel lane here causes wrecks and tickets.
   - 0.5h · Free · road · months 5,6,7 · `60.9848, -149.6044`
-- **#363 Alaska Public Lands Information Center - Anchorage** · `40` · museum-culture
+- **#386 Alaska Public Lands Information Center - Anchorage** · `40` · museum-culture
   - One desk covering every NPS, USFS, BLM, refuge and state unit in Alaska - maps, permits, ranger advice.
   - *Tip:* Make it your day-one stop: bear-viewing and public-use-cabin advice you cannot get from any one website.
   - 1h · Free · road · months 5,6,7,8,9 · `61.2171, -149.8925`
-- **#377 Lake Hood Seaplane Base** · `40` · town-city
+- **#401 Lake Hood Seaplane Base** · `40` · town-city
   - World's busiest floatplane base beside ANC; most Anchorage bear-viewing and flightseeing trips leave here.
   - *Tip:* Arrive 30 min early and watch takeoffs from the gravel loop road - free, and the best plane-spotting in Alaska.
-  - 1h · Free to watch; charters $400+ per seat · road · months 6,7,8 · `61.1830, -149.9660` · **book ahead**
-- **#378 M.A.'s Gourmet Dogs (reindeer dogs)** · `40` · food-drink
+  - 1h · Free to watch; charters $400+ per seat · road · months 6,7,8 · `61.1832, -149.9663` · **book ahead**
+- **#402 M.A.'s Gourmet Dogs (reindeer dogs)** · `40` · food-drink
   - Downtown street cart at 4th & E doing the Anchorage reindeer sausage dog with grilled onions - the classic cheap bite.
   - *Tip:* Lunch only and gone by mid-afternoon or in hard rain; the line looks long but moves in a few minutes.
   - 0.5h · $8-12 · road · months 5,6,7,8,9 · `61.2170, -149.8886`
-- **#396 Chilkoot Charlie's** · `38` · food-drink
+- **#424 Chilkoot Charlie's** · `38` · food-drink
   - Sprawling Spenard nightclub: sawdust floors, multiple stages and a dozen themed bars under one tin roof.
   - *Tip:* Opens late (8pm-ish) and charges cover on band nights; take a cab - it is not a walk from downtown hotels.
   - 2h · Cover ~$10 on band nights · road · months 1,2,3,4,5,6,7,8,9,10,11,12 · `61.1983, -149.9047`
-- **#399 Girdwood Forest Fair** · `38` · festival-event
+- **#428 Girdwood Forest Fair** · `38` · festival-event
   - Three-day artisan fair in the Girdwood rainforest - no corporate booths and no politics, by charter since 1976.
   - *Tip:* Parking is hopeless; take the free shuttle or ride the bike path from Alyeska. Cash for most food booths.
   - 5h · Free · road · months 7 · `60.9412, -149.1673`
-- **#421 Thunderbird Falls** · `36` · hike-trail
+- **#431 Lynx Lake Canoe Route** · `38` · boat-cruise
+  - Marked canoe loop through 14 lakes in Nancy Lake State Rec Area, with public-use cabins you paddle straight up to.
+  - *Tip:* Cabins book six months out via Alaska State Parks; flat water and short portages make this a strong first canoe-camping trip.
+  - 2d · $85/night cabin; ~$60/day canoe · road · months 6,7,8 · `61.6739, -150.0122` · **book ahead**
+- **#457 Serenity Falls Hut, Eklutna Lake** · `36` · hike-trail
+  - A 13-room public hut 13 mi up the Eklutna Lakeside Trail - the largest bookable backcountry hut in Alaska, reachable by bike.
+  - *Tip:* The lakeside trail is flat; ride it in about 2 hrs. Reserve through Alaska State Parks and bring water treatment and a stove.
+  - 1d · ~$85/night for the hut · trail · months 6,7,8,9 · `61.3811, -148.9556` · **book ahead**
+- **#460 Thunderbird Falls** · `36` · hike-trail
   - Easy 1-mile forest walk to a viewing deck above a 200ft falls in a mossy gorge, right off the Glenn Highway.
   - *Tip:* Take the signed creek-side spur down to the base - it's the better view. Microspikes required Nov-Apr.
   - 1.5h · $5 parking · road · months 5,6,7,8,9 · `61.4536, -149.3661`
-- **#445 Midnight Sun Brewing Co.** · `33` · food-drink
+- **#481 Pioneer Peak Trail** · `34` · hike-trail
+  - Brutally steep 6-mi trail climbing 5,300 ft straight off the Knik River flats to the south knob above Palmer.
+  - *Tip:* Roughly 1,000 ft of gain per mile with no water on route; stop at the 5,300-ft knob unless you can scramble exposed rock.
+  - 8h · Free · road · months 6,7,8,9 · `61.5250, -149.0658`
+- **#488 Midnight Sun Brewing Co.** · `33` · food-drink
   - Anchorage craft brewery behind Sockeye Red IPA and Berserker stout, with an upstairs kitchen in an industrial park.
   - *Tip:* Off Old Seward at Dimond Hook - not walkable from downtown. The Loft kitchen shuts well before the taproom.
   - 1.5h · $7 pours, $15-20 plates · road · months 1,2,3,4,5,6,7,8,9,10,11,12 · `61.1472, -149.8447`
-- **#465 Big Lake** · `31` · fishing
+- **#512 Big Lake** · `31` · fishing
   - Mat-Su's winter playground 50mi from Anchorage: ice fishing for burbot and rainbow, plus a big snowmachine trail net.
   - *Tip:* Rent a heated ice shack rather than freelancing; check ADF&G ice-thickness reports, early-season ice here is unreliable.
   - 5h · $25 sport fishing license; ~$150 guided ice-fish · road · months 1,2,3 · `61.5417, -149.8304` · **book ahead**
-- **#472 Earthquake Park** · `30` · historic-site
+- **#521 Earthquake Park** · `30` · historic-site
   - Hummocky woods where the 1964 M9.2 quake slid the Turnagain Heights neighborhood toward Cook Inlet; interpretive panels.
   - *Tip:* The slide scars are subtle and overgrown, so read the panels first; strong Denali view from the Coastal Trail here.
   - 1h · Free · road · months 5,6,7,8,9 · `61.1955, -149.9755`
-- **#474 Fat Ptarmigan** · `30` · food-drink
+- **#523 Fat Ptarmigan** · `30` · food-drink
   - Small downtown wood-fired pizza room with an all-Alaska draft list, one block from the Anchorage Museum.
   - *Tip:* Closed Sundays, no reservations - grab the bar if tables are full. Good rainy-day pairing with the museum.
   - 1h · $18-24 pizza · road · months 1,2,3,4,5,6,7,8,9,10,11,12 · `61.2177, -149.8912`
-- **#502 Brown Bear Saloon** · `26` · food-drink
+- **#559 Brown Bear Saloon** · `26` · food-drink
   - Log roadhouse bar at Indian on Turnagain Arm, the surviving stop after the legendary Bird House Bar burned in 1996.
   - *Tip:* Mile ~103 Seward Hwy, 25min from Anchorage; the Bird House site down the road is gone, so this is the stand-in.
   - 0.75h · $7 beers · road · months 5,6,7,8,9 · `60.9856, -149.4980`
+- **#577 Eyak Lake & Power Creek Road** · `24` · scenic-drive
+  - Cordova's other road: 7 mi along Eyak Lake to the Power Creek trailhead and the Crater Lake climb above town.
+  - *Tip:* Gravel past the hatchery and prone to washouts - ask at the ranger district before committing a rental car.
+  - 3h · Free · road · months 5,6,7,8,9 · `60.5567, -145.6733`
+- **#578 Mount Eyak Ski Area** · `24` · winter-sport
+  - Volunteer-run community hill above Cordova spinning the oldest working chairlift in North America, a 1936 Sun Valley single.
+  - *Tip:* Open only a few days a week - check the hill's social feed the morning you want to ski, not the week before.
+  - 5h · ~$35 day ticket · road · months 1,2,3 · `60.5439, -145.7392`
+- **#597 Petersville Road & Forks Roadhouse** · `20` · scenic-drive
+  - Gravel spur off the Parks Highway toward old placer diggings; the Forks Roadhouse is the only stop for 30 mi.
+  - *Tip:* Paved 19 mi from Trapper Creek then rough - 2WD reaches Forks in summer, past that it is ATV country.
+  - 4h · Free · road · months 6,7,8 · `62.3769, -150.7469`
+- **#605 Skwentna** · `18` · town-city
+  - River settlement of about 60 on the Skwentna, the Iditarod's first major checkpoint and a bush-flying and fishing base.
+  - *Tip:* No road in - skiplane or floatplane from Willow. Race weekend in early March is the one time anything happens here.
+  - 1d · Air charter from Willow ~$300 pp round trip · air-only · months 3,6,7,8 · `61.8794, -151.2664` · **book ahead**
 
-### Kenai Peninsula  *(81)*
+### Kenai Peninsula  *(103)*
 
 - **#2 Kenai Fjords National Park Day Cruise** · `93` · boat-cruise
   - Boat trip from Seward to tidewater glaciers (Aialik, Holgate) past orcas, humpbacks, puffins and sea lions.
   - *Tip:* Take the 7.5-8hr Aialik/Northwestern boat, not the 4hr bay tour - the 4hr never reaches a tidewater glacier.
   - 8h · ~$200-260 for 6-8 hr cruise · boat-tour · months 6,7,8 · `59.9236, -149.6558` · **book ahead**
-- **#16 Alaska Railroad Coastal Classic** · `82` · railroad
+- **#13 Alaska Railroad Coastal Classic** · `82` · railroad
   - 114mi, 4.5h run down Turnagain Arm then through the roadless Placer valley, Grandview and Kenai Mountains to Seward.
   - *Tip:* The Grandview/Loop District stretch past Bartlett and Trail Glaciers has no road access - sit on the left going south.
   - 4.5h · ~$120 Adventure Class, ~$190 GoldStar one way · rail · months 5,6,7,8,9 · `60.1008, -149.4389` · **book ahead**
-- **#19 Prince William Sound Glacier Cruise** · `82` · boat-cruise
+- **#15 Prince William Sound Glacier Cruise** · `82` · boat-cruise
   - 5-hour catamaran from Whittier into College and Harriman Fjords past dozens of tidewater and hanging glaciers.
   - *Tip:* Phillips or Major Marine; book ahead for July. The Sound is far calmer than Kenai Fjords if anyone gets seasick.
   - 6h · $189-$219 adult · boat-tour · months 5,6,7,8,9 · `60.7772, -148.6875` · **book ahead**
-- **#20 Silver Salmon Creek** · `82` · wildlife
-  - Salt marsh and beach on Cook Inlet where brown bear sows graze sedge and dig clams within 30-50 yards.
-  - *Tip:* Closest thing to guaranteed bears from Homer (~1hr flight). June sedge and Sep silvers both work; July is clams.
-  - 8h · ~$750-950 day trip by float/wheel plane from Hom · air-only · months 6,7,8,9 · `59.9672, -152.7003` · **book ahead**
-- **#22 Alaska Railroad Coastal Classic (Seward Depot)** · `80` · railroad
+- **#18 Alaska Railroad Coastal Classic (Seward Depot)** · `80` · railroad
   - 4.5hr rail run Anchorage-Seward through Turnagain Arm, Placer Valley and the Kenai Mountains; no road parallels much of it.
   - *Tip:* Sit on the left leaving Anchorage. It arrives 11:05am - too late for a morning fjords cruise, so overnight in Seward.
   - 4.5h · ~$120-190 one-way Anchorage-Seward · rail · months 5,6,7,8,9 · `60.1234, -149.4386` · **book ahead**
-- **#25 Harding Icefield Trail** · `80` · hike-trail
+- **#20 Harding Icefield Trail** · `80` · hike-trail
   - 8.2mi round trip, 1000m gain from Exit Glacier to a rim view over a 1,100 sq mi icefield.
   - *Tip:* Start by 8am; the last mile holds snow into July and clouds usually swallow the rim by afternoon.
   - 8h · Free · trail · months 7,8,9 · `60.1806, -149.6556`
-- **#29 Seward Highway - Turnagain Arm** · `80` · scenic-drive
+- **#23 Seward Highway - Turnagain Arm** · `80` · scenic-drive
   - 50 miles of All-American Road pinned between cliffs and Turnagain Arm: extreme tides, Dall sheep, belugas, glaciers.
   - *Tip:* Southbound puts the water on your right. Use the signed pullouts only - the shoulder is narrow and the traffic fast.
   - 3h · Free · road · months 5,6,7,8,9 · `61.0111, -149.5583`
-- **#34 Exit Glacier** · `78` · glacier
+- **#24 Silver Salmon Creek** · `80` · wildlife
+  - Salt marsh and beach on Cook Inlet where brown bear sows graze sedge and dig clams within 30-50 yards.
+  - *Tip:* June bears graze sedge on the flats; late Jul-Aug they fish the creek. Beach landing, so tides set the schedule.
+  - 8h · ~$750-950 day trip by float/wheel plane from Hom · air-only · months 6,7,8,9 · `59.9672, -152.7003` · **book ahead**
+- **#27 Exit Glacier** · `78` · glacier
   - Only road-accessible piece of Kenai Fjords NP; paved 1mi loop to the outwash plain, 2.2mi loop to the Glacier Overlook.
   - *Tip:* Year markers along the road show the retreat - a free, brutal climate visual. Parking fills 11am-3pm.
   - 3h · Free (NPS) · road · months 6,7,8,9 · `60.1889, -149.6303`
-- **#35 Homer Spit** · `78` · town-city
+- **#29 Homer Spit** · `78` · town-city
   - 4.5mi gravel bar jutting into Kachemak Bay: boat harbor, charter row, boardwalk shacks, campgrounds, ferry dock.
   - *Tip:* Everything - halibut charters, water taxis, Halibut Cove ferry, AMHS - leaves from the Spit, not downtown Homer.
   - 4h · Free to walk; $ for everything on it · road · months 6,7,8 · `59.6033, -151.4258`
-- **#41 Prince William Sound 26 Glacier Cruise** · `76` · boat-cruise
+- **#38 Prince William Sound 26 Glacier Cruise** · `76` · boat-cruise
   - Fast catamaran from Whittier into Blackstone Bay and Barry Arm past a wall of tidewater and hanging glaciers.
   - *Tip:* Build the Whittier tunnel schedule into your day - miss your slot and you miss the boat by a full hour.
   - 6h · ~$180-220 · boat-tour · months 6,7,8 · `60.6803, -148.6994` · **book ahead**
-- **#49 Alaska Wildlife Conservation Center** · `74` · wildlife
+- **#46 Alaska Wildlife Conservation Center** · `74` · wildlife
   - 200-acre rescue center at Portage with wood bison, brown bears, moose, musk ox, lynx and caribou in big enclosures.
   - *Tip:* The one guaranteed close-up of Alaska's big mammals, and it works in rain; you can drive the loop or walk it.
   - 2h · $30 adult, $26 youth · road · months 5,6,7,8,9 · `60.8136, -148.9958`
-- **#53 Homer Bear-Viewing Flights (Katmai / Lake Clark)** · `74` · flightseeing
+- **#50 Homer Bear-Viewing Flights (Katmai / Lake Clark)** · `74` · flightseeing
   - Float/wheel plane day trips across Cook Inlet to Chinitna Bay, Silver Salmon Creek or Hallo Bay to walk near brown bears.
   - *Tip:* Cheaper and far more reliable than Brooks Falls. Weather cancels often - budget two possible days, book the first.
   - 7h · $800-1,000 per person · air-only · months 6,7,8 · `59.6456, -151.4767` · **book ahead**
-- **#56 McNeil River Falls** · `74` · wildlife
-  - The densest brown bear gathering on earth - up to 70 bears at one falls, capped at 10 permitted viewers a day.
+- **#53 McNeil River Falls** · `74` · wildlife
+  - The densest brown bear gathering on earth - up to 74 bears counted at once, capped at 10 permitted viewers a day.
   - *Tip:* Lottery-only: apply by March 1 for the following summer. You camp 4 days; there is no lodge and no day access.
-  - 4d · $30 lottery entry; $525 non-resident 4-day permi · air-only · months 7,8 · `59.1251, -154.2601` · **book ahead**
-- **#63 Alaska SeaLife Center** · `72` · museum-culture
+  - 4d · $30 lottery entry; $525 non-resident 4-day permi · air-only · months 6,7,8 · `59.1251, -154.2601` · **book ahead**
+- **#61 Alaska SeaLife Center** · `72` · museum-culture
   - Alaska's only public aquarium and marine rehab hospital: Steller sea lions, puffin dive tank, octopus, wild-animal ICU.
   - *Tip:* The rainy-day fallback when boats cancel. Behind-the-scenes encounters (puffin/octopus) sell out weeks ahead.
   - 2.5h · ~$35 adult · road · months 5,6,7,8,9 · `60.1042, -149.4413`
-- **#64 Chinitna Bay** · `72` · wildlife
-  - Tidal flats 25mi SW of Silver Salmon Creek; 20+ brown bears at once on the salt marsh in a good June.
-  - *Tip:* Tide-dependent beach landings - operators pick Chinitna or Silver Salmon that morning based on tide and fog.
-  - 8h · ~$750-900 day trip from Homer · air-only · months 6,7,8 · `59.8467, -153.0301` · **book ahead**
-- **#72 Homer Halibut Charters** · `70` · fishing
-  - Full-day halibut (and rockfish/king salmon combo) charters out of Homer Harbor into lower Cook Inlet.
+- **#69 Homer Halibut Charters** · `70` · fishing
+  - Season-long halibut derby on the Homer Spit; tagged-fish prizes reach six figures and the leaderboard runs all summer.
   - *Tip:* Charter halibut limits are size-restricted - expect one small fish plus one any-size. Get fish processed and shipped same day.
   - 12h · $300-400 per person full day · boat-tour · months 6,7,8 · `59.6033, -151.4275` · **book ahead**
-- **#87 Kachemak Bay State Park** · `68` · national-park
+- **#78 Kachemak Bay State Park** · `68` · national-park
   - 400,000-acre roadless state park across Kachemak Bay - glaciers, 80mi of trail, public-use cabins, no road in.
   - *Tip:* Book the water taxi first; the boat sets your pickup time and that dictates which trail you can actually finish.
   - 10h · Free entry; ~$95 rt water taxi · boat-tour · months 6,7,8,9 · `59.5975, -151.1978` · **book ahead**
-- **#88 Portage Glacier & Begich, Boggs Visitor Center** · `68` · glacier
+- **#80 Portage Glacier & Begich, Boggs Visitor Center** · `68` · glacier
   - Forest Service center on Portage Lake with glacier exhibits and a film; the glacier itself retreated out of sight in 1990s.
   - *Tip:* It's on the Whittier tunnel road - pair with a tunnel slot. Byron Glacier Trail nearby is a flat 1.4mi to ice caves.
   - 2.5h · Center free; lake boat tour ~$59 · road · months 5,6,7,8,9 · `60.7847, -148.8394`
-- **#89 Seward** · `68` · town-city
+- **#81 Seward** · `68` · town-city
   - Port town of ~2,700 at the head of Resurrection Bay; base for Kenai Fjords, Exit Glacier and salmon charters.
   - *Tip:* Mile 0 of the Iditarod Trail. Lodging books out 6+ months for July 4 (Mount Marathon) - avoid or plan around it.
   - 1d · Free · road · months 6,7,8 · `60.1042, -149.4422` · **book ahead**
-- **#96 Hallo Bay** · `66` · wildlife
-  - Wide sedge meadow on the Shelikof coast where bears graze and dig clams at close range with no platform.
-  - *Tip:* Ground-level viewing beats a platform for photos. Flights are tide- and fog-dependent; build in a spare day.
-  - 8h · ~$800-950 day trip from Homer or Kodiak · air-only · months 6,7,8 · `58.4569, -154.1069` · **book ahead**
-- **#97 Holgate Glacier** · `66` · glacier
+- **#84 Chinitna Bay** · `66` · wildlife
+  - Tidal flats ~17mi SW of Silver Salmon Creek; 20+ brown bears at once on the salt marsh in a good June.
+  - *Tip:* Tide-dependent beach landings - operators pick Chinitna or Silver Salmon that morning based on tide and fog.
+  - 8h · ~$750-900 day trip from Homer · air-only · months 6,7,8 · `59.8473, -153.1142` · **book ahead**
+- **#87 Holgate Glacier** · `66` · glacier
   - Actively calving tidewater glacier in a steep-walled arm of Kenai Fjords; the reliable calving stop on longer cruises.
   - *Tip:* Boats idle 20-30 min here. Watch the water below the face - most calving is announced by a crack you hear first.
   - 1h · Included in cruise fare · boat-tour · months 6,7,8 · `59.8286, -149.8319` · **book ahead**
-- **#101 Nome** · `66` · town-city
-  - Gold-rush town of ~3,500 on the Bering Sea with no road to the rest of Alaska but 250 mi of its own gravel roads.
+- **#91 Nome** · `66` · town-city
+  - Gold-rush town of ~3,700 on the Bering Sea with no road to the rest of Alaska but 350 mi of its own gravel roads.
   - *Tip:* Daily jets from Anchorage (~1h45). Reserve a rental truck months out - Nome has only a few dozen vehicles.
-  - 3d · ~$450-700 round-trip airfare from Anchorage · air-only · months 3,6,7 · `64.5011, -165.4064` · **book ahead**
-- **#110 Homer** · `64` · town-city
+  - 3d · ~$450-700 round-trip airfare from Anchorage · air-only · months 3,6,7 · `64.5039, -165.3994` · **book ahead**
+- **#100 Hallo Bay** · `64` · wildlife
+  - Wide sedge meadow on the Shelikof coast where bears graze and dig clams at close range with no platform.
+  - *Tip:* Ground-level viewing beats a platform for photos. Flights are tide- and fog-dependent; build in a spare day.
+  - 8h · ~$800-950 day trip from Homer or Kodiak · air-only · months 6,7,8,9 · `58.4575, -154.0233` · **book ahead**
+- **#101 Homer** · `64` · town-city
   - End of the Sterling Highway (Mile 179): arts-and-fishing town of ~5,500 on a bluff above Kachemak Bay.
   - *Tip:* Stay on the bluff downtown for food and galleries, not the Spit, unless you want harbor noise at 5am.
   - 1d · Free · road · months 6,7,8 · `59.6425, -151.5483` · **book ahead**
-- **#111 Kenai River Float, Cooper Landing** · `64` · boat-cruise
+- **#103 Kenai River Float, Cooper Landing** · `64` · boat-cruise
   - String of lodges and raft guides at the Kenai Lake outlet, at the Sterling/Seward highway split - the peninsula's crossroads.
   - *Tip:* Ask for the Kenai Canyon section (Class II-III) over the flat scenic float; dry bibs are supplied, wear wool under them.
   - 4h · $85-125 scenic float · boat-tour · months 6,7,8,9 · `60.4894, -149.8256` · **book ahead**
-- **#121 Grewingk Glacier Lake Trail** · `62` · hike-trail
+- **#116 Grewingk Glacier Lake Trail** · `62` · hike-trail
   - Flat 3.2mi walk from Glacier Spit to an iceberg-strewn lake below Grewingk Glacier in Kachemak Bay SP.
   - *Tip:* Ask the water taxi for Glacier Spit drop / Saddle Trail pickup so you walk it one way and add the hand tram.
   - 6h · ~$95 rt water taxi; trail free · trail · months 6,7,8,9 · `59.6294, -151.0967` · **book ahead**
-- **#124 Kenai River at Soldotna** · `62` · fishing
+- **#119 Kenai River at Soldotna** · `62` · fishing
   - The salmon river most Alaskans mean: bank boardwalks in Soldotna city parks plus a huge drift-boat guide fleet.
   - *Tip:* Kenai king salmon fishing is CLOSED in 2026 by emergency order - target sockeye (mid-July) or August silvers instead.
   - 6h · $25/day nonres license; ~$250 guided · road · months 7,8 · `60.4839, -151.0806` · **book ahead**
-- **#127 Sterling Highway** · `62` · scenic-drive
+- **#123 Sterling Highway** · `62` · scenic-drive
   - 143mi Tern Lake to Homer past Kenai River canyon, Cook Inlet volcanoes and the Kachemak Bay drop-in.
   - *Tip:* Coord is Baycrest Overlook (MP 168.5) - the first full view of Homer Spit and the glaciers behind Kachemak Bay.
   - 5h · Free · road · months 6,7,8,9 · `59.6543, -151.6277`
-- **#139 Resurrection Bay Sea Kayaking** · `60` · boat-cruise
+- **#135 Resurrection Bay Sea Kayaking** · `60` · boat-cruise
   - Guided sea kayaking from Lowell Point beach; sea otters, harbor seals, and rainforest shoreline with no motor noise.
   - *Tip:* The premium version is a water-taxi drop into Aialik Bay to paddle icebergs at a glacier face - book weeks out.
   - 5h · $110 half-day; $350+ glacier day · boat-tour · months 6,7,8 · `60.0797, -149.4381` · **book ahead**
-- **#143 Whittier** · `60` · town-city
+- **#140 Whittier** · `60` · town-city
   - One small harbor combining the Prince William Sound ferry berth, the railroad dock and the cruise pier - the AK transfer hub.
   - *Tip:* Gateway for Prince William Sound cruises, kayaking and the AMHS ferry to Valdez/Cordova. Rains ~200in/yr - bring a shell.
   - 4h · Free to visit; ferry and cruise fares vary · road · months 5,6,7,8,9 · `60.7736, -148.6853`
-- **#148 College Fjord** · `58` · glacier
+- **#142 Aialik Bay Sea Kayak Drop-off** · `58` · boat-cruise
+  - Water taxi drops paddlers on a beach across from calving Aialik Glacier for day or multi-day kayaking inside Kenai Fjords NP.
+  - *Tip:* Guided day trips include the 1.5-hr boat each way; there are no cabins in the bay, so overnights mean a tent and a bear can.
+  - 10h · $400-450 guided day; ~$250 water-taxi drop · boat-tour · months 6,7,8 · `59.9294, -149.6472` · **book ahead**
+- **#145 College Fjord** · `58` · glacier
   - Prince William Sound arm walled with glaciers named for Ivy League colleges; Harvard Glacier fills the head.
   - *Tip:* Most people see this from a repositioning cruise's last sea day into Whittier - be on deck by 5pm, not at dinner.
   - 4h · Included in cruise fare · boat-tour · months 6,7,8 · `61.4133, -147.3801` · **book ahead**
-- **#152 Gull Island Seabird Rookery** · `58` · wildlife
+- **#149 Gull Island Seabird Rookery** · `58` · wildlife
   - Craggy islet 8mi southeast of Homer holding ~20,000 nesting kittiwakes, common murres and both puffin species.
   - *Tip:* Landing is banned (Native corporation land) - it's a circling stop; pair it with a Peterson Bay or Halibut Cove drop.
   - 3h · $85-120 Kachemak Bay tour from Homer Spit · boat-tour · months 5,6,7,8 · `59.5806, -151.3492` · **book ahead**
-- **#154 Kenai-Russian River Confluence** · `58` · fishing
+- **#152 Kenai-Russian River Confluence** · `58` · fishing
   - Alaska's densest bank fishery - anglers shoulder-to-shoulder flipping for sockeye where the Russian meets the Kenai.
   - *Tip:* Brown bears work this bank; clean fish only at the designated stations and carry your catch in a sealed bag.
   - 4h · $11 parking + license · road · months 6,7 · `60.4839, -149.9922`
-- **#155 MV Tustumena Aleutian Chain Run** · `58` · ferry-route
+- **#153 MV Tustumena Aleutian Chain Run** · `58` · ferry-route
   - The legendary 'Trusty Tusty' run 1,000+mi down the Alaska Peninsula to Unalaska; volcanoes, seabirds, tiny fishing ports.
   - *Tip:* Only a few round trips a season and vessel assignments shift year to year - confirm the ship and dates before booking flights.
   - 4d · ~$500-700 pp Homer-Dutch Harbor one way, cabin e · ferry · months 6,7,8,9 · `55.3372, -160.4986` · **book ahead**
-- **#157 Mount Marathon Trail** · `58` · hike-trail
+- **#155 Mount Marathon Trail** · `58` · hike-trail
   - Brutally steep 3,022ft peak straight above Seward; venue of the July 4 mountain race run since 1915.
   - *Tip:* Use the Jeep/hiker trail, not the racers' cliff route. Race day fills every bed in town - book a year out or skip.
   - 4h · Free to hike · trail · months 6,7,8,9 · `60.1053, -149.4739`
-- **#160 Salty Dawg Saloon** · `58` · food-drink
+- **#158 Salty Dawg Saloon** · `58` · food-drink
   - Lighthouse-topped log bar on Homer Spit, sawdust floor, ceiling and walls shingled with signed dollar bills.
   - *Tip:* Bring a dollar and a marker to staple your own bill up. Opens late morning and is packed by 5pm in July.
   - 1h · $7-9 beers · road · months 5,6,7,8,9 · `59.6020, -151.4215`
-- **#167 Alaska Railroad Anchorage Depot** · `56` · railroad
+- **#165 Alaska Railroad Anchorage Depot** · `56` · railroad
   - Hub of the Alaska Railroad: Coastal Classic to Seward, Denali Star north, Glacier Discovery to Whittier and Spencer Glacier.
   - *Tip:* Book summer trains months out. GoldStar dome is worth the upgrade on the Seward run for the Turnagain Arm cliffs.
   - 1h · Free to enter; trains $99-$300 · rail · months 5,6,7,8,9 · `61.2231, -149.8906` · **book ahead**
-- **#169 Anton Anderson Memorial Tunnel** · `56` · roadside-oddity
+- **#167 Anton Anderson Memorial Tunnel** · `56` · roadside-oddity
   - 2.5mi single-lane tunnel shared by cars and trains - North America's longest highway tunnel, direction alternates hourly.
   - *Tip:* 2026: into Whittier on the half hour 5:30am-10:30pm, out on the hour 6am-11pm. Be at staging 15 min early or wait an hour.
   - 0.5h · $13 toll inbound to Whittier · road · months 5,6,7,8,9 · `60.7808, -148.7828`
-- **#171 Chiswell Islands** · `56` · wildlife
+- **#169 Chiswell Islands** · `56` · wildlife
   - Rock stacks off Kenai Fjords holding Steller sea lion haulouts plus tufted/horned puffins and common murres.
   - *Tip:* Only the longer (7.5hr+) Seward cruises go this far out. Puffins leave the colonies by late August.
   - 1h · Included in cruise fare · boat-tour · months 6,7 · `59.6017, -149.5794` · **book ahead**
-- **#173 Geographic Harbor** · `56` · wildlife
+- **#171 Geographic Harbor** · `56` · wildlife
   - Sheltered fjord-like inlet at the head of Amalik Bay; bears fish the shallow creek mouths from the beach.
   - *Tip:* Late July-August only - before the run there are few bears. Multi-day live-aboard boats work this coast too.
-  - 9h · ~$900 floatplane day trip from Homer/Kodiak · air-only · months 7,8 · `58.1006, -154.5667` · **book ahead**
-- **#178 Russian River Falls** · `56` · wildlife
+  - 9h · ~$900 floatplane day trip from Homer/Kodiak · air-only · months 7,8 · `58.1133, -154.5930` · **book ahead**
+- **#176 Russian River Falls** · `56` · wildlife
   - Easy 4.6mi round-trip trail to viewing decks where thousands of sockeye jump a cascade; bears fish it too.
   - *Tip:* Trailhead is inside Russian River Campground at Sterling Hwy MP 52. Go early - bears are most active before 9am.
   - 3h · $11 parking (Russian River Campground) · trail · months 6,7,8 · `60.4344, -149.9603`
-- **#191 Iditarod finish line & Burled Arch** · `55` · festival-event
+- **#186 Bear Glacier Lagoon** · `55` · glacier
+  - Kenai Fjords' largest glacier ends in a 5-mile iceberg lagoon; access is by helicopter or a surf-landing water taxi.
+  - *Tip:* Heli-kayak trips from Seward run about $700 and overfly Resurrection Bay; boat trips get cancelled when the bar breaks.
+  - 8h · $550-750 heli-kayak day · boat-tour · months 6,7,8 · `59.9836, -149.6119` · **book ahead**
+- **#193 Iditarod finish line & Burled Arch** · `55` · festival-event
   - Front Street finish under the burled spruce arch; teams keep trickling in for a week after the winner arrives.
-  - *Tip:* The winner usually arrives 8-10 days after the Anchorage restart, about Mar 10-13. Book flights 6+ months out.
+  - *Tip:* The winner reaches Nome roughly 9-11 days after the restart, usually mid-March. Book flights 6+ months out.
   - 3h · $500-800 round-trip flight from Anchorage · air-only · months 1,2,3,9,10,11,12 · `64.5004, -165.4058` · **book ahead**
 - **#204 Halibut Cove** · `54` · town-city
   - Boardwalk artists' colony of ~35 people across Kachemak Bay; no roads, galleries built on pilings over the water.
   - *Tip:* The classic is the Danny J from Homer Spit: afternoon sailing with dinner at The Saltry, back after 10pm. Reserve.
   - 6h · ~$95 Danny J ferry round trip · ferry · months 6,7,8 · `59.5983, -151.2317` · **book ahead**
-- **#220 Kenai Fjords Glacier Lodge** · `52` · wilderness-lodge
+- **#211 Blackstone Bay Kayak Drop-off** · `52` · boat-cruise
+  - Whittier's short-haul fjord: three tidewater glaciers and a wall of waterfalls, 45 min by boat with no open-water crossing.
+  - *Tip:* Better value than the big glacier cruise if you paddle - drop-offs leave Whittier around 9am, ahead of the cruise-boat wake.
+  - 9h · $350-400 guided day · boat-tour · months 6,7,8 · `60.6950, -148.6500` · **book ahead**
+- **#221 Godwin Glacier Dog Sled Camp** · `52` · winter-sport
+  - Helicopter lands you on a glacier above Seward for a real summer sled run behind a working Iditarod team on snow.
+  - *Tip:* Weather cancels flights often; take the earliest slot of the day and keep the afternoon free as a rebooking window.
+  - 3h · $650-750 including helicopter · air-only · months 6,7,8 · `60.0400, -149.2900` · **book ahead**
+- **#224 Kenai Fjords Glacier Lodge** · `52` · wilderness-lodge
   - 16-cabin lodge inside Kenai Fjords NP on Pedersen Lagoon; boat-in only, guided kayaking and glacier hikes included.
   - *Tip:* The only lodging inside the park. One night is really a half-day - go two nights or the boat transit eats the trip.
   - 1.5d · $1,200+ per person per night, all-in · boat-tour · months 6,7,8 · `59.9394, -149.7297` · **book ahead**
-- **#233 Cape Resurrection & Barwell Island** · `50` · wildlife
+- **#237 Cape Resurrection & Barwell Island** · `50` · wildlife
   - Sheer seabird stack at the mouth of Resurrection Bay: puffins, murres, kittiwakes and a Steller sea lion haulout.
   - *Tip:* Full-day Northwestern Fjord and Aialik cruises round it; the short bay-only tours often turn back before here.
   - 2h · Included in a Kenai Fjords day cruise · boat-tour · months 6,7,8 · `59.8931, -149.3169` · **book ahead**
-- **#237 Holy Resurrection Russian Orthodox Cathedral** · `50` · historic-site
+- **#241 Holy Resurrection Russian Orthodox Cathedral** · `50` · historic-site
   - Blue-domed 1940s church of the oldest Russian Orthodox parish in the Americas, founded 1794; relics of St. Herman inside.
-  - *Tip:* Saturday vespers and Sunday liturgy are the reliable times to get in; photography is discouraged during services.
-  - 1h · Free (donation) · road · months 5,6,7,8,9 · `57.7878, -152.4042`
-- **#243 Seldovia** · `50` · town-city
+  - *Tip:* Exterior any time; interior is usually open only around Saturday vespers and Sunday liturgy. Uphill from Mission Rd.
+  - 1h · Free (donation) · road · months 5,6,7,8,9 · `57.7890, -152.4036`
+- **#247 Seldovia** · `50` · town-city
   - Roadless village of ~250 across Kachemak Bay with Russian and Alutiiq roots and a surviving historic boardwalk.
   - *Tip:* Do it as a day trip: fast water taxi over, walk the boardwalk and Otterbahn Trail, fly or ferry back the same day.
   - 8h · ~$110 rt water taxi, ~$180 rt flight · ferry · months 6,7,8 · `59.4394, -151.7128` · **book ahead**
-- **#258 Nome gold beaches** · `48` · historic-site
+- **#257 Deep Creek Tractor-Launch Halibut Charters** · `48` · fishing
+  - Charter boats get pushed into Cook Inlet by farm tractors straight off the beach here - halibut and kings with no harbor at all.
+  - *Tip:* Departures are tide-driven and can be 5am; Ninilchik boats usually undercut Homer for the same halibut grounds.
+  - 10h · $275-350 per person halibut trip · road · months 6,7,8 · `59.9906, -151.6944` · **book ahead**
+- **#266 Nome gold beaches** · `48` · historic-site
   - Public recreational-mining beach where anyone can pan or sluice Bering Sea gold with no claim or permit.
   - *Tip:* Hand tools and small dredges only, and stay inside the posted public stretch - commercial claims start past it.
   - 3h · Free; rent a pan or sluice in town · road · months 6,7,8,9 · `64.4967, -165.3931`
-- **#259 Portage Pass Trail** · `48` · hike-trail
+- **#267 Portage Pass Trail** · `48` · hike-trail
   - Steep 2mi climb from the Whittier side of the tunnel to a pass overlooking Portage Glacier and Portage Lake.
   - *Tip:* The only way to see Portage Glacier on foot. Trailhead is a rough gravel road immediately after the tunnel exit.
   - 3h · Free (plus $13 tunnel toll) · trail · months 6,7,8,9 · `60.7714, -148.7128`
-- **#267 Nome-Council Road & the Last Train to Nowhere** · `47` · scenic-drive
-  - 72 mi of gravel east along the Bering coast; at Mile 33 three 1881 locomotives rust into the tundra at Solomon.
+- **#275 Nome-Council Road & the Last Train to Nowhere** · `47` · scenic-drive
+  - 73 mi of gravel east along the Bering coast; at Mile 33 three 1881 locomotives rust into the tundra at Solomon.
   - *Tip:* The engines came from the New York elevated railway. Road ends at the Niukluk River - no bridge across to Council.
-  - 8h · Free (rental truck ~$150/day) · road · months 6,7,8 · `64.5461, -164.4367`
-- **#268 Skilak Lake Road** · `47` · scenic-drive
+  - 8h · Free (rental truck ~$150/day) · road · months 6,7,8 · `64.5608, -164.4392`
+- **#276 Skilak Lake Road** · `47` · scenic-drive
   - 19mi gravel loop off the Sterling Highway through Kenai NWR: turquoise Skilak Lake, moose, campgrounds, short trails.
   - *Tip:* Skilak Lookout Trail (2.5mi rt) is the payoff. Check the Kenai NWR Visitor Center in Soldotna for road and bear reports.
   - 4h · Free (Kenai NWR) · road · months 6,7,8,9 · `60.4704, -150.3386`
-- **#270 Alaska Islands & Ocean Visitor Center** · `46` · museum-culture
+- **#278 Alaska Islands & Ocean Visitor Center** · `46` · museum-culture
   - Free federal center on the 2,500-island Alaska Maritime Refuge, with a full-scale research-ship bunkroom and seabird exhibits.
   - *Tip:* Free, excellent, and the trailhead for Beluga Slough. Best rainy-day stop in Homer; ask about ranger beach walks.
   - 1.5h · Free · road · months 5,6,7,8,9 · `59.6444, -151.5497`
-- **#294 Lost Lake Trail** · `45` · hike-trail
+- **#291 Kenai River Personal-Use Dipnet Fishery** · `46` · fishing
+  - Alaska residents net sockeye from the beaches at the mouth of the Kenai River each July - one of the wildest scenes in the state.
+  - *Tip:* Residents only, 25 fish for the head of household; non-residents can still watch and photograph from the North Beach lot.
+  - 6h · $15 permit + parking (AK residents only) · road · months 7 · `60.5486, -151.2831`
+- **#304 Lost Lake Trail** · `45` · hike-trail
   - 15mi point-to-point over alpine tundra to a high blue lake above Seward; 7mi out-and-back from the south trailhead.
   - *Tip:* Two cars lets you go Primrose to Lost Lake downhill. Snow lingers at the lake well into July most years.
   - 8h · Free · trail · months 7,8,9 · `60.2258, -149.4092`
-- **#303 Tutka Bay Lodge** · `45` · wilderness-lodge
+- **#307 Seavey's IdidaRide Sled Dog Tours** · `45` · winter-sport
+  - Iditarod-champion family kennel outside Seward: summer wheeled-cart rides, puppy time and a race-gear talk from real mushers.
+  - *Tip:* Cheapest way to meet a working Iditarod team without a helicopter; it is 2 mi up Old Exit Glacier Rd, so pair with Exit Glacier.
+  - 2h · $89 adult wheeled-cart tour · road · months 5,6,7,8,9 · `60.1594, -149.3872` · **book ahead**
+- **#314 Tutka Bay Lodge** · `45` · wilderness-lodge
   - Cove lodge in Kachemak Bay 30min by boat from Homer, with a cooking school on a converted Bering Sea crab boat.
   - *Tip:* Two-night minimum, and the water taxi runs on tides, so arrival and departure times shift every day.
   - 1d · ~$1,300 per person per night, all-inclusive · boat-tour · months 6,7,8 · `59.4737, -151.4842` · **book ahead**
-- **#308 Bob Blodgett Nome-Teller Highway** · `44` · scenic-drive
-  - 73 mi northwest over open tundra to Teller, an Inupiat village of ~230 on a spit between harbor and open sea.
+- **#319 Bob Blodgett Nome-Teller Highway** · `44` · scenic-drive
+  - 73 mi northwest over open tundra to Teller, an Inupiat village of ~200 on a spit between harbor and open sea.
   - *Tip:* The best muskox road out of Nome - scan ridgelines and hilltops. Zero services: fuel, food and a spare tire.
-  - 6h · Free · road · months 6,7,8 · `65.2622, -166.3611`
-- **#320 Kenai Old Town & Holy Assumption Russian Orthodox Church** · `44` · native-culture
+  - 6h · Free · road · months 6,7,8 · `65.2572, -166.3539`
+- **#320 Caines Head State Recreation Area & Fort McGilvray** · `44` · hike-trail
+  - Abandoned WWII coastal gun fort on a headland south of Seward; the beach approach is walkable only near low tide.
+  - *Tip:* Miss the tide window and you are stuck until the next one, or paying a water taxi from Lowell Point. Two cabins bookable.
+  - 8h · Free day use; $75/night cabin · trail · months 6,7,8 · `59.9633, -149.3856`
+- **#329 Homer Harbor Water Taxi** · `44` · boat-cruise
+  - The only practical way into Kachemak Bay State Park - skiffs run from the Homer Spit to Grewingk, Halibut Cove and Tutka Bay.
+  - *Tip:* Homer-Kodiak is ~10h overnight and far cheaper than flying with gear; sailings are sparse, so build slack into the plan.
+  - 1h · Free to enter; ~$95 walk-on Homer-Kodiak · boat-tour · months 5,6,7,8,9 · `59.6006, -151.4189` · **book ahead**
+- **#333 Kenai Old Town & Holy Assumption Russian Orthodox Church** · `44` · native-culture
   - 1895 Russian Orthodox church, a National Historic Landmark, on the Dena'ina bluff above the Kenai River mouth.
   - *Tip:* Walk to Erik Hansen Scout Park behind it - beluga whales work the river mouth on incoming tides in July-August.
   - 1.5h · Free (donation for church tour) · road · months 5,6,7,8,9 · `60.5528, -151.2578`
-- **#330 Windy Corner Dall Sheep Viewing** · `44` · viewpoint
+- **#342 Six Mile Creek Whitewater** · `44` · boat-cruise
+  - Three canyons of Class IV-V glacial whitewater near Hope, the hardest commercially run river on the Kenai Peninsula.
+  - *Tip:* The third canyon requires passing a swim test; drysuits are provided. Trips launch off the Hope Highway, 90 min from Anchorage.
+  - 4h · $95-135 half day · road · months 6,7,8 · `60.8878, -149.4181` · **book ahead**
+- **#343 Swan Lake Canoe Route** · `44` · boat-cruise
+  - Kenai Refuge canoe route linking 30 lakes and the Moose River by short portages - Alaska's most accessible multi-day paddle.
+  - *Tip:* Put in at Portage Lake off Swan Lake Road; the longer 80-mi Swanson River route next door sees a fraction of the traffic.
+  - 3d · Free; ~$50/day canoe rental · road · months 6,7,8 · `60.6981, -150.6408`
+- **#347 Windy Corner Dall Sheep Viewing** · `44` · viewpoint
   - Mile 106.6 Seward Highway, the only place on earth Dall sheep are regularly seen at sea level from a road.
   - *Tip:* Use the marked turnouts, never the shoulder. Sheep drop lowest to the mineral lick in late May and June.
   - 0.5h · Free · road · months 5,6,11,12 · `60.9860, -149.4113`
-- **#353 Ninilchik Village & Transfiguration of Our Lord Chapel** · `42` · historic-site
+- **#366 Grewingk Glacier Hand Tram** · `42` · hike-trail
+  - Hand-cranked cable tram over Grewingk Creek in Kachemak Bay State Park - the crux of the Saddle-to-Glacier-Spit loop.
+  - *Tip:* It takes two people to pull; the alternative is a cold thigh-deep ford. Water taxi in at Saddle Trail, out at Glacier Spit.
+  - 6h · Free; ~$95 water taxi · boat-tour · months 6,7,8,9 · `59.6494, -151.0672` · **book ahead**
+- **#369 Johnson Pass Trail** · `42` · hike-trail
+  - 23-mi gold-rush-era trail over a low pass between Granite Creek and Moose Pass - the Kenai's best long trail run or bike.
+  - *Tip:* Both trailheads sit on the Seward Highway so a car shuttle is easy; snow lingers at the pass into early July.
+  - 10h · Free · road · months 7,8,9 · `60.5175, -149.4922`
+- **#376 Ninilchik Village & Transfiguration of Our Lord Chapel** · `42` · historic-site
   - 1901 white-and-blue Orthodox church on a bluff over Cook Inlet above a Russian-Alutiiq village of weathered cabins.
   - *Tip:* Clear days frame Mt. Redoubt and Iliamna across the inlet. Nearby Deep Creek launches halibut boats by tractor off the beach.
   - 1.5h · Free · road · months 6,7,8 · `60.0489, -151.6683`
-- **#355 Seward Harbor & Cruise Terminal** · `42` · railroad
+- **#378 Seward Harbor & Cruise Terminal** · `42` · railroad
   - Small-boat harbor plus the $137M two-berth cruise pier that opened June 2026; where every fjords cruise and charter departs.
   - *Tip:* The new terminal sits beside the Alaska Railroad depot - cruise-to-train transfers are a walk, not a shuttle.
   - 1h · Free · cruise-port · months 5,6,7,8,9 · `60.1234, -149.4364`
-- **#358 Two Sisters Bakery** · `42` · food-drink
+- **#381 Two Sisters Bakery** · `42` · food-drink
   - Old Town Homer bakery in a converted house: morning buns, savory galettes, coffee, deck above Bishop's Beach.
   - *Tip:* Pastries sell out by mid-morning in July. It's in Old Town, not on the Spit - about 4mi from the harbor.
   - 1h · $5-15 · road · months 5,6,7,8,9 · `59.6395, -151.5402`
-- **#361 Turnagain Pass** · `41` · winter-sport
+- **#384 Turnagain Pass** · `41` · winter-sport
   - Seward Hwy Mile 68 pass split by law: snowmachines on the east side, skiers and split-boarders on the west.
   - *Tip:* Big plowed lots on both sides. Check the Chugach Avalanche Center forecast - this pass kills people most winters.
   - 5h · Free (Chugach NF) · road · months 1,2,3,4 · `60.7974, -149.1978`
-- **#366 Byron Glacier Trail** · `40` · hike-trail
+- **#389 Byron Glacier Trail** · `40` · hike-trail
   - Flat 1.4mi gravel walk up a creek valley to the snowfield below Byron Glacier - easiest glacier-adjacent hike near Anchorage.
   - *Tip:* Do not walk into or under the avalanche snow caves at the end - they collapse and have killed visitors.
   - 1.5h · Free · road · months 6,7,8,9 · `60.7783, -148.8319`
-- **#376 Kougarok Road & Salmon Lake** · `40` · scenic-drive
+- **#400 Kougarok Road & Salmon Lake** · `40` · scenic-drive
   - Runs 86 mi north into the Kigluaik Mountains; free BLM campground and grayling fishing at Salmon Lake, Mile 38.
   - *Tip:* Mile 72 Coffee Dome is the classic hike for bristle-thighed curlew - the only place in the US you can reach them.
   - 8h · Free · road · months 6,7,8 · `64.9214, -164.9425`
-- **#382 Salmonfest** · `40` · festival-event
+- **#407 Salmonfest** · `40` · festival-event
   - Three-day music, fish and salmon-politics festival on the Ninilchik fairgrounds - Alaska's biggest concert.
   - *Tip:* Camp on site. The Sterling Highway back to Homer or Soldotna after a late set is not a drive you want.
   - 2d · ~$150 three-day pass, camping extra · road · months 7,8 · `60.0479, -151.6672` · **book ahead**
-- **#383 Serpentine Hot Springs** · `40` · hot-springs
+- **#408 Serpentine Hot Springs** · `40` · hot-springs
   - Granite-tor basin inside Bering Land Bridge with a soaking tub in a shed and a free 12-bunk NPS bunkhouse.
   - *Tip:* Bunkhouse is first-come, no reservations. Unmaintained gravel strip a short walk away; bring all your own food.
   - 2d · Free to use; ~$1,000 charter from Nome · air-only · months 3,6,7,8 · `65.8569, -164.7142` · **book ahead**
-- **#394 Carrie M. McLain Memorial Museum** · `38` · museum-culture
+- **#422 Carrie M. McLain Memorial Museum** · `38` · museum-culture
   - Nome's museum covering the 1899 gold rush, Bering Strait Inupiat culture and Iditarod history.
   - *Tip:* Shares the Richard Foster Building with the library and the Katirvik Cultural Center - do both in one stop.
   - 1.5h · Free · air-only · months 6,7,8 · `64.5017, -165.4092`
-- **#400 Homer Ferry Terminal** · `38` · ferry-route
-  - AMHS berth near the end of Homer Spit - the mainland road system's only ferry link to Kodiak and the Aleutian chain.
-  - *Tip:* Homer-Kodiak is ~10h overnight and far cheaper than flying with gear; sailings are sparse, so build slack into the plan.
-  - 1h · Free to enter; ~$95 walk-on Homer-Kodiak · ferry · months 5,6,7,8,9 · `59.6018, -151.4114` · **book ahead**
-- **#401 Kachemak Bay Shorebird Festival** · `38` · festival-event
+- **#429 Kachemak Bay Shorebird Festival** · `38` · festival-event
   - Homer festival built around 100,000+ shorebirds staging on Mud Bay and Beluga Slough; walks, boats and workshops.
   - *Tip:* Book Homer lodging months out - the town fills. A rising tide pushes the flocks right up to the Spit road.
   - 6h · Free events; $25-60 guided trips · road · months 5 · `59.6428, -151.5306` · **book ahead**
-- **#402 McHugh Creek Picnic Area** · `38` · hike-trail
+- **#430 Kasilof River Personal-Use Dipnet** · `38` · fishing
+  - The other Cook Inlet dipnet fishery: opens two weeks before the Kenai and can be worked from shore or a skiff at the mouth.
+  - *Tip:* Alaska residents only, and the beach is soft sand - bring 4WD or you will dig out. Far less chaotic than Kenai's North Beach.
+  - 6h · $15 permit (AK residents only) · road · months 6,7 · `60.3242, -151.2894`
+- **#432 McHugh Creek Picnic Area** · `38` · hike-trail
   - Tiered waterfall and picnic area at Seward Hwy Mile 112, and the north trailhead for the 9.4mi Turnagain Arm Trail.
   - *Tip:* The first mile of Turnagain Arm Trail buys big Arm views for little effort; scan the cliffs above for Dall sheep.
   - 2h · $5 parking · road · months 5,6,7,8,9 · `61.0308, -149.7203`
-- **#406 Pilgrim Hot Springs** · `38` · hot-springs
+- **#437 Pilgrim Hot Springs** · `38` · hot-springs
   - Geothermal springs 60 mi from Nome with a soaking tub beside the ruins of a 1918 Catholic mission and orphanage.
-  - *Tip:* Free permit required from the Nome Visitor Center. Turn at Kougarok Mile 53 then 7 mi of rough 4WD-only spur.
+  - *Tip:* Free day-pass permit and waiver from Kawerak online. Kougarok Mile 53, then 7 rough miles of 4WD-only spur.
   - 6h · Free with permit · road · months 6,7,8 · `65.0927, -164.9230`
-- **#407 Pratt Museum** · `38` · museum-culture
+- **#438 Pratt Museum** · `38` · museum-culture
   - Homer's natural-history and culture museum: Kachemak Bay ecology, Alutiiq material, and a hard-eyed Exxon Valdez exhibit.
   - *Tip:* Small but genuinely good; the botanical garden and forest trail behind it are free even when the museum is shut.
   - 1.5h · ~$15 adult · road · months 5,6,7,8,9 · `59.6414, -151.5397`
-- **#409 Ray's Waterfront** · `38` · food-drink
+- **#440 Ray's Waterfront** · `38` · food-drink
   - Harborside Seward seafood room - grilled halibut, salmon, chowder - with trophy fish on the wall and boats out the window.
   - *Tip:* Book the 5pm seating or expect an hour wait once the day cruises dock around 5:30-6pm.
   - 1.5h · $28-45 mains · road · months 5,6,7,8,9 · `60.1182, -149.4392` · **book ahead**
-- **#422 Valdez Ferry Terminal (AMHS)** · `36` · ferry-route
+- **#442 Seward Silver Salmon Derby** · `38` · festival-event
+  - Nine days each August when Resurrection Bay fills with coho and the whole town fishes; weigh-ins at the small boat harbor.
+  - *Tip:* Charters and beds in Seward sell out for derby week - book by spring, or fish from shore at Lowell Point for free.
+  - 8h · $10-15 derby ticket; $250+ charter · road · months 8 · `60.1256, -149.4250` · **book ahead**
+- **#452 Bishop's Beach Tide Pooling** · `36` · wildlife
+  - Homer's walk-from-town beach; a minus tide exposes acres of sea stars, anemones and octopus dens under the Kachemak bluffs.
+  - *Tip:* Only worth doing on a minus tide - check the Homer tide table and start an hour before low water, walking east.
+  - 2h · Free · road · months 5,6,7 · `59.6408, -151.5561`
+- **#456 Mount Redoubt** · `36` · volcano-geology
+  - 10,197-ft active volcano across Cook Inlet from the Kenai; its 1989 and 2009 eruptions grounded Anchorage air traffic.
+  - *Tip:* Best free view is the Kenai bluff or Captain Cook SRA on a clear evening; Homer air taxis will circle the crater.
+  - 1h · Free from shore; flightseeing ~$400 · air-only · months 3,4,6,7,8,9 · `60.4852, -152.7438`
+- **#461 Valdez Ferry Terminal (AMHS)** · `36` · ferry-route
   - Alaska Marine Highway dock for the Prince William Sound run to Whittier (~6hr) and on to Cordova.
   - *Tip:* Only a few sailings a week and vehicle deck space sells out - reserve months ahead, not on arrival.
   - 6h · ~$120 walk-on to Whittier; vehicles extra · ferry · months 5,6,7,8,9 · `61.1245, -146.3639` · **book ahead**
-- **#427 Bering Land Bridge National Preserve** · `34` · national-park
+- **#467 Bering Land Bridge National Preserve** · `34` · national-park
   - 2.7M acres of what's left of Beringia: maar lakes, lava flows and tundra, with no roads, trails or facilities.
-  - *Tip:* Nothing is staffed inside the preserve - the office is on Front Street in Nome. Charter from Nome or Kotzebue.
-  - 1d · Free entry; ~$1,000 charter · air-only · months 6,7,8 · `66.2500, -164.5000` · **book ahead**
-- **#433 Hope** · `34` · historic-site
+  - *Tip:* Nothing is staffed inside the preserve - the office is at 214 Front St in Nome. Charter from Nome or Kotzebue.
+  - 1d · Free entry; ~$1,000 charter · air-only · months 6,7,8 · `65.8333, -164.1667` · **book ahead**
+- **#474 Hope** · `34` · historic-site
   - 1896 gold-rush village of ~80 at the end of a 17mi spur off the Seward Highway on Turnagain Arm; log storefronts, no crowds.
   - *Tip:* Detour worth it if you want quiet. Trailhead for the 39mi Resurrection Pass Trail and Sixmile Creek whitewater.
   - 3h · Free · road · months 6,7,8,9 · `60.9214, -149.6383`
-- **#437 Nome Airport** · `34` · town-city
+- **#478 Nome Airport** · `34` · town-city
   - Jet field serving Nome and its 250 mi of gravel roads - the rare Alaska bush hub with rental cars.
   - *Tip:* Reserve a Nome rental months out; the fleet is tiny and sells out for Iditarod week and June birding.
   - 1h · ~$500-700 round trip from Anchorage · air-only · months 3,6,7 · `64.5122, -165.4453` · **book ahead**
-- **#448 Anvil Mountain White Alice antennas** · `32` · historic-site
-  - Four four-story parabolic Cold War tropospheric-scatter antennas on the ridge above Nome, listed on the NRHP.
+- **#491 Anvil Mountain White Alice antennas** · `32` · historic-site
+  - Four four-story parabolic Cold War tropo-scatter antennas on the ridge above Nome - the last intact White Alice site.
   - *Tip:* Fifteen minutes from town up Anvil Mountain Road. Go near midnight in June - the light and the view are the point.
-  - 1h · Free · road · months 6,7,8 · `64.5347, -165.3853`
-- **#453 Cordova Ferry Terminal** · `32` · ferry-route
+  - 1h · Free · road · months 6,7,8 · `64.5644, -165.3736`
+- **#497 Cordova Ferry Terminal** · `32` · ferry-route
   - Downtown AMHS dock; the Whittier and Valdez runs are Cordova's only surface link to the road system.
   - *Tip:* Sailings run a few times a week and skip whole stretches - check AMHS before planning any Sound loop.
-  - 6h · ~$60-120 walk-on to Whittier or Valdez · ferry · months 5,6,7,8 · `60.5566, -145.7550` · **book ahead**
-- **#468 Board of Trade Saloon** · `30` · food-drink
+  - 6h · ~$60-120 walk-on to Whittier or Valdez · ferry · months 5,6,7,8 · `60.5566, -145.7551` · **book ahead**
+- **#505 Manitoba Cabin** · `32` · winter-sport
+  - Bookable Alaska Huts cabin at Mile 49 of the Seward Highway - wood stove, bunks, and ski and bike trails out the door.
+  - *Tip:* It sits only a few hundred yards off the highway, so it works as a soft intro to hut trips; bring food and a sleeping bag.
+  - 1d · $40-60 per person per night · road · months 1,2,3,7,8 · `60.6614, -149.4644` · **book ahead**
+- **#515 Board of Trade Saloon** · `30` · food-drink
   - Front Street dive billed as the oldest saloon on the Bering Sea, where mushers and beach gold miners drink.
   - *Tip:* Peak scene is Iditarod week in March. Nome is fly-in only, so price the airfare before planning the beer.
   - 1h · $7-9 beers · air-only · months 3,6,7,8 · `64.4972, -165.4067`
-- **#478 Kenai National Wildlife Refuge Visitor Center** · `30` · museum-culture
+- **#519 Clam Gulch Razor Clamming** · `30` · fishing
+  - Classic east-side Cook Inlet razor clam beach below a bluff campground, with Redoubt and Iliamna volcanoes across the water.
+  - *Tip:* East-side beaches have been closed or only briefly opened since 2015 - check ADF&G emergency orders before buying a clam shovel.
+  - 4h · $15-20 sport fishing license · road · months 5,6,7 · `60.2306, -151.3944`
+- **#528 Kenai National Wildlife Refuge Visitor Center** · `30` · museum-culture
   - Soldotna refuge headquarters with big-mammal exhibits, current bear and road reports, and short lakeside trails.
   - *Tip:* Get Skilak Loop road and bear conditions here first - that loop is the peninsula's best road-accessible moose habitat.
   - 1h · Free · road · months 5,6,7,8,9 · `60.4711, -151.0611`
-- **#501 Anchor Point Beach - Westernmost Highway Point in North America** · `26` · roadside-oddity
+- **#532 Nancy Lake State Recreation Area** · `30` · hike-trail
+  - Lake-and-portage canoe country an hour from Wasilla: the Lynx Lake loop links a dozen lakes and 13 paddle-in cabins.
+  - *Tip:* Cabins book roughly six months out on the state parks site; Tanaina Lake trailhead off Nancy Lake Parkway is the put-in.
+  - 8h · $5 parking; $75/night cabins · road · months 6,7,8 · `61.6658, -150.1350` · **book ahead**
+- **#558 Anchor Point Beach - Westernmost Highway Point in North America** · `26` · roadside-oddity
   - Sign at the end of Anchor River Beach Road marking the farthest west you can drive on a connected highway.
   - *Tip:* Tractors push halibut boats straight off the sand at high tide - worth the 2 mi detour off the Sterling Hwy.
-  - 1h · Free; ~$5 beach parking · road · months 5,6,7,8 · `59.7770, -151.8680`
-- **#505 Kenai Fjords National Park Visitor Center** · `26` · national-park
+  - 1h · Free; ~$5 beach parking · road · months 5,6,7,8 · `59.7772, -151.8683`
+- **#564 Kenai Fjords National Park Visitor Center** · `26` · national-park
   - Small NPS center by the Seward small-boat harbor with the park film, ranger talks and backcountry/cabin permits.
   - *Tip:* Stop here for bear-canister loans and Aialik/Holgate cabin permits before any boat drop - it is the only place to get them.
   - 0.5h · Free · road · months 6,7,8 · `60.1201, -149.4419`
+- **#585 Captain Cook State Recreation Area** · `22` · viewpoint
+  - End of the Kenai Spur Highway: bluff campground over Cook Inlet with Redoubt and Iliamna volcanoes straight across.
+  - *Tip:* 25 mi past Kenai and nearly empty even in July - the antidote to the Russian River combat-fishing scene.
+  - 3h · $5 day use / $20 camping · road · months 6,7,8 · `60.8053, -151.0150`
+- **#589 Teller** · `22` · town-city
+  - Inupiaq village of ~200 at the end of the 72-mi Teller Road, on a spit between Grantley Harbor and the Bering Sea.
+  - *Tip:* The drive is the point - musk ox and reindeer along the way. No services in Teller, so fuel and food in Nome.
+  - 6h · Free (rental car from Nome ~$150/day) · road · months 6,7,8 · `65.2653, -166.3625`
+- **#607 Shishmaref** · `16` · town-city
+  - Inupiaq village on a thin Chukchi barrier island that is eroding into the sea and voted to relocate in 2016.
+  - *Tip:* Half-hour flight from Nome. Come with a purpose and a contact - this is a community, not a climate exhibit.
+  - 8h · Flight from Nome ~$400 round trip · air-only · months 6,7,8 · `66.2564, -166.0714` · **book ahead**
 
-### Interior  *(151)*
+### Interior  *(164)*
 
 - **#1 Denali National Park & Preserve** · `98` · national-park
   - 6-million-acre park at Parks Hwy Mile 237. Grizzly, caribou, wolf, moose plus North America's highest peak.
   - *Tip:* Only ~30% of visitors see the mountain - build in 2+ nights to beat the clouds. Book buses/lodging months out.
   - 1d · $15/person entrance, 7 days (bus tickets extra) · road · months 6,7,8,9 · `63.7284, -148.8862` · **book ahead**
-- **#6 Talkeetna Denali Flightseeing & Glacier Landing** · `88` · flightseeing
+- **#5 Talkeetna Denali Flightseeing & Glacier Landing** · `88` · flightseeing
   - Ski-plane flights from Talkeetna State Airport around Denali, most landing on the Ruth or Kahiltna Glacier at 5,000-7,000ft.
   - *Tip:* Weather scrubs flights constantly - book day one of a multi-day stay so you can rebook. Pay the extra for the landing.
   - 3h · $300-575 (landing costs more) · air-only · months 5,6,7,8,9 · `62.3200, -150.0939` · **book ahead**
-- **#7 Denali Park Road** · `86` · scenic-drive
+- **#6 Denali Park Road** · `86` · scenic-drive
   - 92mi road into Denali NP. In 2026 you drive to Mile 15 (Savage River); buses run only to Mile 43 (East Fork).
   - *Tip:* Polychrome, Eielson, Wonder Lake and Kantishna are unreachable by road in 2026; full service is targeted for 2027.
   - 5h · $33.50 transit bus to East Fork; kids 15 and und · road · months 6,7,8,9 · `63.5356, -149.8290` · **book ahead**
-- **#9 Alaska Railroad Denali Star** · `85` · railroad
+- **#8 Alaska Railroad Denali Star** · `85` · railroad
   - 356mi flagship daily train; 12h Anchorage to Fairbanks via Wasilla, Talkeetna and Denali, with dome cars and dining.
   - *Tip:* Book GoldStar upper-deck for the open-air platform. Anchorage-Talkeetna or Denali-Fairbanks are good half-day segments.
   - 12h · ~$180-260 Adventure Class; ~$300-460 GoldStar do · rail · months 5,6,7,8,9 · `63.7328, -148.9006` · **book ahead**
-- **#10 Chena Hot Springs Resort** · `84` · hot-springs
+- **#9 Chena Hot Springs Resort** · `84` · hot-springs
   - Geothermal rock lake 60mi east of Fairbanks; soak at 106F under the aurora, plus an ice museum and dogsled tours.
   - *Tip:* Rock lake is 18+; kids get the indoor pool. Aurora season is late Aug-mid Apr - sit in the water facing north after 11pm.
   - 1d · $20 rock lake soak; rooms from ~$260/night · road · months 1,2,3,6,7,8,9,10,11,12 · `65.0529, -146.0589` · **book ahead**
-- **#17 Denali Flightseeing & Glacier Landings** · `82` · flightseeing
+- **#14 Denali Flightseeing & Glacier Landings** · `82` · flightseeing
   - 1-1.5hr flights from Denali Park Airport (Mile 229) and Healy River into the Alaska Range and Ruth Amphitheater.
   - *Tip:* With the Park Road cut at Mile 43, this is now the surest way to actually see the mountain. Book a morning slot.
   - 3h · $450-650; +$100-150 for a glacier landing · air-only · months 6,7,8 · `63.7323, -148.9112` · **book ahead**
-- **#24 Dalton Highway** · `80` · scenic-drive
+- **#19 Dalton Highway** · `80` · scenic-drive
   - 414 mi of mostly gravel from Livengood to Deadhorse beside the pipeline; only three fuel stops the whole way.
-  - *Tip:* Coord is Atigun Pass (MP 244, 4739ft), the highest road pass in AK. Carry 2 spares - most rentals forbid this road.
+  - *Tip:* Most rental contracts ban the Dalton - book a Fairbanks outfit that allows it in writing, and carry two full-size spares.
   - 2d · Free (fuel, tires and a rental that allows it ar · road · months 6,7,8,9 · `65.4894, -148.6889` · **book ahead**
-- **#26 Iditarod Ceremonial Start** · `80` · festival-event
+- **#21 Iditarod Ceremonial Start** · `80` · festival-event
   - Teams run an 11mi parade lap through downtown Anchorage on trucked-in snow - closest you get to 1,000 dogs at once.
   - *Tip:* Stand at Cordova St or the Campbell Airstrip end for room; downtown 4th Ave is shoulder-to-shoulder by 9am.
   - 4h · Free to spectate; ~$1,000+ to ride in a sled as  · road · months 2,3 · `61.2175, -149.8878` · **book ahead**
-- **#40 Murphy Dome** · `76` · aurora
+- **#37 Murphy Dome** · `76` · aurora
   - Highest road-accessible dome near Fairbanks at 2,930ft, with a true 360-degree horizon above the valley fog.
   - *Tip:* Last 15mi of Murphy Dome Rd is unlit and icy and the summit lot is fully exposed. No services, no cell in spots.
   - 4h · Free · road · months 1,2,3,9,10,11,12 · `64.9525, -148.3533`
-- **#43 Savage River** · `76` · hike-trail
+- **#40 Savage River** · `76` · hike-trail
   - Farthest point private cars can drive. Flat 2-mile river loop through a glacial canyon; Dall sheep on the ridges.
   - *Tip:* Free Savage River Shuttle runs from the visitor center if the small lot is full - it fills by 10am in July.
   - 3h · Free with park entrance · road · months 6,7,8,9 · `63.7398, -149.2916`
-- **#46 University of Alaska Museum of the North** · `76` · museum-culture
+- **#42 University of Alaska Museum of the North** · `76` · museum-culture
   - Alaska's best combined natural-history and Native art collection: Blue Babe the mummified steppe bison, mammoths, aurora.
   - *Tip:* Summer-only aurora and Native-games films run hourly upstairs; the ridge-top building and Alaska Range view are free.
   - 2.5h · ~$20 adult · road · months 1,2,3,4,5,6,7,8,9,10,11,12 · `64.8585, -147.8423`
-- **#50 Alyeska Resort** · `74` · winter-sport
+- **#47 Alyeska Resort** · `74` · winter-sport
   - Alaska's only full-service ski resort, 40mi from Anchorage: 1,610 vertical metres, 650in average snow, sea-level base.
   - *Tip:* New for 2026: a ticket covers two round trips. Buy online to save $5, or ride down free after hiking the North Face Trail.
   - 8h · ~$110 day lift ticket; ~$40 tram-only ride · road · months 1,2,3,4,6,7,8,9,12 · `60.9703, -149.0987` · **book ahead**
-- **#52 George Parks Highway** · `74` · scenic-drive
+- **#49 George Parks Highway** · `74` · scenic-drive
   - 323mi Anchorage-Fairbanks spine past Denali State Park and the national park entrance; paved the whole way.
   - *Tip:* Coord is Hurricane Gulch Bridge (MP 174), 260ft above the creek - pullouts on both ends, no shoulder on the span.
   - 8h · Free · road · months 5,6,7,8,9 · `63.0152, -149.6167`
-- **#54 Kaktovik polar bear viewing** · `74` · wildlife
-  - Inupiat village on the Beaufort Sea where polar bears gather ashore each fall - the most reliable wild polar bears in the US.
-  - *Tip:* Peak is early Sep-mid Oct. Flights cancel constantly for weather - build in two buffer days or you will miss it.
-  - 2d · $2,500-5,000 multi-day package including Fairban · air-only · months 9,10 · `70.1319, -143.6236` · **book ahead**
-- **#59 Talkeetna** · `74` · town-city
+- **#57 Talkeetna** · `74` · town-city
   - End-of-the-road river town at three rivers' confluence: Denali climbing base, three blocks of bars, cafes and outfitters.
   - *Tip:* 2.5 hrs from Anchorage on a 14mi spur off the Parks Hwy. Best Denali view is from the beach at Riverfront Park.
   - 8h · Free viewing; ~$150/night winter rooms · road · months 1,2,3,5,6,7,8,9,10,11,12 · `62.3236, -150.1139` · **book ahead**
-- **#60 Cleary Summit** · `73` · aurora
+- **#58 Cleary Summit** · `73` · aurora
   - 2,200ft ridge 20 miles north of Fairbanks with a north-facing horizon above the valley fog - the classic aurora pullout.
   - *Tip:* Lower pullout has trees blocking north. Continue to the Skiland/Fairbanks Creek Rd turnoff for the clean horizon.
   - 4h · Free roadside; ~$75-95 guided tours · road · months 1,2,3,4,9,10,11,12 · `65.0578, -147.4365`
-- **#65 Denali Highway** · `72` · scenic-drive
+- **#62 Denali Highway** · `72` · scenic-drive
   - 135 miles, 112 of them gravel, along the south flank of the Alaska Range. Glaciers, eskers, caribou, zero towns.
   - *Tip:* Coord is Maclaren Summit (MP 37, 4086ft), Alaska's 2nd-highest road pass. Most rental car contracts ban this road.
   - 7h · Free · road · months 6,7,8,9 · `63.0899, -146.4349`
-- **#68 Wonder Lake** · `72` · viewpoint
+- **#65 Wonder Lake** · `72` · viewpoint
   - The Ansel Adams view: 20,310ft Denali reflected in a 2.5-mile tundra lake. Currently unreachable by road.
   - *Tip:* Mosquitoes here are legendary - head net, not repellent. Closed in 2026; watch NPS for 2027 reopening.
   - 1d · Campground ~$18/night when open · road · months 7,8 · `63.4534, -150.8628` · **book ahead**
-- **#69 Borealis Basecamp** · `71` · wilderness-lodge
+- **#66 Borealis Basecamp** · `71` · wilderness-lodge
   - Clear-roofed fiberglass igloos on a ridge 25mi north of Fairbanks; you watch the aurora through the dome from bed.
   - *Tip:* Feb-Mar books out 6-12 months ahead. Cube cabins have larger walls of glass; igloos give you the overhead dome.
   - 1d · ~$600-1,000/night per igloo · road · months 1,2,3,9,10,11,12 · `65.1031, -147.8821` · **book ahead**
-- **#77 Sable Pass** · `70` · wildlife
+- **#72 Sable Pass** · `70` · wildlife
   - Open tundra pass inside Denali's permanent wildlife closure - the park's best grizzly, caribou and Dall sheep miles.
   - *Tip:* Still reachable in 2026 since buses turn at Mile 43. No off-road hiking for 5 miles - shoot from the bus.
   - 8h · $46 Denali transit bus + $15 park entry · road · months 6,7,8 · `63.6544, -149.6167` · **book ahead**
-- **#78 World Ice Art Championships** · `70` · festival-event
+- **#73 World Ice Art Championships** · `70` · festival-event
   - Carvers from 30-odd countries cut Fairbanks pond ice into multi-block sculptures; now held at Tanana Valley Fairgrounds.
   - *Tip:* Go after dark when the sculptures are lit - and March pairs it with peak aurora season and tolerable temperatures.
   - 3h · ~$18 adult day pass · road · months 2,3 · `64.8641, -147.7565`
-- **#81 Arctic Circle Wayside** · `68` · roadside-oddity
-  - BLM wayside at Dalton Mile 115 with the interpretive sign at 66 degrees 33 minutes - the standard latitude photo stop.
-  - *Tip:* About 5hr each way from Fairbanks on gravel. Rental contracts usually forbid the Dalton - take a tour van instead.
-  - 1h · Free (BLM) · road · months 3,6,7,8,9 · `66.5606, -150.8036`
-- **#83 Eielson Visitor Center** · `68` · viewpoint
+- **#75 Eielson Visitor Center** · `68` · viewpoint
   - LEED-platinum center 33 miles from Denali itself - the classic head-on view of the mountain. Shut since 2021.
   - *Tip:* Do not plan a 2026 trip around Eielson. If it reopens in 2027 the Eielson bus is an 8-hour round trip.
   - 8h · Bus ticket (when service resumes) · road · months 6,7,8 · `63.4310, -150.3114` · **book ahead**
-- **#84 Fairbanks** · `68` · town-city
+- **#76 Fairbanks** · `68` · town-city
   - Alaska's second city at 64.8N: aurora capital, gateway to the Dalton and Steese, base for Chena Hot Springs.
   - *Tip:* Aurora season restarts around Aug 21 when nights get dark again - late Aug pairs green skies with green tundra.
   - 2d · Free · road · months 3,6,7,8,9 · `64.8378, -147.7164`
-- **#91 Tony Knowles Coastal Trail** · `68` · hike-trail
+- **#79 Kaktovik Polar Bear Viewing** · `68` · wildlife
+  - Inupiat village on the Beaufort Sea where polar bears gather ashore each fall - the most reliable wild polar bears in the US.
+  - *Tip:* Peak is early Sep-mid Oct. Flights cancel constantly for weather - build in two buffer days or you will miss it.
+  - 2d · $2,500-5,000 multi-day package including Fairban · air-only · months 9,10 · `70.1319, -143.6236` · **book ahead**
+- **#82 Tony Knowles Coastal Trail** · `68` · hike-trail
   - 11-mile paved path from downtown to Kincaid Park along Cook Inlet; moose, belugas and a Denali view on clear days.
   - *Tip:* Rent downtown and ride to Point Woronzof for the classic sunset shot; Westchester Lagoon at mile 1.5 if time is short.
   - 3h · Free (bike rental ~$40/day) · road · months 5,6,7,8,9 · `61.2178, -149.9083`
-- **#92 Alaska Railroad Aurora Winter Train** · `66` · railroad
+- **#83 Alaska Railroad Aurora Winter Train** · `66` · railroad
   - The winter version of the Denali Star: weekend-only Anchorage-Fairbanks service through snowbound Broad Pass.
   - *Tip:* Sells out around aurora season and the Feb-Mar sled-dog races. Northbound Sat, southbound Sun; flagstops still honored.
   - 12h · ~$200 Fairbanks-Anchorage adventure class · rail · months 1,2,3,6,7,8,9,10,11,12 · `64.8513, -147.7406` · **book ahead**
-- **#94 Coldfoot Camp** · `66` · aurora
+- **#85 Coldfoot Camp** · `66` · aurora
   - Old pipeline construction camp at Dalton Mile 175, base for Brooks Range aurora, dog sledding and Atigun Pass runs.
-  - *Tip:* Book rooms weeks ahead Jun-Aug. The buffet runs all night for truckers. Top off the tank here no matter what.
+  - *Tip:* Standard trip is fly Fairbanks-Coldfoot, view aurora, then drive the Dalton back with a guide the next day.
   - 1d · ~$250/night; fly-drive packages ~$700+ · road · months 1,2,3,6,7,8,9,10,11,12 · `67.2345, -150.0595` · **book ahead**
-- **#102 Riverboat Discovery** · `66` · boat-cruise
+- **#92 Riverboat Discovery** · `66` · boat-cruise
   - 3.5hr sternwheeler on the Chena and Tanana with a bush-plane demo, Susan Butcher's kennel, and an Athabascan village stop.
   - *Tip:* Book the 8:45am sailing - afternoon runs are the cruise-bus crowd. The Chena Indian Village walk is the real content.
   - 3.5h · ~$85 adult · boat-tour · months 6,7,8,9 · `64.8302, -147.8659` · **book ahead**
-- **#106 Anchorage Fur Rendezvous** · `65` · festival-event
+- **#96 Anchorage Fur Rendezvous** · `65` · festival-event
   - Alaska's oldest winter festival: World Championship sprint sled dog races on 4th Ave, snow sculptures, outhouse races.
   - *Tip:* Locomotive No. 1, the 1907 engine that built the line, sits out front. Bag drop opens 60-90 min before departure.
   - 6h · Most events free; some ticketed · road · months 2,3,5,6,7,8,9 · `61.2167, -149.8901` · **book ahead**
-- **#107 Gold Dredge 8** · `65` · historic-site
+- **#97 Gold Dredge 8** · `65` · historic-site
   - National Historic Landmark bucket-line dredge on Goldstream Creek; narrow-gauge train ride and guaranteed gold panning.
   - *Tip:* El Dorado Gold Mine has closed - its tour merged into this one. Everyone finds gold; bring cash to have it weighed.
   - 2h · ~$120 adult, includes gold panning · road · months 5,6,7,8,9 · `64.9372, -147.6578` · **book ahead**
-- **#109 Camp Denali & North Face Lodge** · `64` · wilderness-lodge
+- **#99 Camp Denali & North Face Lodge** · `64` · wilderness-lodge
   - Deep-park lodges near Mile 89 with a Denali view from every cabin porch; guided hikes, no wifi, communal meals.
   - *Tip:* Park Road is still severed at Mile 43 by the Pretty Rocks slide, so access is by charter flight to Kantishna.
   - 3d · $3,000+ per person for a 3-night stay, all-inclu · air-only · months 6,7,8 · `63.5191, -150.8995` · **book ahead**
-- **#114 Hatcher Pass Road** · `63` · scenic-drive
+- **#107 Hatcher Pass Road** · `63` · scenic-drive
   - Alpine road over a 3886ft pass in the Talkeetnas linking Palmer to Willow; gravel and one-lane on the Willow side.
   - *Tip:* The through-route opens late - call before planning a loop. Palmer-side pavement to Independence Mine works any summer day.
   - 4h · Free; $5 state park day-use at Independence Mine · road · months 7,8,9 · `61.7697, -149.3089`
-- **#115 Wiseman** · `63` · aurora
+- **#108 Wiseman** · `63` · aurora
   - Log village of about a dozen residents at Dalton Mile 189, 60mi north of the Arctic Circle and directly under the oval.
   - *Tip:* Sits in a mountain rain shadow with fewer cloudy nights than Fairbanks; Arctic Hive and Boreal Lodging take bookings.
   - 1d · Free to walk; ~$200/night cabins · road · months 1,2,3,6,7,8,9,10,11,12 · `67.4101, -150.1091` · **book ahead**
-- **#119 Denali Park Sled Dog Kennels** · `62` · museum-culture
+- **#114 Denali Park Sled Dog Kennels** · `62` · museum-culture
   - Only working sled-dog kennel in the US National Park System - rangers still patrol Denali by dog team in winter.
   - *Tip:* Demos run ~3x daily; take the free shuttle from the visitor center 40 min early and go meet the dogs first.
   - 1.5h · Free · road · months 6,7,8 · `63.7195, -148.9684`
-- **#129 Utqiagvik** · `62` · town-city
+- **#125 Utqiagvik** · `62` · town-city
   - Northernmost town in the US: ~4,900 mostly Inupiat residents on the Chukchi coast, 320 mi above the Arctic Circle.
   - *Tip:* Daily Alaska Airlines jet via Fairbanks. Alcohol sales are banned and everything is flown in - budget accordingly.
   - 2d · ~$600 round-trip airfare from Anchorage · air-only · months 6,7,8 · `71.2906, -156.7886` · **book ahead**
-- **#130 Alaska Railroad Hurricane Turn** · `60` · railroad
+- **#126 Alaska Railroad Hurricane Turn** · `60` · railroad
   - One of America's last true flagstop trains: wave a white cloth anywhere between Talkeetna and Hurricane and it stops for you.
   - *Tip:* Board at Talkeetna, not Anchorage. No dining car - bring food. It crosses the 296ft Hurricane Gulch railroad bridge.
   - 6h · ~$110 round trip Talkeetna to Hurricane · rail · months 6,7,8,9 · `62.3238, -150.1116` · **book ahead**
-- **#133 Denali View South** · `60` · viewpoint
+- **#129 Denali View South** · `60` · viewpoint
   - State park wayside with mounted spotting scopes and interpretive panels 40mi from Denali - the best roadside view of the peak.
   - *Tip:* Only about a third of summer days show the mountain; early morning is clearest. Free, no reservation, big-rig parking.
   - 1h · Free; $20 to camp (9 sites) · road · months 5,6,7,8,9 · `62.5921, -150.2392`
-- **#141 Taylor Highway** · `60` · scenic-drive
+- **#136 Ruth Glacier & the Great Gorge** · `60` · glacier
+  - Mile-wide glacier trench walled by 5,000-ft granite; the standard Denali flightseeing ski landing and a world climbing objective.
+  - *Tip:* Pay for the glacier-landing option, not the plain flyover - about $150 extra buys 20 min standing on ice below Moose's Tooth.
+  - 3h · $450-600 flight with glacier landing · air-only · months 5,6,7,8 · `62.8000, -150.6500` · **book ahead**
+- **#138 Taylor Highway** · `60` · scenic-drive
   - 160-mi gravel/chip-seal road from Tetlin Junction over the Fortymile country to Chicken, Jack Wade and Eagle.
   - *Tip:* Coord is the Mount Fairplay wayside (MP 35), the big Fortymile country overlook. Fuel at Chicken is cash-heavy and dear.
   - 8h · Free · road · months 6,7,8,9 · `63.3114, -142.6027`
-- **#145 Arctic National Wildlife Refuge** · `58` · wildlife
-  - 19.6M acres from the Brooks Range crest to the Beaufort coast - calving ground of the Porcupine caribou herd.
-  - *Tip:* No roads, trails, campgrounds or signs. Bush flights from Fairbanks or Coldfoot; guided trips book a year out.
-  - 4d · Free entry; ~$5,000+ for a guided float · air-only · months 6,7,8 · `69.3000, -144.0000` · **book ahead**
-- **#146 Aurora Ice Museum** · `58` · museum-culture
+- **#143 Aurora Ice Museum** · `58` · museum-culture
   - Year-round ice structure at Chena Hot Springs kept at 25F by geothermal-powered chillers - carved bar, beds, chandeliers.
   - *Tip:* Tour times are fixed and sell out; book when you buy your hot springs pass. Parkas provided, but wear real shoes.
   - 1h · ~$25 tour; appletini in an ice glass extra · road · months 1,2,3,4,5,6,7,8,9,10,11,12 · `65.0534, -146.0571` · **book ahead**
-- **#149 Denali Visitor Center** · `58` · museum-culture
+- **#146 Denali Visitor Center** · `58` · museum-culture
   - The MSLC stands in as Denali's winter visitor center; park road is plowed only to Mile 3, then it's ski/snowshoe/mush.
   - *Tip:* Park Road is still severed at Mile 43 by the Pretty Rocks landslide; the Polychrome bridge is targeted to open in 2027.
   - 1.5h · Free in winter (no entrance fee collected) · road · months 3,4,6,7,8,9,10 · `63.7309, -148.9171`
-- **#150 Eagle** · `58` · town-city
+- **#147 Eagle** · `58` · town-city
   - Yukon River town of ~85 at the end of a 65-mi spur off the Taylor, with an intact 1900s courthouse and customs house.
   - *Tip:* The Eagle Historical Society runs a 3-hr guided walking tour of five historic buildings, usually 9am daily in summer.
   - 4h · Free; museum walking tour ~$10 · road · months 6,7,8,9 · `64.7864, -141.2026`
-- **#156 Mount Healy Overlook Trail** · `58` · hike-trail
+- **#150 K'esugi Ridge Trail** · `58` · hike-trail
+  - 27-mi alpine ridge traverse in Denali State Park with the best unobstructed Denali views you can reach on foot.
+  - *Tip:* Hike southbound from Little Coal Creek for the least climbing; you need a car shuttle to Ermine Hill or Byers Lake.
+  - 1.2d · Free; $5 trailhead parking · trail · months 7,8,9 · `62.8500, -149.9167`
+- **#154 Mount Healy Overlook Trail** · `58` · hike-trail
   - 2.7mi one-way, ~1,700ft climb from the visitor center to a treeline bench over the Nenana River valley.
   - *Tip:* The single best entrance-area hike, no bus needed. Push 30 min past the overlook to the ridge for wider views.
   - 4h · Free with park entrance · trail · months 6,7,8,9 · `63.7309, -148.9194`
-- **#158 Potter Marsh Bird Sanctuary** · `58` · wildlife
+- **#156 Potter Marsh Bird Sanctuary** · `58` · wildlife
   - 1,500ft boardwalk over a Seward Highway wetland: arctic terns, trumpeter swans, spawning salmon and browsing moose.
   - *Tip:* First half of May is the migration peak; the south end of the boardwalk has the salmon channel and the moose.
   - 1.5h · Free · road · months 5,6,7,8 · `61.0570, -149.8281`
-- **#166 Black Spruce Dog Sledding** · `57` · winter-sport
+- **#164 Black Spruce Dog Sledding** · `57` · winter-sport
   - Kennel run by Iditarod mushers Jeff and KattiJo Deeter; private winter tours where you actually drive the team.
   - *Tip:* Private-only, so it books out weeks ahead in Feb-Mar. Choose the longer tour if you want to drive, not ride.
   - 3h · ~$200-350 per person private tour · road · months 1,2,3,12 · `64.9917, -148.0285` · **book ahead**
-- **#170 Chicken** · `56` · town-city
+- **#168 Chicken** · `56` · town-city
   - Population ~15 gold-camp settlement at Taylor Hwy MP 66: cafe, saloon, mercantile, outhouses and gift shops.
   - *Tip:* Named Chicken because miners couldn't spell ptarmigan. Cash helps - card service drops out constantly.
   - 2h · Free to visit; panning ~$20 · road · months 6,7,8,9 · `64.0731, -141.9367`
-- **#176 Nenana River Canyon Rafting** · `56` · boat-cruise
+- **#174 Nenana River Canyon Rafting** · `56` · boat-cruise
   - Class III-IV glacial whitewater right outside the park entrance; mellower scenic float option upstream.
   - *Tip:* Water is ~38F - take the drysuit upgrade, not the splash jacket. Kids usually need the scenic float instead.
   - 4h · $110-140 for a 2-hour trip · road · months 6,7,8 · `63.7386, -148.8867` · **book ahead**
-- **#179 Steese Highway** · `56` · scenic-drive
+- **#177 Steese Highway** · `56` · scenic-drive
   - 162mi Fairbanks to Circle on the Yukon, half gravel, over two alpine summits and old Circle District dredge country.
   - *Tip:* Coord is Eagle Summit (MP 107, 3624ft) - one of the few road spots south of the Circle with true midnight sun on Jun 21.
   - 6h · Free · road · months 6,7,8,9 · `64.9556, -147.6194`
-- **#187 Creamer's Field Migratory Waterfowl Refuge** · `55` · wildlife
+- **#183 Arctic Circle Wayside** · `55` · roadside-oddity
+  - BLM wayside at Dalton Mile 115 with the interpretive sign at 66 degrees 33 minutes - the standard latitude photo stop.
+  - *Tip:* About 5hr each way from Fairbanks on gravel. Rental contracts usually forbid the Dalton - take a tour van instead.
+  - 1h · Free (BLM) · road · months 3,6,7,8,9 · `66.5558, -150.8108`
+- **#184 Arctic National Wildlife Refuge** · `55` · wildlife
+  - 19.6M acres from the Brooks Range crest to the Beaufort coast - calving ground of the Porcupine caribou herd.
+  - *Tip:* No roads, trails, campgrounds or signs. Bush flights from Fairbanks or Coldfoot; guided trips book a year out.
+  - 4d · Free entry; ~$5,000+ for a guided float · air-only · months 6,7,8 · `68.7500, -143.5000` · **book ahead**
+- **#189 Creamer's Field Migratory Waterfowl Refuge** · `55` · wildlife
   - 2,000-acre former dairy inside Fairbanks where thousands of sandhill cranes stage each August; flat loop trails.
   - *Tip:* Only works on strong Kp nights - city glow is real. Free lot on College Rd; ski and snowshoe trails are groomed.
   - 2h · Free · road · months 1,2,3,4,5,8,9,10,11,12 · `64.8642, -147.7378`
-- **#188 Denali Park Road Closure - East Fork Bridge (Mile 43)** · `55` · viewpoint
+- **#190 Denali Park Road Closure - East Fork Bridge (Mile 43)** · `55` · viewpoint
   - The Pretty Rocks landslide closes the Park Road at Mile 43; every bus and vehicle turns around here.
   - *Tip:* Eielson VC, Wonder Lake and Kantishna stay unreachable through summer 2026 - check nps.gov before booking.
   - 0.5h · Free (bus fare separate) · road · months 6,7,8 · `63.5439, -149.8478`
-- **#195 Round Island** · `55` · wildlife
+- **#196 Round Island** · `55` · wildlife
   - Craggy Bering Sea island where up to 14,000 male Pacific walrus haul out on the beaches; also puffins and sea lions.
   - *Tip:* 5-day ADF&G permits, first-come. You camp - no facilities - and boat landings get weathered out for days at a time.
   - 4d · $50 ADF&G permit + $1,000+ boat charter from Tog · boat-tour · months 5,6,7 · `58.6001, -159.9667` · **book ahead**
-- **#196 Savage Alpine Trail** · `55` · hike-trail
+- **#197 Savage Alpine Trail** · `55` · hike-trail
   - 4mi point-to-point, ~1,500ft gain between Savage River Campground (Mile 13) and Savage River (Mile 15).
   - *Tip:* Best day hike reachable without a park bus. Hike west-to-east and ride the free shuttle back to your car.
   - 5h · Free with park entrance · road · months 6,7,8,9 · `63.7171, -149.2581`
-- **#197 Sheldon Chalet** · `55` · wilderness-lodge
+- **#198 Sheldon Chalet** · `55` · wilderness-lodge
   - Five-room chalet on a granite nunatak in the Don Sheldon Amphitheater of the Ruth Glacier, ringed by mile-high walls.
   - *Tip:* Helicopter in from Talkeetna; weather routinely strands guests a day, so leave slack before any flight home.
   - 2d · ~$2,300 per person per night, 2-night minimum · air-only · months 2,3,4,5,6,7 · `62.9689, -150.7515` · **book ahead**
@@ -813,1120 +941,1256 @@ Anchors — Denali NP 98, Kenai Fjords day cruise 93, Brooks Falls 92, Mendenhal
   - Cleary Summit lodge with floor-to-ceiling north windows that also sells a warm indoor viewing session to non-guests.
   - *Tip:* The viewing session (roughly 10pm-2am, hot drinks included) is the cheap way to sit warm at 2,100ft without a room.
   - 4h · ~$75 viewing session; rooms ~$285/night · road · months 1,2,3,9,10,11,12 · `65.0517, -147.4494` · **book ahead**
-- **#215 Eagle River Nature Center** · `52` · hike-trail
+- **#213 Castner Glacier Ice Cave** · `52` · glacier
+  - Blue ice cave at the snout of Castner Glacier, 1.3 mi up a gravel creek bed from a Richardson Highway pullout at Mile 217.
+  - *Tip:* Go Feb-Mar when the creek is frozen flat and the roof is solid; summer meltwater makes the cave dangerous and the walk muddy.
+  - 3h · Free (BLM/State land) · trail · months 2,3,4 · `63.4009, -145.5266`
+- **#218 Eagle River Nature Center** · `52` · hike-trail
   - Chugach State Park's staffed nature center at road's end, with boardwalk loops, a salmon-viewing deck and beaver ponds.
   - *Tip:* Rodak Nature Trail is 0.75mi and stroller-friendly; Albert Loop closes each fall when bears are on the salmon.
   - 2.5h · $5 parking · road · months 6,7,8,9 · `61.2278, -149.2758`
-- **#216 Eagle Summit** · `52` · viewpoint
+- **#219 Eagle Summit** · `52` · viewpoint
   - 3,624-ft treeless pass at Steese MP 107, the highest point on the road and a carpet of alpine wildflowers in July.
   - *Tip:* On June 20-22 you can watch the sun stay above the horizon all night here - it's the classic Fairbanks solstice drive.
   - 1.5h · Free · road · months 3,4,6,7,8,9,10 · `65.4844, -145.4036`
-- **#217 Fort Egbert & Eagle Historic District** · `52` · historic-site
+- **#220 Fort Egbert & Eagle Historic District** · `52` · historic-site
   - Five BLM-restored buildings of an 1899 US Army post - the mule barn, quartermaster storehouse and granary survive.
   - *Tip:* This is where Amundsen mushed 500 mi in 1905 to telegraph news that he'd completed the Northwest Passage.
   - 2h · Free (BLM) · road · months 6,7,8 · `64.7889, -141.2133`
-- **#223 Morris Thompson Cultural and Visitors Center** · `52` · museum-culture
+- **#227 Morris Thompson Cultural and Visitors Center** · `52` · museum-culture
   - Free Interior Alaska exhibit hall plus Public Lands Info Center on the Chena riverfront; trip-planning desk for Arctic travel.
   - *Tip:* Free Athabascan dance, craft and storytelling programs run most summer afternoons - check the daily board on arrival.
   - 1.5h · Free · road · months 1,2,3,4,5,6,7,8,9,10,11,12 · `64.8438, -147.7203`
-- **#226 Running Reindeer Ranch** · `52` · wildlife
+- **#230 Running Reindeer Ranch** · `52` · wildlife
   - Family ranch in the boreal forest where you walk loose in the woods with a small herd of habituated reindeer.
   - *Tip:* Reservation only, small groups, sells out weeks ahead in summer. Bring bug spray - it is real forest.
   - 2.5h · ~$95 adult · road · months 1,2,3,6,7,8,9,12 · `64.9252, -147.9521` · **book ahead**
-- **#230 Yukon-Charley Rivers National Preserve** · `52` · national-park
+- **#234 Yukon-Charley Rivers National Preserve** · `52` · national-park
   - 2.5M-acre NPS preserve with no roads; a 158-mi Yukon River float from Eagle to Circle past cabins and bluffs.
   - *Tip:* Slaven's Roadhouse and six other public-use cabins are free, first-come. Register your float at the Eagle NPS office.
   - 4d · Free; charter boat/air from Eagle or Circle is t · boat-tour · months 6,7,8 · `65.3506, -143.1228` · **book ahead**
-- **#231 Denali View North** · `51` · viewpoint
+- **#235 Denali View North** · `51` · viewpoint
   - Quiet north-end Denali State Park wayside with a wide Alaska Range panorama and 20 first-come campsites.
   - *Tip:* Far emptier than Denali View South and it holds evening alpenglow longer; last reliable Denali view before Broad Pass.
   - 1h · Free day use; $20 camping (20 sites) · road · months 6,7,8,9 · `62.8863, -149.7859`
-- **#235 Delta Junction - End of the Alaska Highway** · `50` · town-city
+- **#239 Delta Junction - End of the Alaska Highway** · `50` · town-city
   - Official end of the Alaska Highway: the Milepost 1422 monument, a mosquito statue, and Alaska Pipeline exhibits.
   - *Tip:* Buy the End of the Highway certificate if you drove the Alcan. Delta's free-ranging bison herd is often visible nearby.
   - 2h · Free · road · months 5,6,7,8,9 · `64.0378, -145.7325`
-- **#239 Pinnell Mountain National Recreation Trail** · `50` · hike-trail
+- **#243 Pinnell Mountain National Recreation Trail** · `50` · hike-trail
   - 27.3-mi ridge traverse between Eagle Summit and Twelvemile Summit, entirely above treeline with two trail shelters.
   - *Tip:* No water on the ridge - carry it or plan to drop to snow patches. Two-car shuttle or 3-day out-and-back.
   - 1d · Free (BLM) · trail · months 7,8 · `65.4848, -145.4147`
-- **#240 Pioneer Park** · `50` · museum-culture
+- **#244 Pioneer Park** · `50` · museum-culture
   - 44-acre historic park of relocated gold-rush cabins, the sternwheeler Nenana, and aviation, railroad and Native museums.
   - *Tip:* Free to walk in; the Nenana riverboat and Pioneer Air Museum charge separately. Salmon Bake dinner nightly in summer.
   - 3h · Free entry; small fees for museums and rides · road · months 6,7,8 · `64.8378, -147.7726`
-- **#242 Poker Creek-Little Gold Creek Border Crossing** · `50` · roadside-oddity
+- **#246 Poker Creek-Little Gold Creek Border Crossing** · `50` · roadside-oddity
   - Northernmost land border port in the US - one shared US/Canada building on a bare tundra ridge at 141 degrees W.
   - *Tip:* Hours are short and strictly enforced; arrive by 5pm Alaska time. Passport required, no fuel, no cell service.
   - 0.5h · Free · road · months 6,7,8 · `64.0857, -141.0022`
-- **#247 Yukon Quest Alaska 750 Start** · `50` · festival-event
+- **#252 Yukon Quest Alaska 750 Start** · `50` · festival-event
   - Since the international race split, Yukon Quest Alaska runs an all-Alaska loop starting and finishing in Fairbanks.
   - *Tip:* 2026's first running of the new 750 (GPS-measured ~850mi) drew only six teams; check the field before planning a trip.
   - 3h · Free to spectate · road · months 2 · `64.8445, -147.7211`
-- **#248 Aurora Pointe Activity Center** · `49` · aurora
+- **#253 Aurora Pointe Activity Center** · `49` · aurora
   - Heated glass-walled viewing hall on 280 private acres 15min from Fairbanks; guides, snacks, no town light spill.
   - *Tip:* Capped around 60 guests and includes town pickup - the sane option if you didn't rent a studded-tire car.
   - 4h · ~$95 per person incl. hotel pickup · road · months 1,2,3,9,10,11,12 · `64.8884, -147.4735` · **book ahead**
-- **#251 Angel Rocks Trail** · `48` · hike-trail
+- **#256 Angel Rocks Trail** · `48` · hike-trail
   - 3.5mi loop, ~900ft gain, to house-sized granite outcrops above the Chena River - the best short hike near Fairbanks.
   - *Tip:* Or hike the 8.3mi one-way traverse to Chena Hot Springs and soak at the end - stash a car at the resort.
   - 3h · $5 parking · trail · months 6,7,8,9 · `65.0263, -146.1914`
-- **#252 Husky Homestead** · `48` · museum-culture
+- **#259 Husky Homestead** · `48` · museum-culture
   - Working kennel of 4-time Iditarod champion Jeff King: puppy handling, gear talk, ATV sled-team demo.
   - *Tip:* Tour includes shuttle pickup from Denali-area hotels. Puppies are usually born in spring - best litters in June.
   - 2.5h · ~$89 adult · road · months 6,7,8 · `63.6335, -148.7862` · **book ahead**
-- **#254 Kantishna** · `48` · wilderness-lodge
+- **#262 Kantishna** · `48` · wilderness-lodge
   - Old gold camp at the road's end, now 4 wilderness lodges deep inside the park with guided hiking and rafting.
   - *Tip:* With Mile 43 closed, lodges run fly-in packages from Denali Park Airport instead of the 6-hour bus.
   - 2d · $700-1,200/person/night all-inclusive · air-only · months 6,7,8 · `63.5248, -150.9601` · **book ahead**
-- **#260 Riverboat Discovery & Chena Indian Village** · `48` · native-culture
+- **#268 Riverboat Discovery & Chena Indian Village** · `48` · native-culture
   - 3.5-hr sternwheeler on the Chena with a walking stop at a staffed Athabascan village: fish camp, sled dogs, furs, beadwork.
   - *Tip:* Sells out in July, so reserve ahead; the run includes a bush-plane demo and Susan Butcher's sled-dog kennel.
   - 4h · About $85 adult · boat-tour · months 5,6,7,8,9 · `64.8150, -147.9480` · **book ahead**
-- **#263 Wickersham Dome Trailhead** · `48` · hike-trail
+- **#271 Wickersham Dome Trailhead** · `48` · hike-trail
   - Paved-road trailhead at Elliott MP 28 into White Mountains NRA; a 5-mi climb above treeline toward Wickersham Dome.
   - *Tip:* In winter this is the gateway to 200+ mi of ski/snowmachine trails and 12 reservable BLM cabins - book on recreation.gov.
   - 5h · Free; BLM cabins ~$25-30/night · trail · months 6,7,8,9 · `65.1781, -148.0761`
-- **#264 World Eskimo-Indian Olympics** · `48` · native-culture
+- **#272 World Eskimo-Indian Olympics** · `48` · native-culture
   - Since 1961: ear pull, blanket toss, knuckle hop and seal-skinning contests drawing Native athletes from across Alaska.
   - *Tip:* Buy a day pass and stay for the evening session - that is when the finals and the blanket toss happen.
   - 4h · ~$20/day · road · months 7 · `64.8299, -147.7453`
-- **#266 Ester Dome** · `47` · viewpoint
+- **#274 Ester Dome** · `47` · viewpoint
   - 2,364ft tower-topped dome just west of Fairbanks - the closest real aurora hill to town, 25min from downtown.
   - *Tip:* Henderson Rd up the north side turns to glare ice by January; without studs and 4WD use Murphy Dome instead.
   - 3h · Free · road · months 1,2,3,9,10,11,12 · `64.8793, -148.0548`
-- **#275 Byers Lake Campground & Kesugi Ridge Trailhead** · `46` · hike-trail
+- **#283 Byers Lake Campground & Kesugi Ridge Trailhead** · `46` · hike-trail
   - Lakeside Denali State Park campground and the south end of the Kesugi Ridge traverse, facing Denali.
   - *Tip:* Kesugi Ridge is a 27 mi point-to-point; day-hike the Cascade Trail up to the ridge for the same view.
   - 8h · $20/night camping, $5 day-use parking · road · months 7,8,9 · `62.7472, -150.1097`
-- **#278 Fairview Inn** · `46` · food-drink
+- **#286 Fairview Inn** · `46` · food-drink
   - 1923 Talkeetna bar where President Harding stopped weeks before he died; low ceilings, live bands, climbers' hangout.
   - *Tip:* Music starts around 9pm and the room is tiny - the back beer garden is the overflow. Rooms upstairs are basic.
   - 1.5h · $6-8 beers · road · months 5,6,7,8,9 · `62.3233, -150.1133`
-- **#279 Franklin Bluffs muskox & caribou flats** · `46` · wildlife
+- **#287 Franklin Bluffs muskox & caribou flats** · `46` · wildlife
   - Ochre bluffs above the Sagavanirktok flats - the most reliable roadside muskox and caribou stretch on the Dalton.
   - *Tip:* Scan with binoculars from the road; muskox look like black boulders that slowly move. Drive it slowly, both ways.
   - 2h · Free · road · months 6,7,8 · `69.8833, -148.7167`
-- **#283 Midnight Sun Baseball Game** · `46` · festival-event
+- **#294 Midnight Sun Baseball Game** · `46` · festival-event
   - Goldpanners play from 10pm past midnight on the solstice with no artificial lights - a tradition since 1906.
   - *Tip:* Tickets go on sale in spring and sell out; the point is the innings after midnight, so do not leave early.
   - 4h · ~$25 · road · months 6 · `64.8468, -147.7461` · **book ahead**
-- **#284 Mt. Aurora Skiland** · `46` · winter-sport
+- **#295 Mt. Aurora Skiland** · `46` · winter-sport
   - Small volunteer-flavoured ski hill on Cleary Summit, 20mi north of Fairbanks; 1,100ft vertical off one double chair.
   - *Tip:* Its lodge and lot double as an aurora perch - the same summit as the Cleary pullouts but with a warm room and coffee.
   - 4h · Aurora viewing ~$75; lift ticket ~$50 · road · months 1,2,3,9,10,11,12 · `65.0457, -147.4078` · **book ahead**
-- **#288 Safety Sound** · `46` · wildlife
+- **#299 Safety Sound** · `46` · wildlife
   - Lagoon at Mile 20 of the Nome-Council Road: eiders, loons, jaegers, Arctic terns, bluethroat and roadside musk ox.
   - *Tip:* Late May-mid Jun for king and spectacled eider, loons and jaegers. Scope from the pullouts; do not walk the spit.
   - 4h · Free (rental 4x4 ~$150/day from Nome) · road · months 5,6 · `64.4906, -164.8028` · **book ahead**
-- **#289 Teklanika River Campground** · `46` · national-park
+- **#300 Teklanika River Campground** · `46` · national-park
   - The only Denali campground you may drive your own vehicle to past Savage River, at Park Road Mile 29.
   - *Tip:* Three-night minimum and the car stays parked until you leave; the Tek Pass then lets you re-ride buses free.
   - 3d · ~$34/night, 3-night minimum · road · months 6,7,8 · `63.6486, -149.5842` · **book ahead**
-- **#290 Tok** · `46` · town-city
+- **#301 Tok** · `46` · town-city
   - Highway junction town where the Alaska Highway meets the Tok Cutoff - the first real services after the border.
   - *Tip:* Everyone driving the Alaska Highway funnels through here; it is the last full-service stop before Chicken or Delta.
   - 3h · Free · road · months 6,7,8,9 · `63.3367, -142.9856`
-- **#292 Anaktuvuk Pass** · `45` · native-culture
-  - Nunamiut Inupiat village of ~330 at 2,200 ft inside Gates of the Arctic - the last inland caribou-hunting settlement.
+- **#302 Anaktuvuk Pass** · `45` · native-culture
+  - Nunamiut Inupiat village of ~350 at 2,200 ft inside Gates of the Arctic - the last inland caribou-hunting settlement.
   - *Tip:* Daily Wright Air service from Fairbanks. Much of the land around town is Native corporation owned - ask first.
   - 8h · ~$400 round-trip flight from Fairbanks · air-only · months 6,7,8 · `68.1433, -151.7353` · **book ahead**
-- **#293 Kotzebue** · `45` · town-city
+- **#303 Kotzebue** · `45` · town-city
   - Inupiat hub of ~3,100 on a gravel spit 26 mi above the Arctic Circle; gateway to Kobuk, Noatak and Cape Krusenstern.
   - *Tip:* Daily Alaska Airlines jets from Anchorage. In late Jun the sun sets over the Chukchi around 2am and rises at 4.
-  - 1d · ~$500 round-trip airfare from Anchorage · air-only · months 6,7,8 · `66.8983, -162.5967` · **book ahead**
-- **#296 Santa Claus House** · `45` · roadside-oddity
+  - 1d · ~$500 round-trip airfare from Anchorage · air-only · months 6,7,8 · `66.8972, -162.5856` · **book ahead**
+- **#306 Santa Claus House** · `45` · roadside-oddity
   - Year-round Christmas store in North Pole with a 42ft Santa, a live reindeer pen and streets named Santa Claus Lane.
   - *Tip:* You can order a letter to a kid postmarked North Pole in December; it's 20min south of Fairbanks off the Richardson.
   - 1h · Free entry · road · months 2,3,6,7,8,12 · `64.7549, -147.3431`
-- **#310 Chena Lake Recreation Area** · `44` · aurora
+- **#322 Chena Lake Recreation Area** · `44` · aurora
   - 2,000-acre borough park by North Pole; the frozen lake gives a flat dark north horizon plus rentable ice-fishing huts.
   - *Tip:* The borough rents three heated ice houses by the day - lake is stocked with rainbow trout, char and silvers.
   - 3h · $5 day use · road · months 1,2,3,11,12 · `64.7691, -147.2269`
-- **#311 Chicken Gold Camp & Pedro Dredge** · `44` · historic-site
+- **#323 Chicken Gold Camp & Pedro Dredge** · `44` · historic-site
   - Restored 1938 bucket-line dredge that worked Chicken Creek, moved here in 1998, plus a campground and cafe.
   - *Tip:* Just off Taylor Hwy on Airport Road. Panning here uses real paydirt from Chicken Creek - bring your own pan to save.
   - 1.5h · Dredge tour ~$10-15; panning ~$20; RV/tent sites · road · months 6,7,8,9 · `64.0709, -141.9391`
-- **#314 Elliott Highway** · `44` · scenic-drive
+- **#326 Elliott Highway** · `44` · scenic-drive
   - 152mi ridge-running road from Fox to Manley Hot Springs; also the only approach to the Dalton, which splits off at MP 73.
   - *Tip:* Coord is Wickersham Dome trailhead (MP 28) - easiest alpine tundra walk near Fairbanks and the White Mtns viewpoint.
   - 8h · Free · road · months 6,7,8,9 · `65.5244, -148.5447`
-- **#316 Fountainhead Antique Auto Museum** · `44` · museum-culture
+- **#328 Fountainhead Antique Auto Museum** · `44` · museum-culture
   - Roughly 90 pre-WWII cars, most still drivable, paired with period fashion and Alaska's own automotive history.
   - *Tip:* Consistently the highest-rated indoor stop in Fairbanks - the obvious rainy-day or aurora-nap-day plan.
   - 2h · ~$15 adult · road · months 5,6,7,8,9 · `64.8363, -147.7982`
-- **#317 Horseshoe Lake Trail** · `44` · hike-trail
+- **#330 Horseshoe Lake Trail** · `44` · hike-trail
   - Easy 2mi loop dropping ~200ft to an oxbow lake off the Nenana River. Active beaver lodges and dams.
   - *Tip:* Most popular short hike in the park - go at 7am or after dinner for beaver activity and an empty trail.
   - 1.5h · Free with park entrance · trail · months 6,7,8,9 · `63.7368, -148.9147`
-- **#321 Maclaren Summit** · `44` · viewpoint
+- **#334 Kongakut River Float** · `44` · boat-cruise
+  - The classic Arctic Refuge float: raft or packraft down the Brooks Range to the coastal plain, timed to the Porcupine caribou herd.
+  - *Tip:* Wheel-plane charter from Fairbanks via Arctic Village; late June hits the caribou migration, July is warmer but far buggier.
+  - 4d · $6,000-8,000 guided 8-10 days · air-only · months 6,7 · `69.2500, -141.9500` · **book ahead**
+- **#335 Maclaren Summit** · `44` · viewpoint
   - 4,086ft alpine pass on the Denali Highway with Nelchina caribou, ptarmigan, moose and grizzly on open tundra.
   - *Tip:* 130mi of gravel with no services - check your rental car's gravel-road rules. September color plus caribou is peak.
   - 1h · Free · road · months 6,7,8,9 · `63.0900, -146.4350`
-- **#326 Reflection Pond** · `44` · viewpoint
+- **#341 Reflection Pond** · `44` · viewpoint
   - The classic Denali-mirrored-in-water shot: a small kettle pond near Wonder Lake at Mile 85 of the Park Road.
   - *Tip:* Pretty Rocks landslide still cuts the road at Mile 43, so reaching it means flying to Kantishna or a lodge stay.
   - 1h · Free (park entrance $15) · air-only · months 6,7,8 · `63.4761, -150.8501` · **book ahead**
-- **#328 Twelvemile Summit** · `44` · wildlife
+- **#345 Twelvemile Summit** · `44` · wildlife
   - 3,190-ft alpine pass at Steese MP 85.5 with a viewing platform, on the Tanana-Yukon divide.
   - *Tip:* One of the best road-accessible spots to catch the Fortymile caribou herd moving through - bring binoculars.
   - 1.5h · Free · road · months 7,8,9 · `65.3978, -145.9706`
-- **#337 Bettles** · `42` · town-city
+- **#354 Bettles** · `42` · town-city
   - Tiny river village and gravel strip on the Koyukuk that serves as the main air gateway into Gates of the Arctic.
-  - *Tip:* Wright Air flies from Fairbanks in ~45 min. The NPS ranger station here handles route planning and bear cans.
-  - 1d · ~$500 round-trip flight from Fairbanks · air-only · months 6,7,8 · `66.9139, -151.5292` · **book ahead**
-- **#338 Bus 142 movie replica at 49th State Brewing** · `42` · roadside-oddity
+  - *Tip:* Scheduled flights from Fairbanks take about an hour. The NPS station here does route planning and loans bear cans.
+  - 1d · ~$500 round-trip flight from Fairbanks · air-only · months 6,7,8 · `66.9133, -151.5225` · **book ahead**
+- **#355 Bomber Traverse & Mint Hut** · `42` · hike-trail
+  - Hatcher Pass hut-to-hut loop over three glaciers past a 1957 B-29 wreck, linking the Mint, Bomber and Snowbird huts.
+  - *Tip:* Huts are free and first-come from the Mountaineering Club of Alaska; the traverse needs rope, crampons and glacier skills.
+  - 2.5d · Free (MCA huts, first-come) · trail · months 7,8 · `61.8419, -149.0392`
+- **#356 Bus 142 movie replica at 49th State Brewing** · `42` · roadside-oddity
   - The Fairbanks city bus prop from the film Into the Wild, parked outside 49th State Brewing in Healy for photos.
   - *Tip:* The real Bus 142 was airlifted off the Stampede Trail in 2020 and now sits at the UA Museum of the North.
   - 0.5h · Free · road · months 5,6,7,8,9 · `63.8638, -149.0166`
-- **#339 Chena River State Recreation Area** · `42` · fishing
+- **#357 Chena River State Recreation Area** · `42` · fishing
   - 254,000 acres along Chena Hot Springs Rd: catch-and-release Arctic grayling, canoe floats, 3 campgrounds, granite tors.
   - *Tip:* Chena grayling is fly-only catch-and-release. Rosehip and Tors campgrounds are first-come and fill on summer weekends.
   - 4h · $5 day use; $20 camping · road · months 6,7,8,9 · `64.8775, -146.7646`
-- **#341 Circle** · `42` · town-city
+- **#359 Circle** · `42` · town-city
   - End of the Steese Highway on the bank of the Yukon River, 50 mi south of the Arctic Circle despite the name.
   - *Tip:* The boat launch is the downstream take-out for Yukon-Charley floats; gas and a small store, nothing else.
   - 2h · Free · road · months 6,7,8,9 · `65.8253, -144.0619`
-- **#343 E. L. Patton Yukon River Bridge & Yukon River Camp** · `42` · roadside-oddity
+- **#360 Crow Creek Mine** · `42` · historic-site
+  - An 1898 hydraulic gold camp above Girdwood with eight original buildings, where you rent a pan and work genuinely paying gravel.
+  - *Tip:* Buy the pan and stay all day in the creek; the last 3 mi of Crow Creek Road is gravel but fine for a rental car in summer.
+  - 3h · $15 entry, ~$25 gold panning · road · months 6,7,8 · `60.9853, -149.0808`
+- **#362 E. L. Patton Yukon River Bridge & Yukon River Camp** · `42` · roadside-oddity
   - Alaska's only bridge over the Yukon - 2,295 ft of wooden deck that also carries the trans-Alaska pipeline.
   - *Tip:* Mile 56 is the last fuel for 119 mi to Coldfoot. Camp has gas, a cafe and basic rooms; fill up regardless.
   - 1h · Free; fuel and food extra · road · months 6,7,8,9 · `65.8747, -149.7107`
-- **#346 Granite Tors Trail** · `42` · hike-trail
+- **#365 Granite Tors Trail** · `42` · hike-trail
   - 15mi loop, ~2,700ft gain, onto alpine tundra studded with granite spires up to 100ft tall - Alaska's tor country.
   - *Tip:* Long day, not a stroll. Boardwalk over the first bog then relentless climb; there is a free public shelter at the top.
   - 7h · $5 parking · trail · months 6,7,8,9 · `64.9031, -146.3630`
-- **#351 Manley Hot Springs** · `42` · hot-springs
+- **#374 Manley Hot Springs** · `42` · hot-springs
   - End-of-the-road village 152mi from Fairbanks with concrete soaking tubs inside a private greenhouse full of grapes.
   - *Tip:* You soak among grapevines inside the greenhouse and must phone the owners first (907-672-3231) to book a slot.
   - 3h · ~$20 per person, cash, by arrangement · road · months 1,2,3,6,7,8,9,10 · `65.0011, -150.6339` · **book ahead**
-- **#365 Broad Pass** · `40` · viewpoint
+- **#388 Broad Pass** · `40` · viewpoint
   - Broad tundra saddle at 2300ft dividing Cook Inlet from Yukon drainages; also the Alaska Railroad's high point.
   - *Tip:* Peak tundra color mid-Aug to early Sep. Summit Lake pullouts here are the best photo spot; wide open, no trees blocking.
   - 0.5h · Free · road · months 6,7,8,9 · `63.2332, -149.2737`
-- **#369 Denali Bus Depot** · `40` · national-park
+- **#392 Denali Bus Depot** · `40` · national-park
   - Mile 0.5 of the Park Road: where every transit and tour bus loads, plus campground check-in and a snack bar.
   - *Tip:* Buses leave on time and won't wait. Arrive 30 min early; there is no cell service past the entrance area.
   - 0.5h · Free (bus tickets sold here) · road · months 6,7,8,9 · `63.7365, -148.8974` · **book ahead**
-- **#373 Iniakuk Lake Wilderness Lodge** · `40` · wilderness-lodge
-  - Float-plane-only log lodge on a lake at the edge of Gates of the Arctic; the only full-service lodge in the area.
-  - *Tip:* Rates include the Fairbanks flight and guided day trips; three-night minimum and it books out a year ahead.
-  - 3d · ~$1,300/person/night all-inclusive · air-only · months 6,7,8 · `67.1928, -153.1547` · **book ahead**
-- **#385 Tetlin National Wildlife Refuge Visitor Center** · `40` · wildlife
+- **#393 Devil's Canyon Jet Boat** · `40` · boat-cruise
+  - Jet boat runs 50 mi up the Susitna from Talkeetna into the whitewater gorge at Devil's Canyon, with a trapper-cabin stop.
+  - *Tip:* Trips leave Talkeetna mid-morning; it is the only way to see the canyon short of a Class VI kayak expedition.
+  - 5h · $180-220 per person · road · months 6,7,8 · `62.8181, -149.3931` · **book ahead**
+- **#397 Iniakuk Lake Wilderness Lodge** · `40` · wilderness-lodge
+  - Float-plane-only log lodge at the north end of Iniakuk Lake, 60 mi above the Arctic Circle at the park's edge.
+  - *Tip:* Packages fold in the Fairbanks flight and guided day trips; multi-night minimum and it books far ahead.
+  - 3d · All-inclusive, roughly $1,200-1,500 per person p · air-only · months 3,7,8 · `67.1370, -153.2256` · **book ahead**
+- **#411 Tetlin National Wildlife Refuge Visitor Center** · `40` · wildlife
   - Sod-roofed log center at Alaska Hwy MP 1229 with spotting scopes on a bluff over the Tetlin lakes and wetlands.
   - *Tip:* First US stop after the border - great early-morning waterfowl and swan viewing; sandhill cranes stage here in May.
   - 1h · Free · road · months 5,6,7,8 · `62.6851, -141.1258`
-- **#386 UAF Geophysical Institute** · `40` · museum-culture
+- **#413 UAF Geophysical Institute** · `40` · museum-culture
   - UAF West Ridge institute that publishes the free 3-day aurora forecast used by every tour operator in Alaska.
   - *Tip:* Kp 2-3 is enough at Fairbanks latitude; darkness and clear sky matter far more than Kp. Stay up until 1-3am.
   - 1h · Free (forecast online) · road · months 1,2,3,9,10,11,12 · `64.8594, -147.8494`
-- **#388 Kincaid Park** · `39` · winter-sport
+- **#414 White Mountains NRA Public-Use Cabins** · `40` · winter-sport
+  - BLM's 12-cabin winter trail network north of Fairbanks; Lee's Cabin, 7 mi in, is the standard first ski or fat-bike overnight.
+  - *Tip:* Cabins are $25 and book 30 days out on recreation.gov; trails are only groomed once snow is deep, so avoid Nov and April.
+  - 1d · $25/night cabin · winter-only · months 1,2,3,12 · `65.2331, -147.9506` · **book ahead**
+- **#416 Kincaid Park** · `39` · winter-sport
   - 1,500 acres of lit, machine-groomed nordic trails at the west end of Anchorage, with Cook Inlet and moose throughout.
   - *Tip:* Dawn or the last two hours of light. Give rutting bulls 50 yards in September and cows with calves the whole trail.
   - 3h · Free; ~$30 ski rental in town · road · months 1,2,3,6,7,8,9,12 · `61.1553, -150.0402`
-- **#389 49th State Brewing Company** · `38` · food-drink
+- **#417 49th State Brewing Company** · `38` · food-drink
   - Big brewpub in Healy with an Alaska Range beer garden and the replica Bus 142 used in the film 'Into the Wild'.
   - *Tip:* The bus in the yard is the movie prop, not the real one - Bus 142 is in Fairbanks. No reservations; expect a wait at 7pm.
   - 2h · $18-32 entrees · road · months 6,7,8,9 · `63.8638, -149.0166`
-- **#391 Alaska-Canada Border at Port Alcan** · `38` · roadside-oddity
+- **#419 Alaska-Canada Border at Port Alcan** · `38` · roadside-oddity
   - The Alaska Highway's international crossing at Alaska Hwy MP 1221.8, on the 141st meridian survey swath.
   - *Tip:* Set your clock: Alaska is 1 hr behind Yukon. Cleared 20-ft boundary vista runs arrow-straight to the horizon.
   - 0.5h · Free · road · months 5,6,7,8,9 · `62.6153, -141.0022`
-- **#395 Chatanika Lodge** · `38` · food-drink
+- **#423 Chatanika Lodge** · `38` · food-drink
   - Kitsch-crammed roadhouse at Steese Mile 28.5 - burgers, a bar and a parking lot that doubles as an aurora stop.
   - *Tip:* Popular winter aurora base at 28 mi out. Hours are short and it is closed several weekdays - phone before driving.
   - 1.5h · $15-30 a meal; rooms ~$100 · road · months 1,2,3,6,7,8,9,10,11,12 · `65.1156, -147.4990` · **book ahead**
-- **#405 Nome Creek Valley gold panning** · `38` · historic-site
+- **#436 Nome Creek Valley gold panning** · `38` · historic-site
   - BLM-designated 4-mi stretch of Nome Creek where anyone may pan for gold with hand tools, no claim or permit needed.
   - *Tip:* Turn at Steese MP 57.3 onto U.S. Creek Road, 7 mi to Nome Creek Road; Ophir Creek and Mt. Prindle bracket the panning reach.
   - 6h · Free panning; campground ~$8-12/night · road · months 6,7,8 · `65.3684, -147.0847`
-- **#408 Rainbow Ridge** · `38` · viewpoint
+- **#439 Rainbow Ridge** · `38` · viewpoint
   - Banded red, orange and green Alaska Range slopes right above the Richardson Highway north of Isabel Pass.
   - *Tip:* Colors pop in early morning or after rain; several gravel pullouts. Combine with the Gulkana Glacier view at Isabel Pass.
   - 0.5h · Free · road · months 6,7,8,9 · `63.3074, -145.6309`
-- **#410 Riley Creek Campground** · `38` · national-park
+- **#441 Riley Creek Campground** · `38` · national-park
   - Denali's big entrance campground, walking distance from the bus depot, mercantile and Riley Creek trails.
   - *Tip:* Reserve by March for July; otherwise show up at the mercantile at 8am for same-day walk-in tent sites.
   - 1d · $18-46/night summer; free Oct-Apr, no services · road · months 6,7,8,9 · `63.7318, -148.9088` · **book ahead**
-- **#412 Trans-Alaska Pipeline Viewpoint** · `38` · roadside-oddity
+- **#445 Tolovana Hot Springs** · `38` · hot-springs
+  - Three cedar soaking tubs and three rental cabins on a ridge north of Fairbanks, reached by an 11-mile trail off the Elliott Hwy.
+  - *Tip:* Rent a cabin - the tubs come with it. Winter access is ski, fat bike or snowmachine, and the return has one brutal climb.
+  - 1d · $75-160/night cabin (includes tub use) · trail · months 2,3,9,10 · `65.2472, -148.8483` · **book ahead**
+- **#446 Trans-Alaska Pipeline Viewpoint** · `38` · roadside-oddity
   - Best roadside look at the 800-mile pipeline: elevated zigzag section, heat-pipe supports, and a cutaway 'pig' on display.
   - *Tip:* Free, always open, 15 min from downtown. Pair it with Gold Dredge 8 a mile up the road - same trip.
   - 0.5h · Free · road · months 5,6,7,8,9 · `64.9293, -147.6298`
-- **#415 Arctic Man Ski & Sno-Go Classic** · `37` · festival-event
+- **#449 Arctic Man Ski & Sno-Go Classic** · `37` · festival-event
   - Skier drops 1,700ft then gets towed at 85mph by a snowmachine; a 10,000-person tent city appears for four days.
   - *Tip:* No lodging within 70mi - it's RV-and-snowmachine self-supported camping at -10F. 2026 marked the 40th running.
   - 2d · ~$100 gate pass; you supply the camp · winter-only · months 4 · `63.1601, -145.5301` · **book ahead**
-- **#418 El Dorado Gold Mine** · `36` · historic-site
+- **#454 El Dorado Gold Mine** · `36` · historic-site
   - Family placer operation at Elliott Hwy MP 1.3 with a replica Tanana Valley Railroad car and a permafrost tunnel.
   - *Tip:* Confirm it is operating before driving out - eldoradogoldmine.com now forwards to Gold Dredge 8's booking site.
   - 2h · ~$60-80 if running · road · months 6,7,8 · `64.9702, -147.6348` · **book ahead**
-- **#420 Silver Gulch Brewing & Bottling** · `36` · food-drink
+- **#458 Silver Gulch Brewing & Bottling** · `36` · food-drink
   - America's northernmost brewery, 10mi up the Steese at Fox: long beer list, burgers, halibut, roadhouse room.
   - *Tip:* Standard dinner stop coming back from Chena Hot Springs or a gold-dredge tour; kitchen closes around 9pm.
   - 2h · $20-35 entrees · road · months 1,2,3,6,7,8,9,12 · `64.9583, -147.6214`
-- **#423 Denali Brewing Company Tasting Room** · `35` · food-drink
+- **#462 Denali Brewing Company Tasting Room** · `35` · food-drink
   - Talkeetna's brewery: a downtown tasting room plus a beer garden and full restaurant out on the Spur Road.
   - *Tip:* Growler fills come from the downtown tasting room; the Spur Road beer garden has the lawn games and food.
   - 1h · $6-8 pours · road · months 5,6,7,8,9 · `62.3234, -150.1141`
-- **#426 Tangle Lakes** · `35` · viewpoint
+- **#465 Tangle Lakes** · `35` · viewpoint
   - Chain of tundra lakes on the Denali Highway inside a 226,000-acre archaeological district with 10,000-year-old sites.
   - *Tip:* Last pavement heading west is just past here - two BLM campgrounds, a canoe put-in and the Delta River portage start.
   - 2h · Free; BLM campgrounds ~$12 · road · months 6,7,8,9 · `63.0279, -146.0615`
-- **#430 Fortymile Wild and Scenic River** · `34` · fishing
+- **#470 Fortymile Wild and Scenic River** · `34` · fishing
   - Roadside-accessible wild river system through the Fortymile gold district; multi-day canoe and raft floats.
   - *Tip:* The Taylor crosses the South Fork at MP 75 with interpretive panels; most floats end at the Yukon in Canada.
   - 2d · Free (self-outfitted floats) · road · months 6,7,8 · `64.0674, -141.8815` · **book ahead**
-- **#432 HooDoo Brewing Co.** · `34` · food-drink
+- **#472 Hartney Bay Tide Flats** · `34` · wildlife
+  - Tide flats 5 mi from Cordova where millions of western sandpipers and dunlin stage on the northbound migration.
+  - *Tip:* Time it to a rising tide, which pushes the flocks in toward the road. Peak is the first week of May.
+  - 3h · Free · road · months 5 · `60.4864, -145.8394`
+- **#473 HooDoo Brewing Co.** · `34` · food-drink
   - German-style Fairbanks brewery with a gravel beer garden - the local default pint after a Denali or Dalton drive.
   - *Tip:* No kitchen; food trucks park outside. Free brewery tour Saturdays at 4pm, and it's closed Sun-Mon.
   - 1.5h · $6-8 pours · road · months 2,3,5,6,7,8,9 · `64.8492, -147.7616`
-- **#440 Poker Flat Research Range** · `34` · aurora
+- **#482 Poker Flat Research Range** · `34` · aurora
   - UAF Geophysical Institute rocket range at Steese MP 30 - the only university-owned launch site in the world.
   - *Tip:* Sounding rockets fire into the aurora on winter nights; call the GI to ask about launch windows and summer tours.
   - 2h · Free (tours by arrangement) · road · months 1,2,3,11,12 · `65.1167, -147.4667` · **book ahead**
-- **#450 Birch Hill Recreation Area** · `32` · winter-sport
+- **#493 Birch Hill Recreation Area** · `32` · winter-sport
   - Fairbanks' main groomed nordic venue on a hill above town - 25km of trails, some lit, hosts national-level races.
   - *Tip:* Elevated above the river valley so it's often 15-20F warmer than downtown during a temperature inversion.
   - 2h · Free; ~$25 ski rental in town · road · months 1,2,3,12 · `64.8693, -147.6514`
-- **#451 Central & Circle District Museum** · `32` · museum-culture
+- **#494 Central & Circle District Museum** · `32` · museum-culture
   - Volunteer-run museum at Steese MP 127.7 covering the Circle Mining District, plus the last fuel before Circle.
   - *Tip:* Central is the fuel/food stop for the upper Steese - Crabb's Corner has the only cafe and it keeps short hours.
   - 1h · Small donation/admission ~$5 · road · months 6,7,8 · `65.5727, -144.8082`
-- **#452 Chatanika Gold Camp** · `32` · historic-site
+- **#495 Chatanika Gold Camp** · `32` · historic-site
   - Thirteen 1925 Fairbanks Exploration Company bunkhouses and shops on the NRHP, with dredge tailings all around.
   - *Tip:* Privately owned and not a museum - look from the highway; do not walk into the buildings.
   - 0.5h · Free to view from the road · road · months 6,7,8,9 · `65.1117, -147.4803`
-- **#459 Nenana** · `32` · town-city
+- **#506 Nenana** · `32` · town-city
   - Tanana River town halfway Fairbanks-Denali, home of the Nenana Ice Classic breakup lottery since 1917.
   - *Tip:* Stop at the 1923 railroad depot museum and the Alfred Starr Cultural Center - both free, both 5 min off the highway.
   - 1.5h · Free; Ice Classic tickets $3 · road · months 5,6,7,8 · `64.5647, -149.0935`
-- **#463 Tok Alaska Public Lands Information Center** · `32` · museum-culture
+- **#510 Tok Alaska Public Lands Information Center** · `32` · museum-culture
   - Interagency center at Alaska Hwy MP 1314 with wildlife mounts, statewide trip-planning help and free maps.
   - *Tip:* Best place to get current Taylor Highway and Denali road conditions before you commit to the drive north.
   - 1h · Free · road · months 6,7,8,9 · `63.3363, -142.9839`
-- **#470 Chickenstock Music Festival** · `30` · festival-event
+- **#517 Chickenstock Music Festival** · `30` · festival-event
   - Two-day live-music weekend in a town of 15 people; Alaskan bands, camping in the gold-camp field.
   - *Tip:* Book a campsite the moment dates post - Chicken's total lodging is a few dozen sites and it sells out.
   - 12h · ~$40-60 weekend pass · road · months 6 · `64.0709, -141.9391` · **book ahead**
-- **#471 Coffee Dome** · `30` · wildlife
+- **#520 Coffee Dome** · `30` · wildlife
   - Tussock dome at the end of the Kougarok Road - the world's most reliable breeding site for bristle-thighed curlew.
   - *Tip:* A brutal 1-2mi tussock slog uphill. Go the first two weeks of June and wear knee-high rubber boots.
   - 5h · Free (rental 4x4 from Nome) · road · months 6 · `65.4394, -164.7783`
-- **#473 Fairbanks International Airport** · `30` · town-city
+- **#522 Fairbanks International Airport** · `30` · town-city
   - Interior Alaska's air gateway: jets from Anchorage and Seattle, plus the bush hub for Coldfoot, Bettles and the Arctic.
   - *Tip:* Flying open-jaw into Anchorage and out of Fairbanks avoids backtracking the 360-mile Parks Highway.
   - 1h · Free · road · months 1,2,3,4,5,6,7,8,9,10,11,12 · `64.8155, -147.8595`
-- **#475 Healy** · `30` · town-city
+- **#525 Healy** · `30` · town-city
   - Coal-mining town 11 miles north of the park entrance - real grocery, gas, clinic and cheaper year-round lodging.
   - *Tip:* Base here instead of the canyon strip: rooms run $80-150 less and it is the only winter/aurora option near Denali.
   - 1h · Free · road · months 6,7,8,9 · `63.8697, -149.0215`
-- **#479 Maclaren River Lodge** · `30` · food-drink
+- **#530 Maclaren River Lodge** · `30` · food-drink
   - Roadhouse at the Maclaren River bridge - the only dependable fuel, food and beds on the 135 mi Denali Highway.
   - *Tip:* Fill up in Cantwell or Glennallen anyway; lodge fuel is expensive and can run dry mid-season.
-  - 1h · Fuel at a premium; rooms ~$150 · road · months 6,7,8,9 · `63.1180, -146.5310` · **book ahead**
-- **#480 Mukluk Land** · `30` · roadside-oddity
+  - 1h · Fuel at a premium; rooms ~$150 · road · months 6,7,8,9 · `63.1182, -146.5312` · **book ahead**
+- **#531 Mukluk Land** · `30` · roadside-oddity
   - Junkyard theme park 3 mi west of Tok: giant mosquito, doll museum, outhouse collection, mini-golf and skee-ball.
   - *Tip:* Short summer-evening hours and cash-preferred; it's the classic why-not stop when driving in from Canada.
   - 1.5h · ~$5-10 admission · road · months 6,7,8 · `63.3415, -143.0797`
-- **#482 Ralph Wien Memorial Airport, Kotzebue** · `30` · town-city
+- **#534 Ralph Wien Memorial Airport, Kotzebue** · `30` · town-city
   - Jet gateway above the Arctic Circle and the charter base for Kobuk Valley, Noatak and Cape Krusenstern.
   - *Tip:* No roads leave Kotzebue - every park visit needs a separate air-taxi charter booked months ahead.
   - 1h · ~$600+ round trip from Anchorage · air-only · months 6,7,8 · `66.8847, -162.5985` · **book ahead**
-- **#483 Talkeetna Historical Society Museum** · `30` · museum-culture
+- **#535 Talkeetna Historical Society Museum** · `30` · museum-culture
   - 1936 one-room schoolhouse of Talkeetna and Denali-climbing history, with a large relief model used by mountaineering rangers.
   - *Tip:* The Moose Dropping Festival it once ran ended in 2009; December's Wilderness Woman contest is the surviving oddity.
   - 1h · $10 adult, $25 family · road · months 5,6,7,8,9 · `62.3236, -150.1113`
-- **#484 Nenana Ice Classic Tripod** · `29` · roadside-oddity
+- **#537 Nenana Ice Classic Tripod** · `29` · roadside-oddity
   - A wooden tripod on the frozen Tanana wired to a clock; Alaska bets on the exact minute breakup topples it.
   - *Tip:* Tickets sell in Interior gas stations Feb-Apr only. Off-season the tripod and jackpot board sit by the depot.
   - 1h · $3 per guess ticket · road · months 3,4 · `64.5635, -149.0961`
-- **#485 Attu Island** · `28` · historic-site
-  - Westernmost point of the US (172.9E, past the antimeridian); site of the only WWII land battle on North American soil.
+- **#538 Attu Island** · `28` · historic-site
+  - Far-western Aleutian island at 173°E, past the antimeridian; site of the only WWII land battle on North American soil.
   - *Tip:* Uninhabited since the Coast Guard LORAN station closed in 2010 - reachable only by rare charter or expedition ship.
-  - 1d · Expedition cruise only, $10,000+ · boat-tour · months 6,7 · `52.9167, -187.0833` · **book ahead**
-- **#486 Bethel** · `28` · town-city
+  - 1d · Expedition cruise only, $10,000+ · boat-tour · months 6,7 · `52.8783, -186.9727` · **book ahead**
+- **#539 Bethel** · `28` · town-city
   - Largest western Alaska hub (~6,300) on the Kuskokwim; Yup'ik cultural centre and gateway to Yukon Delta refuge.
-  - *Tip:* Not a tourist town - go for the Cama-i Dance Festival in March or the Kuskokwim 300 in January, or don't go.
-  - 1d · ~$600 round trip from Anchorage · air-only · months 1,2,6,7,8 · `60.7922, -161.7558` · **book ahead**
-- **#488 Boundary** · `28` · historic-site
+  - *Tip:* Not a tourist town - go for the Cama-i Dance Festival in late March or the Kuskokwim 300 in January, or don't go.
+  - 1d · ~$600 round trip from Anchorage · air-only · months 1,3,6,7 · `60.7922, -161.7558` · **book ahead**
+- **#541 Boundary** · `28` · historic-site
   - Sod-roofed 1920s-30s roadhouse and airstrip three miles from the Canadian border; the lodge is closed.
   - *Tip:* Nothing is for sale here anymore - fuel up in Chicken or Dawson, not Boundary. Photo stop only.
   - 0.5h · Free · road · months 6,7,8 · `64.0773, -141.1041`
-- **#490 Davidson Ditch** · `28` · historic-site
+- **#544 Davidson Ditch** · `28` · historic-site
   - Remains of an 83-mi 1925 water aqueduct built to feed the Fairbanks gold dredges; a huge steel siphon crosses the road.
   - *Tip:* The photogenic siphon and interpretive panels are around Steese MP 57 near the U.S. Creek Road turnoff.
   - 0.5h · Free · road · months 6,7,8,9 · `65.2264, -146.9525`
-- **#492 Felix Pedro Monument** · `28` · historic-site
+- **#546 Felix Pedro Monument** · `28` · historic-site
   - Stone marker at Steese MP 16.5 where Felice Pedroni struck gold on Pedro Creek in July 1902 and founded Fairbanks.
   - *Tip:* Free panning is allowed in Pedro Creek across the road - it's the traditional Fairbanks Golden Days photo stop.
   - 0.25h · Free · road · months 5,6,7,8,9 · `65.0098, -147.4986`
-- **#493 Igloo City** · `28` · roadside-oddity
+- **#547 Fort Yukon** · `28` · town-city
+  - Largest Gwich'in village, on the Yukon just above the Arctic Circle; holds Alaska's all-time high of 100F, set in 1915.
+  - *Tip:* A day-trip flight from Fairbanks is the cheapest honest way to cross the Arctic Circle - about an hour each way.
+  - 6h · Round-trip flight from Fairbanks ~$400 · air-only · months 6,7,8 · `66.5675, -145.2564` · **book ahead**
+- **#548 Igloo City** · `28` · roadside-oddity
   - Four-story concrete igloo shell beside the Parks Highway - a 1970s hotel that never opened and now rots in place.
   - *Tip:* Photo stop from the gravel pullout only; the structure is fenced, unsafe and posted against trespassing.
   - 0.25h · Free (exterior only) · road · months 5,6,7,8,9 · `63.1881, -149.3607`
-- **#499 Walker Fork Campground (BLM)** · `28` · historic-site
+- **#555 Walker Fork Campground (BLM)** · `28` · historic-site
   - 24-site BLM campground at Taylor Hwy MP 82 on the old Lassen airstrip, beside the Jack Wade mining creeks.
   - *Tip:* Recreational hand-panning is allowed in the creek here - one of the few legal, unclaimed spots on the Taylor.
   - 12h · ~$12/night · road · months 6,7,8 · `64.0775, -141.6346`
-- **#503 Deadman Lake Campground** · `26` · wildlife
+- **#560 Deadman Lake Campground** · `26` · wildlife
   - Free 15-site refuge campground at Alaska Hwy MP 1249 with a boat ramp, photo blind and quarter-mile Taiga Trail.
   - *Tip:* Free camping with a wildlife-viewing deck; expect ferocious mosquitoes in June - bring a head net.
   - 12h · Free · road · months 6,7,8 · `62.8897, -141.5446`
-- **#511 West Fork Campground (BLM)** · `26` · wildlife
+- **#571 West Fork Campground (BLM)** · `26` · wildlife
   - 25-site BLM campground at Taylor Hwy MP 49 with an overlook onto an oxbow lake used by trumpeter swans and moose.
   - *Tip:* Last easy camping before Chicken and the only water spigot for miles; pull-through sites fit big rigs.
   - 12h · ~$12/night · road · months 6,7,8 · `63.8873, -142.2395`
-- **#513 Cantwell** · `24` · town-city
+- **#574 Cantwell** · `24` · town-city
   - Parks Hwy Mile 210 junction village, western gateway to the Denali Highway. Fuel, a lodge and a small store.
   - *Tip:* Last reliable gas before 135 miles of gravel east to Paxson. Top off here, both directions.
   - 0.5h · Free · road · months 6,7,8,9 · `63.3905, -148.9018`
-- **#518 Circle Hot Springs** · `22` · hot-springs
+- **#584 Arctic Village** · `22` · native-culture
+  - Gwich'in village of ~150 on the Chandalar at the south edge of ANWR, center of the fight over the coastal plain.
+  - *Tip:* Main staging point for ANWR float trips. Visits run through an outfitter or a local invitation, not as a drop-in.
+  - 1d · Charter from Fairbanks ~$500+ · air-only · months 6,7,8 · `68.1219, -145.5278` · **book ahead**
+- **#586 Circle Hot Springs** · `22` · hot-springs
   - Abandoned 1930s hot-springs resort 8 mi off the Steese at Central; the hotel and pool sit empty and posted.
   - *Tip:* Do not plan a soak here - it has been shut for over 20 years. Chena Hot Springs is the working alternative.
   - 0.5h · n/a - closed · road · months 6,7,8 · `65.4843, -144.6419`
-- **#522 Bethel Airport** · `20` · town-city
+- **#593 Bethel Airport** · `20` · town-city
   - Busiest bush hub in western Alaska; springboard to 50+ Yup'ik villages and the Yukon Delta refuge.
   - *Tip:* Bethel is a working hub, not a tourist town - lodging is scarce and pricey, so book before you fly.
-  - 1h · ~$500 round trip from Anchorage · air-only · months 6,7,8 · `60.7798, -161.8380` · **book ahead**
-- **#523 Minto** · `20` · native-culture
+  - 1h · ~$500 round trip from Anchorage · air-only · months 6,7,8 · `60.7798, -161.8381` · **book ahead**
+- **#594 Minto** · `20` · native-culture
   - Tanana Athabascan village of ~150 relocated here in 1971; known for birch-bark baskets and Minto Flats.
   - *Tip:* It is a living community, not an attraction - ask before photographing, and buy crafts directly from makers.
   - 1.5h · Free · road · months 6,7,8,9 · `65.1205, -149.5286`
-- **#524 Northway** · `20` · town-city
+- **#595 Northway** · `20` · town-city
   - Upper Tanana Athabascan village 7 mi off the Alaska Highway, built around a WWII Lend-Lease route airfield.
   - *Tip:* Northway Airport is still a port-of-entry airstrip for small planes; the village itself has minimal services.
   - 1h · Free · road · months 6,7,8 · `62.9621, -141.9368`
-- **#526 Barter Island Airport** · `18` · town-city
+- **#601 Barter Island Airport** · `18` · town-city
   - Gravel strip that gates every polar bear trip to Kaktovik; roughly one scheduled flight a day from Fairbanks.
   - *Tip:* Fog and wind cancel flights constantly - never book a same-day onward connection out of Fairbanks.
   - 1h · ~$800-1,100 round trip from Fairbanks · air-only · months 9 · `70.1340, -143.5769` · **book ahead**
+- **#613 Atka** · `11` · town-city
+  - Westernmost permanently inhabited Unangax village, ~50 people, 1,100 mi out the Aleutian chain from Anchorage.
+  - *Tip:* Flights run a couple of times a week and cancel constantly; there is no hotel - arrange lodging before you fly.
+  - 1d · Charter from Adak or Unalaska $600+ · air-only · months 6,7,8 · `52.1958, -174.2011` · **book ahead**
 
-### Southeast  *(129)*
+### Southeast  *(148)*
 
-- **#4 Glacier Bay National Park - Bartlett Cove** · `91` · national-park
+- **#4 Glacier Bay National Park - Bartlett Cove** · `89` · national-park
   - Park headquarters, lodge, campground and dock - the only road-accessible corner of a 3.3-million-acre park with no highway.
   - *Tip:* It is the only scheduled day boat in the park and it sells out; book with lodging through Glacier Bay Lodge months ahead.
-  - 6h · Free (private-boat permit free but limited) · air-only · months 6,7,8 · `58.4553, -135.8869` · **book ahead**
-- **#5 Mendenhall Glacier & Visitor Center** · `88` · glacier
-  - Lake-terminating glacier 12 mi from downtown Juneau, with a USFS visitor center, viewing decks and three short trails.
-  - *Tip:* Suicide Basin outburst floods hit the Mendenhall River most Jul-Aug; check NWS Juneau before booking riverside lodging.
-  - 3h · $5 per adult 16+, May 1-Sep 30 · road · months 5,6,7,8,9 · `58.4178, -134.5450`
-- **#11 Margerie Glacier** · `84` · glacier
-  - Mile-wide, 250 ft tidewater face at the head of Tarr Inlet - the glacier cruise ships hold in front of in Glacier Bay.
-  - *Tip:* Ships stop 15-30 min. Stand outside on deck: calving is heard as a crack seconds before anything is visible.
-  - 1.5h · Included in cruise or day boat · boat-tour · months 6,7,8,9 · `58.9678, -137.1758`
-- **#12 White Pass & Yukon Route Railroad** · `84` · railroad
-  - 1898 narrow-gauge line climbing 2,865 ft in 20 mi over trestles and through tunnels to White Pass; Summit run is 3 hours.
-  - *Tip:* Sit on the left going up for Bridal Veil Falls and Dead Horse Gulch. A passport is required for anything past the summit.
-  - 3h · ~$165 Summit Excursion; $225-250 Bennett · rail · months 5,6,7,8,9 · `59.4548, -135.3155` · **book ahead**
-- **#13 Auke Bay whale watching (Stephens Passage)** · `83` · wildlife
-  - Small boats leave Statter Harbor for humpback bubble-net feeding, orcas and Steller sea lions around Shelter Island.
-  - *Tip:* Most operators guarantee a whale sighting or refund. Afternoon departures usually get calmer water in Auke Bay.
-  - 4h · $120-190 half-day · boat-tour · months 6,7,8,9 · `58.3819, -134.6446` · **book ahead**
-- **#14 Kennecott Mines National Historic Landmark** · `83` · historic-site
+  - 6h · Free (private-boat permit free but limited) · air-only · months 5,6,7,8,9 · `58.4546, -135.8825` · **book ahead**
+- **#10 Mendenhall Glacier & Visitor Center** · `84` · glacier
+  - Half-mile-wide glacier 12 mi from downtown Juneau; its face pulled back out of Mendenhall Lake onto land in late 2025.
+  - *Tip:* Suicide Basin outburst floods hit the Mendenhall River most Jul-Aug and set records in 2024 and 2025; check NWS Juneau.
+  - 3h · $5 per adult 16+, May 1-Sep 30 · road · months 5,6,7,8,9 · `58.4172, -134.5456`
+- **#11 Kennecott Mines National Historic Landmark** · `83` · historic-site
   - Blood-red 14-story copper mill and company town abandoned in 1938 inside Wrangell-St. Elias NP, stabilized by the NPS.
   - *Tip:* 60-mi gravel McCarthy Rd takes 2.5 hrs; park at the footbridge and shuttle 5 mi. Mill interior only on a guided tour.
   - 8h · Free to walk the town; about $32 for the mill to · road · months 6,7,8,9 · `61.4794, -142.8853` · **book ahead**
-- **#15 Wrangell-St. Elias National Park & Preserve** · `83` · national-park
+- **#12 Wrangell-St. Elias National Park & Preserve** · `83` · national-park
   - Largest US national park at 13.2 million acres; 9 of the 16 highest US peaks and four ranges collide here.
   - *Tip:* No entrance fee and no loop road. Pick one arm: McCarthy Road to Kennecott, or Nabesna Road for solitude.
   - 2d · Free (no entrance fee) · road · months 6,7,8,9 · `61.7100, -142.6000`
-- **#18 Endicott Arm & Dawes Glacier** · `82` · glacier
-  - Iceberg-filled 30 mi fjord off Stephens Passage ending at the calving face of Dawes Glacier; 2026's Tracy Arm substitute.
-  - *Tip:* Day boats from Juneau run about nine hours. Brash ice sometimes stops vessels short - ask the turnaround policy first.
-  - 9h · $180-260 day boat from Juneau; included on ships · boat-tour · months 6,7,8,9 · `57.5117, -132.8383` · **book ahead**
-- **#27 Juneau** · `80` · town-city
-  - Alaska's capital, with no road to anywhere else: compact waterfront downtown, five cruise berths, gateway to the icefield.
-  - *Tip:* Up to five megaships dock daily Jun-Aug. Check the CBJ ship calendar and plan glacier trips on a light-ship day.
-  - 1d · Free · cruise-port · months 5,6,7,8,9 · `58.3005, -134.4020`
-- **#30 Juneau Icefield helicopter tour & glacier dog camp** · `79` · flightseeing
-  - 1,500 sq mi icefield behind Juneau; helicopters land on Norris, Herbert or Mendenhall ice, some at a summer sled-dog camp.
-  - *Tip:* Weather scrubs a real share of flights. Book the first morning of your Juneau stay so you keep a rebooking day.
-  - 2.5h · $350-750 depending on landing or dogsled · air-only · months 6,7,8 · `58.6167, -134.2000` · **book ahead**
-- **#31 Klondike Gold Rush National Historical Park** · `79` · historic-site
+- **#16 White Pass & Yukon Route Railroad** · `81` · railroad
+  - 1898 narrow-gauge line climbing 2,865 ft in 20 mi over trestles and through tunnels to White Pass; Summit run is 3 hours.
+  - *Tip:* Sit on the left going up for Bridal Veil Falls and Dead Horse Gulch. A passport is required for anything past the summit.
+  - 3h · ~$165 Summit Excursion; $225-250 Bennett · rail · months 5,6,7,8,9 · `59.4532, -135.3178` · **book ahead**
+- **#25 Klondike Gold Rush National Historical Park** · `79` · historic-site
   - Housed in the 1898 WP&YR depot: gold-rush films, the 'ton of goods' outfit display, and free ranger walking tours of town.
   - *Tip:* Free ranger walking tours leave the 2nd & Broadway depot several times daily; go early before the cruise ships unload.
   - 3h · Free (NPS) · road · months 5,6,7,8,9 · `59.4553, -135.3145`
-- **#32 Misty Fjords National Monument** · `79` · national-park
-  - 2.3-million-acre wilderness of 3,000 ft granite walls and hanging waterfalls; the standard visit is a floatplane water landing.
-  - *Tip:* 'Misty' is not a marketing word. Boat-and-fly combos hedge the weather far better than a fly-only booking.
-  - 4h · $280-380 floatplane; ~$220 boat-and-fly combo · air-only · months 6,7,8,9 · `55.5422, -130.7922` · **book ahead**
-- **#33 Sitka** · `79` · town-city
-  - Former Russian-America capital, the only major SE town facing the open Pacific; Tlingit history, volcano view, walkable core.
-  - *Tip:* Ships use the Sitka Sound Cruise Terminal 5 mi out of town; the shuttle costs extra and queues, so budget the time.
-  - 10h · Free · cruise-port · months 5,6,7,8,9 · `57.0531, -135.3300`
-- **#37 AMHS Southeast Mainline** · `76` · ferry-route
+- **#26 Endicott Arm & Dawes Glacier** · `78` · glacier
+  - Iceberg-filled 30 mi fjord off Stephens Passage ending at the calving face of Dawes Glacier; 2026's Tracy Arm substitute.
+  - *Tip:* Day boats from Juneau run about nine hours. Brash ice sometimes stops vessels short - ask the turnaround policy first.
+  - 9h · $180-260 day boat from Juneau; included on ships · boat-tour · months 6,7,8,9 · `57.5117, -132.8383` · **book ahead**
+- **#30 Auke Bay whale watching (Stephens Passage)** · `77` · wildlife
+  - Small boats leave Statter Harbor for humpback bubble-net feeding, orcas and Steller sea lions around Shelter Island.
+  - *Tip:* Most operators guarantee a whale sighting or refund. Afternoon departures usually get calmer water in Auke Bay.
+  - 4h · $120-190 half-day · boat-tour · months 6,7,8,9 · `58.3828, -134.6498` · **book ahead**
+- **#32 Juneau** · `77` · town-city
+  - Alaska's capital, with no road to anywhere else: compact waterfront downtown, four cruise berths, gateway to the icefield.
+  - *Tip:* Up to five megaships dock daily Jun-Aug. Check the CBJ ship calendar and plan glacier trips on a light-ship day.
+  - 1d · Free · cruise-port · months 5,6,7,8,9 · `58.2985, -134.4031`
+- **#33 AMHS Southeast Mainline** · `76` · ferry-route
   - Inside Passage backbone: M/V Columbia and Kennicott link Bellingham to Ketchikan, Wrangell, Petersburg, Juneau and Skagway.
   - *Tip:* Bellingham-Haines is ~3 days. No Prince Rupert BC service in 2026. Deck camping is allowed - bring a tent and duct tape.
   - 1.6d · ~$400-500 walk-on Bellingham-Haines; vehicles an · ferry · months 5,6,7,8,9 · `55.3589, -131.7027` · **book ahead**
-- **#38 Anan Wildlife Observatory** · `76` · wildlife
+- **#34 Anan Wildlife Observatory** · `76` · wildlife
   - Boardwalk and photo blind above Anan Creek falls, where black bears and brown bears fish a huge pink salmon run together.
   - *Tip:* Only 60 people a day in peak season and half the permits go to guides - book the guided boat trip, not a bare permit.
-  - 8h · $30 permit in 2026 plus ~$250-350 guided boat or · boat-tour · months 7,8 · `56.1873, -131.8887` · **book ahead**
-- **#39 Hubbard Glacier** · `76` · glacier
-  - Six-mile-wide, 400 ft calving face at the head of Yakutat Bay - North America's largest tidewater glacier, and still advancing.
-  - *Tip:* Ships hold a mile or two off for 1-2 hours. It is the coldest deck time of an Alaska cruise even in July, so layer up.
-  - 2h · Included on cruise itineraries · boat-tour · months 6,7,8 · `60.0167, -139.4667`
-- **#42 Root Glacier Trail** · `76` · hike-trail
+  - 7h · $10 permit + ~$300 boat or floatplane from Wrang · boat-tour · months 7,8 · `56.1823, -131.8910` · **book ahead**
+- **#35 Juneau Icefield helicopter tour & glacier dog camp** · `76` · flightseeing
+  - 1,500 sq mi icefield behind Juneau; helicopters land on Herbert, Norris or Mendenhall ice, some at a summer sled-dog camp.
+  - *Tip:* Weather scrubs a real share of flights. Book the first morning of your Juneau stay so you keep a rebooking day.
+  - 2.5h · $350-750 depending on landing or dogsled · air-only · months 5,6,7,8,9 · `58.5574, -134.6198` · **book ahead**
+- **#36 Misty Fjords National Monument** · `76` · national-park
+  - 2.3-million-acre wilderness of 3,000 ft granite walls and waterfalls; the standard visit lands a floatplane in Rudyerd Bay.
+  - *Tip:* 'Misty' is not a marketing word. Boat-and-fly combos hedge the weather far better than a fly-only booking.
+  - 4h · $280-380 floatplane; ~$220 boat-and-fly combo · air-only · months 5,6,7,8,9 · `55.5897, -130.7458` · **book ahead**
+- **#39 Root Glacier Trail** · `76` · hike-trail
   - 2mi mostly-flat trail from the Kennecott mill to walkable white ice - the park's signature day hike.
   - *Tip:* Rent microspikes in Kennecott. Unguided walking is legal but stay off the crevassed upper ice.
   - 5h · Free; guided ice walk ~$110 · trail · months 6,7,8,9 · `61.5005, -142.8949`
-- **#44 Sitka National Historical Park** · `76` · historic-site
+- **#41 Sitka National Historical Park** · `76` · historic-site
   - Alaska's oldest federal park: site of the 1804 Tlingit-Russian battle, with a mile of rainforest trail lined with totem poles.
   - *Tip:* Carvers work in the Southeast Alaska Indian Cultural Center inside the visitor center; salmon fill Indian River in August.
   - 2h · Free (NPS) · cruise-port · months 5,6,7,8,9 · `57.0489, -135.3181`
-- **#45 Skagway** · `76` · town-city
-  - Gold-rush boomtown at the head of Lynn Canal; six blocks of restored 1898 false-front buildings inside a national park.
-  - *Tip:* The big Railroad Dock has been closed to pedestrians since the 2022 rockslides - expect a shuttle or tender, plus 30 min.
-  - 8h · Free · cruise-port · months 5,6,7,8,9 · `59.4550, -135.3139`
-- **#55 Ketchikan** · `74` · town-city
-  - First Alaskan port most ships reach: four downtown berths, the world's largest collection of standing totem poles, 150 in of rain.
-  - *Tip:* Four ships can dock at once and downtown gridlocks 9am-2pm; the totem parks north and south of town are the escape.
-  - 8h · Free · cruise-port · months 5,6,7,8,9 · `55.3422, -131.6461`
-- **#57 Pack Creek Bear Viewing Area** · `74` · wildlife
-  - Brown-bear viewing on Seymour Canal, 40 mi south of Juneau, on an island with roughly one bear per square mile.
+- **#43 Sitka** · `75` · town-city
+  - Former Russian-America capital, the only major SE town facing the open Pacific; Tlingit history, volcano view, walkable core.
+  - *Tip:* Ships use the Sitka Sound Cruise Terminal 5 mi out of town; the shuttle costs extra and queues, so budget the time.
+  - 10h · Free · cruise-port · months 5,6,7,8,9 · `57.0525, -135.3376`
+- **#51 Hubbard Glacier** · `74` · glacier
+  - Six-mile-wide, 400 ft calving face at the head of Yakutat Bay - North America's largest tidewater glacier, and still advancing.
+  - *Tip:* Ships hold a mile or two off for 1-2 hours. It is the coldest deck time of an Alaska cruise even in July, so layer up.
+  - 2h · Included on cruise itineraries · boat-tour · months 5,6,7,8,9 · `60.0167, -139.4667`
+- **#52 Margerie Glacier** · `74` · glacier
+  - Mile-wide, 250 ft tidewater face at the head of Tarr Inlet - the glacier cruise ships hold in front of in Glacier Bay.
+  - *Tip:* Ships stop 15-30 min. Stand outside on deck: calving is heard as a crack seconds before anything is visible.
+  - 1.5h · Included in cruise or day boat · boat-tour · months 5,6,7,8,9 · `58.9678, -137.1758`
+- **#54 Pack Creek Bear Viewing Area** · `74` · wildlife
+  - Brown-bear viewing on Seymour Canal, about 30 mi south of Juneau, on an island with roughly one bear per square mile.
   - *Tip:* Only 24 permits a day and half are held for guides. Permits open in February - the guided floatplane day is the realistic route.
-  - 9h · $25 peak-season permit + ~$650 floatplane from J · air-only · months 7,8 · `57.7819, -134.1389` · **book ahead**
-- **#58 Point Adolphus** · `74` · wildlife
+  - 8h · $25 peak-season permit + ~$650 floatplane from J · air-only · months 7,8 · `57.7833, -134.1333` · **book ahead**
+- **#55 Point Adolphus** · `74` · wildlife
   - Tidal upwelling off the north tip of Chichagof Island that concentrates feeding humpbacks; a classic Icy Strait target.
   - *Tip:* Better whale odds than most Juneau trips. Run from Gustavus or Hoonah; it is a long open crossing if you are kayaking.
   - 6h · ~$180-250 half-day tour from Gustavus · boat-tour · months 6,7,8,9 · `58.2789, -135.7822` · **book ahead**
-- **#62 Alaska Chilkat Bald Eagle Preserve - Council Grounds** · `72` · wildlife
-  - Highway pullout with boardwalk and scopes over the Chilkat flats - the largest bald eagle gathering on earth.
-  - *Tip:* Alaska Bald Eagle Festival runs mid-November. Sun is low by 2pm in November, so shoot the morning side.
-  - 2h · Free · road · months 10,11 · `59.3778, -135.8419`
-- **#73 LeConte Glacier** · `70` · glacier
-  - The southernmost tidewater glacier in the northern hemisphere, calving into LeConte Bay about 25 mi east of Petersburg.
-  - *Tip:* Famous for 'shooters' - bergs that surface explosively. The bay is often so ice-packed that boats stop a mile short.
-  - 5h · $250-320 by boat; ~$180 flightseeing · boat-tour · months 6,7,8,9 · `56.8333, -132.4000` · **book ahead**
-- **#74 McCarthy Airport flightseeing** · `70` · flightseeing
+- **#56 Skagway** · `74` · town-city
+  - Gold-rush boomtown at the head of Lynn Canal; six blocks of restored 1898 false-front buildings inside a national park.
+  - *Tip:* The big Railroad Dock has been closed to pedestrians since the 2022 rockslides - expect a shuttle or tender, plus 30 min.
+  - 8h · Free · cruise-port · months 5,6,7,8,9 · `59.4554, -135.3153`
+- **#60 Alaska Chilkat Bald Eagle Preserve - Council Grounds** · `72` · wildlife
+  - 48,000-acre preserve where warm upwelling keeps a late chum run open, drawing the world's largest gathering of bald eagles.
+  - *Tip:* Peak is early-to-mid November, not summer. Four pullouts sit at Haines Hwy Miles 18-21; Mile 19 has boardwalk and scopes.
+  - 2h · Free · road · months 10,11,12 · `59.3778, -135.8419`
+- **#63 Ketchikan** · `72` · town-city
+  - First Alaskan port most ships reach: four downtown berths, the world's largest collection of standing totem poles, 150 in of rain.
+  - *Tip:* Four ships can dock at once and downtown gridlocks 9am-2pm; the totem parks north and south of town are the escape.
+  - 8h · Free · cruise-port · months 5,6,7,8,9 · `55.3431, -131.6467`
+- **#70 McCarthy Airport flightseeing** · `70` · flightseeing
   - Gravel strip beside McCarthy; bush flights over the Root and Kennicott glaciers, Bagley Icefield and Mt Blackburn.
   - *Tip:* Flights run 35-90 min. The same operator flies Chitina-McCarthy if you would rather skip the gravel road.
   - 2h · $180-400 per person · road · months 6,7,8 · `61.4394, -142.8976` · **book ahead**
-- **#80 Alaska Chilkat Bald Eagle Preserve** · `68` · wildlife
-  - 48,000-acre preserve where warm upwelling keeps a late chum run open, drawing the world's largest gathering of bald eagles.
-  - *Tip:* Peak is early-to-mid November, not summer. Four pullouts sit at Haines Hwy Miles 18-21; Mile 19 has boardwalk and scopes.
-  - 2h · Free · road · months 10,11 · `59.3830, -135.8670`
-- **#82 Creek Street** · `68` · historic-site
-  - Boardwalk of stilt houses over Ketchikan Creek, the 1903-1954 red-light district, now shops and the Dolly's House museum.
-  - *Tip:* Late July to September salmon pack the creek below the boardwalk. The $5 funicular to Cape Fox Lodge buys the best view.
-  - 1.5h · Free; Dolly's House ~$10 · road · months 7,8,9 · `55.3428, -131.6428`
-- **#85 Five Finger Islands & Frederick Sound** · `68` · wildlife
+- **#77 Five Finger Islands & Frederick Sound** · `68` · wildlife
   - Frederick Sound's humpback hotspot around a 1902 lighthouse; researchers track up to 100 whales on a good day.
   - *Tip:* Petersburg charters are small-boat and rarely sell out like Juneau's; August is best for bubble-net groups.
   - 6h · ~$250-350 day charter from Petersburg · boat-tour · months 7,8 · `57.2704, -133.6315` · **book ahead**
-- **#86 Icy Strait Point** · `68` · town-city
-  - Alaska Native-owned cruise port in a 1912 salmon cannery: Tlingit dance shows, cannery museum, gondolas, huge zipline.
-  - *Tip:* The zipline sells out onboard. The free shoreline trail into Hoonah village is the underrated half of the day.
-  - 6h · Free to walk; gondola, zipline and tours extra · cruise-port · months 5,6,7,8,9 · `58.1293, -135.4632` · **book ahead**
-- **#90 South Klondike Highway to White Pass summit** · `68` · scenic-drive
-  - Fourteen miles from tidewater to the 3,292 ft White Pass summit and the BC border: alpine tundra, waterfalls, Tormented Valley.
-  - *Tip:* The only road out of Skagway. Canadian customs sits 8 mi inside BC at Fraser, not at the border itself.
-  - 3h · Free; passport required to cross into BC · road · months 6,7,8,9 · `59.6183, -135.1442`
-- **#99 McCarthy Road** · `66` · scenic-drive
+- **#89 LeConte Glacier** · `66` · glacier
+  - The southernmost tidewater glacier in the northern hemisphere, calving into LeConte Bay about 25 mi east of Petersburg.
+  - *Tip:* Famous for 'shooters' - bergs that surface explosively. The bay is often so ice-packed that boats stop a mile short.
+  - 5h · $250-320 by boat; ~$180 flightseeing · boat-tour · months 6,7,8,9 · `56.9461, -132.3294` · **book ahead**
+- **#90 McCarthy Road** · `66` · scenic-drive
   - 60mi gravel road on the old Copper River & Northwestern railbed, Chitina to the Kennicott River footbridge.
   - *Tip:* Coord is Kuskulana Bridge (MP 17), a 1910 trestle 238ft above the gorge. 2.5-3h each way; no vehicles cross to McCarthy.
   - 5h · Free; $5-10/day parking at the footbridge lot · road · months 6,7,8,9 · `61.4888, -144.0156`
-- **#100 Mount Roberts Tramway** · `66` · viewpoint
-  - Aerial tram rising 1,800 ft from the Juneau cruise docks to an alpine lodge, nature center and ridge trail network.
-  - *Tip:* The ticket is valid all day: ride up, hike the Alpine Loop toward Gastineau Peak, then come down in evening light.
-  - 2.5h · ~$60 adult all-day pass · road · months 5,6,7,8,9 · `58.2967, -134.3947`
-- **#103 Steep Creek Bear Viewing** · `66` · wildlife
+- **#93 Steep Creek Bear Viewing** · `66` · wildlife
   - Boardwalk beside the Mendenhall Glacier Visitor Center where black bears fish spawning sockeye and coho.
   - *Tip:* Go before 9am or after 5pm when the cruise buses thin out; sockeye hit the creek the last week of July.
   - 1.5h · $5 Mendenhall Recreation Area fee · road · months 7,8,9 · `58.4161, -134.5433`
-- **#104 Totem Bight State Historical Park** · `66` · native-culture
+- **#94 Totem Bight State Historical Park** · `66` · native-culture
   - Fourteen recarved totems and a painted clan house on a short forest path to a Tongass Narrows point, 10 mi north of town.
   - *Tip:* The best-sited totem park in Southeast, and quieter than Saxman. Pairs naturally with the airport-side highway drive.
   - 1h · $5 day-use parking · road · months 5,6,7,8,9 · `55.4318, -131.7561`
-- **#108 Alaska State Museum** · `64` · museum-culture
+- **#98 Alaska State Museum** · `64` · museum-culture
   - Statewide collection in one modern building: Tlingit and Haida art, Russian-America relics, and a two-story eagle nesting tree.
   - *Tip:* Shares the APK building with the State Library and Archives; your ticket also covers the Sheldon Jackson Museum in Sitka.
   - 2h · $7 adult summer, $5 winter; under 18 free · cruise-port · months 1,2,3,4,5,6,7,8,9,10,11,12 · `58.2978, -134.4103`
-- **#113 Chilkoot River Bear Viewing** · `63` · wildlife
+- **#102 Icy Strait Point** · `64` · town-city
+  - Alaska Native-owned cruise port in a 1912 salmon cannery: Tlingit dance shows, cannery museum, gondolas, huge zipline.
+  - *Tip:* The zipline sells out onboard. The free shoreline trail into Hoonah village is the underrated half of the day.
+  - 6h · Free to walk; gondola, zipline and tours extra · cruise-port · months 5,6,7,8,9 · `58.1293, -135.4632` · **book ahead**
+- **#105 South Klondike Highway to White Pass summit** · `64` · scenic-drive
+  - Fourteen miles from tidewater to the 3,292 ft White Pass summit and the BC border: alpine tundra, waterfalls, Tormented Valley.
+  - *Tip:* The only road out of Skagway. Canadian customs sits 8 mi inside BC at Fraser, not at the border itself.
+  - 3h · Free; passport required to cross into BC · road · months 6,7,8,9 · `59.6249, -135.1383`
+- **#106 Chilkoot River Bear Viewing** · `63` · wildlife
   - Half-mile of road along the Chilkoot River between lake and inlet, with a fish weir and roadside brown bears.
   - *Tip:* Park only in the marked pullouts - troopers ticket the shoulder. Evening light is best and busiest for bears.
   - 2h · $5 state park day parking · road · months 7,8,9 · `59.3336, -135.5619`
-- **#118 Chilkoot Trail** · `62` · hike-trail
+- **#112 Chilkoot Trail** · `62` · hike-trail
   - 33-mi stampeder route from Dyea over 3,525-ft Chilkoot Pass to Bennett BC, still littered with abandoned 1898 gear.
   - *Tip:* Reserve Parks Canada permits from January; exit by WP&YR train at Bennett and clear customs. Golden Stairs is loose scree.
   - 4d · Permits required, roughly $60-100 total US + Can · trail · months 7,8 · `59.5253, -135.3420` · **book ahead**
-- **#122 Haines** · `62` · town-city
+- **#113 Creek Street** · `62` · historic-site
+  - Boardwalk of stilt houses over Ketchikan Creek, the 1903-1954 red-light district, now shops and the Dolly's House museum.
+  - *Tip:* Late July to September salmon pack the creek below the boardwalk. The $5 funicular to Cape Fox Lodge buys the best view.
+  - 1.5h · Free; Dolly's House ~$10 · road · months 5,6,7,8,9 · `55.3424, -131.6420`
+- **#117 Haines** · `62` · town-city
   - Road-connected Lynn Canal town 15 mi from Skagway by water and 359 mi by road; few ships, real working community.
   - *Tip:* The seasonal fast ferry from Skagway takes about 45 min and is the easy way to add Haines to a cruise or road trip.
-  - 10h · Free · ferry · months 5,6,7,8,9,10,11 · `59.2358, -135.4453`
-- **#125 McCarthy** · `62` · town-city
+  - 10h · Free · ferry · months 5,6,7,8,9,10,11 · `59.2358, -135.4450`
+- **#120 McCarthy** · `62` · town-city
   - End-of-road settlement of ~30 year-rounders 5mi below Kennecott; saloon, lodges, shuttles, reached on foot.
   - *Tip:* Park at the Kennicott River footbridge (Mile 59.4) and walk or shuttle in - outside vehicles can't cross.
   - 3h · Free; shuttle $5-15 · road · months 6,7,8 · `61.4333, -142.9217` · **book ahead**
-- **#126 Sheldon Jackson Museum** · `62` · museum-culture
+- **#122 Sheldon Jackson Museum** · `62` · museum-culture
   - Alaska's oldest museum, an 1897 concrete octagon holding Sheldon Jackson's Native collection: kayaks, masks, tools, regalia.
   - *Tip:* Small room, but the densest Alaska Native artifact display in the state; your Alaska State Museum ticket covers it.
   - 1.5h · $9 adult summer, $7 winter · cruise-port · months 5,6,7,8,9 · `57.0509, -135.3300`
-- **#132 Chilkoot Trail (Dyea trailhead)** · `60` · hike-trail
-  - The 33 mi gold-rush route to Bennett Lake. In 2026 the border at Chilkoot Pass is still shut - out-and-back on each side only.
+- **#128 Chilkoot Trail (Dyea trailhead)** · `60` · hike-trail
+  - The 33 mi gold-rush route to Bennett Lake. Parks Canada still bans crossing the border on the trail - out-and-back only.
   - *Tip:* Day-hike Dyea to Finnegan's Point (4.9 mi) if you cannot through-hike; US camping permits open around April 15.
-  - 2d · NPS backcountry camping permit (reserve on Recre · trail · months 7,8 · `59.5117, -135.3517` · **book ahead**
-- **#136 Icy Strait Point Whale Watching** · `60` · wildlife
+  - 2d · NPS backcountry camping permit (reserve on Recre · trail · months 6,7,8 · `59.5119, -135.3467` · **book ahead**
+- **#132 Icy Strait Point Whale Watching** · `60` · wildlife
   - Cruise-port whale tours working the Point Adolphus waters, sold with a whale-sighting guarantee.
   - *Tip:* Independent travelers can book the same boats locally in Hoonah for materially less than the ship excursion price.
   - 3.5h · $180-230 excursion · cruise-port · months 6,7,8 · `58.1206, -135.4531` · **book ahead**
-- **#137 Kennicott Glacier Lodge** · `60` · wilderness-lodge
+- **#133 Kennicott Glacier Lodge** · `60` · wilderness-lodge
   - Restored lodge on the Kennecott mill-town boardwalk with the Root Glacier off the porch; family-style meals.
   - *Tip:* Park at the McCarthy footbridge and shuttle in - no private cars past it. Book by winter for July dates.
   - 2d · $300-400/night per person incl. meals · road · months 6,7,8,9 · `61.4814, -142.8848` · **book ahead**
-- **#138 Nugget Falls Trail** · `60` · hike-trail
-  - Flat 2 mi round-trip gravel path from the Mendenhall visitor center to a 377 ft waterfall beside the glacier face.
+- **#134 Nugget Falls Trail** · `60` · hike-trail
+  - Flat 2 mi round-trip gravel path from the Mendenhall visitor center to a 377 ft waterfall on the lake's far shore.
   - *Tip:* Go before 10am or after 3pm; cruise buses saturate it midday. The beach at the falls is windy and much colder.
-  - 1.5h · Free (after $5 Mendenhall entry) · trail · months 5,6,7,8,9 · `58.4198, -134.5303`
-- **#140 Sealaska Heritage - Walter Soboleff Building** · `60` · native-culture
+  - 1.5h · Free (after $5 Mendenhall entry) · trail · months 5,6,7,8,9 · `58.4272, -134.5367`
+- **#137 Sealaska Heritage - Walter Soboleff Building** · `60` · native-culture
   - Tlingit, Haida and Tsimshian cultural center built around Shuka Hit, a full clan house of hand-carved red cedar screens.
   - *Tip:* The exterior Lovers' Embrace glass panels are free to view; the shop here is a reliable source of authentic Native art.
-  - 1.5h · $10 adult · road · months 5,6,7,8,9 · `58.2996, -134.4023`
-- **#142 Tracy's King Crab Shack** · `60` · food-drink
+  - 1.5h · $10 adult · road · months 5,6,7,8,9 · `58.3003, -134.4067`
+- **#139 Tracy's King Crab Shack** · `60` · food-drink
   - Open-air shack on the Juneau cruise dock: Bering Sea king crab legs, crab bisque, and crab-leg buckets.
   - *Tip:* Lines peak 11am-2pm when four ships are in; go before 10:30 or after 5pm. Outdoor seating only.
   - 1h · $25-90 (crab combos) · cruise-port · months 5,6,7,8,9 · `58.2970, -134.4020`
-- **#161 Saxman Native Village & Totem Park** · `58` · native-culture
+- **#159 Saxman Native Village & Totem Park** · `58` · native-culture
   - Largest standing collection of totem poles in the world, roughly 25, in a Tlingit village with a carving shed and clan house.
   - *Tip:* Free to wander the poles anytime; the Beaver Clan House dance show and carver talk only run for booked tour groups.
   - 2h · Free to walk the poles; about $50 for the villag · road · months 5,6,7,8,9 · `55.3175, -131.5947` · **book ahead**
-- **#164 Stikine River & Shakes Glacier jet boat** · `58` · boat-cruise
+- **#162 Stikine River & Shakes Glacier jet boat** · `58` · boat-cruise
   - Shallow-draft jet boats run the fast, silty Stikine up to iceberg-choked Shakes Lake and the face of Shakes Glacier.
   - *Tip:* Iceberg jams sometimes stop boats short of the glacier; operators will tell you honestly the morning of the trip.
-  - 7h · $250-320 · boat-tour · months 6,7,8,9 · `56.8142, -132.1731` · **book ahead**
-- **#168 Alaska Raptor Center** · `56` · wildlife
+  - 7h · $250-320 · boat-tour · months 6,7,8,9 · `56.8360, -132.2456` · **book ahead**
+- **#166 Alaska Raptor Center** · `56` · wildlife
   - Bald eagle rehabilitation hospital with a 20,000 sq ft flight-training center and resident non-releasable raptors at eye level.
   - *Tip:* Flight demonstrations run through the day. It backs onto the Indian River Trail, so pair it with the totem park walk.
   - 1.5h · $15 adult · road · months 5,6,7,8,9 · `57.0524, -135.3161`
-- **#174 Haines Highway over Chilkat Pass** · `56` · scenic-drive
-  - 146 mi byway from tidewater over 3,510 ft Chilkat Pass to Haines Junction, Yukon; you clear treeline within 40 miles.
+- **#172 Haines Highway (Haines to Haines Junction)** · `56` · scenic-drive
+  - 146 mi byway from tidewater over 3,500 ft Chilkat Pass in BC to Haines Junction, Yukon; you clear treeline within 40 miles.
   - *Tip:* US customs at Mile 40 closes overnight in shoulder season. Fuel in Haines - there is nothing for 100 mi past the border.
-  - 4h · Free; passport required · road · months 6,7,8,9 · `59.5031, -136.2497`
-- **#177 Russian Bishop's House** · `56` · historic-site
+  - 4h · Free; passport required · road · months 6,7,8,9 · `59.4309, -136.1636`
+- **#175 Russian Bishop's House** · `56` · historic-site
   - 1842 log residence of Bishop Innocent, one of only four surviving Russian-colonial buildings in North America; NPS-restored.
   - *Tip:* Ground floor is free; the upstairs chapel and living quarters are ranger-guided only, roughly hourly in summer.
   - 1h · $5 adult (NPS) · cruise-port · months 5,6,7,8,9 · `57.0518, -135.3339`
-- **#180 Totem Heritage Center** · `56` · museum-culture
+- **#178 Totem Heritage Center** · `56` · museum-culture
   - Thirty-plus unrestored 19th-century totem poles retrieved from abandoned Tlingit and Haida villages, kept indoors as found.
   - *Tip:* The only place to see original weathered, unpainted poles. Visit here before the outdoor replica parks, not after.
   - 1h · $6 adult · cruise-port · months 5,6,7,8,9 · `55.3399, -131.6380`
-- **#181 AMHS Cross-Gulf Route** · `55` · ferry-route
+- **#179 AMHS Cross-Gulf Route** · `55` · ferry-route
   - The only way to drive your car between Southeast Alaska and the mainland road system without going through Canada.
   - *Tip:* Sails only a few times a season and sells out early - it is the linchpin of any Southeast-to-Southcentral driving loop.
   - 2.5d · ~$350-450 walk-on Juneau-Whittier; vehicle rough · ferry · months 6,7,8 · `59.5469, -139.7272` · **book ahead**
-- **#182 Alaska Marine Highway - Inside Passage mainline** · `55` · ferry-route
+- **#180 Alaska Marine Highway - Inside Passage mainline** · `55` · ferry-route
   - State ferries link Bellingham WA to Skagway, calling at towns cruise ships skip; cabins optional, solarium sleeping allowed.
   - *Tip:* No Prince Rupert BC service and no cross-gulf Juneau-Whittier sailings in 2026 - plan Southeast as a closed loop.
-  - 2d · ~$400 walk-on Bellingham to Juneau; cabins extra · ferry · months 5,6,7,8,9 · `55.3600, -131.6867` · **book ahead**
-- **#186 Celebration (Sealaska Heritage)** · `55` · festival-event
+  - 2d · ~$400 walk-on Bellingham to Juneau; cabins extra · ferry · months 5,6,7,8,9 · `55.3546, -131.6935` · **book ahead**
+- **#182 Alsek River Raft Expedition** · `55` · boat-cruise
+  - Ten-to-twelve-day raft expedition out of the Yukon through St. Elias icefields to Alsek Lake's icebergs and a bush-plane takeout.
+  - *Tip:* Glacier Bay NP river permits are lottery-allocated in February; nearly everyone goes with one of the few permitted outfitters.
+  - 4d · $5,000-6,500 per person · air-only · months 6,7,8 · `59.2100, -138.4000` · **book ahead**
+- **#188 Celebration (Sealaska Heritage)** · `55` · festival-event
   - Largest Southeast Native gathering: 2,000+ dancers from 50+ Tlingit, Haida and Tsimshian groups plus a downtown grand parade.
   - *Tip:* Even years only, so the next is June 2028; Juneau lodging books out. The opening parade is free to watch.
   - 1d · About $40 multi-day pass; parade free · cruise-port · months 6 · `58.2996, -134.4085` · **book ahead**
-- **#189 Fish Creek Wildlife Observation Site** · `55` · wildlife
+- **#191 Fish Creek Wildlife Observation Site** · `55` · wildlife
   - Forest Service viewing platform 4 mi north of Hyder over a chum and pink creek - road-accessible brown and black bears.
   - *Tip:* Reached through Stewart BC on Hwy 37A, so bring a passport. Continue 20 mi of gravel for the Salmon Glacier overlook.
   - 3h · ~$10 timed day ticket on Recreation.gov · road · months 7,8,9 · `55.9756, -130.0294` · **book ahead**
-- **#194 Red Onion Saloon** · `55` · food-drink
+- **#195 Red Onion Saloon** · `55` · food-drink
   - 1898 gold-rush saloon on Broadway with the original upstairs brothel; costumed madams run 15-min tours of the cribs.
   - *Tip:* Tours sell out on four-ship days - sign up when you arrive, then drink downstairs until your slot comes up.
   - 1h · Free to drink; brothel tour ~$20 · cruise-port · months 5,6,7,8,9 · `59.4539, -135.3185`
-- **#198 South Marble Island** · `55` · wildlife
+- **#199 South Marble Island** · `55` · wildlife
   - Loud Steller sea lion haulout and tufted puffin colony - the first big wildlife stop on every Glacier Bay day boat.
   - *Tip:* It comes up about 90 min into the boat run; be out on the bow deck by then, not in the cafeteria line.
   - 1h · Included in the Glacier Bay day boat (~$260) · boat-tour · months 6,7,8 · `58.6608, -136.0242` · **book ahead**
-- **#199 Taku Glacier Lodge & Wilderness Salmon Bake** · `55` · wilderness-lodge
+- **#200 Taku Glacier Lodge & Wilderness Salmon Bake** · `55` · wilderness-lodge
   - 1923 log lodge facing Taku Glacier, reachable only by floatplane; grilled king salmon and habituated black bears outside.
   - *Tip:* The flight over five Taku Inlet glaciers justifies the price alone. Roughly ten flights a day, so book weeks ahead.
-  - 3.5h · ~$400 including flight and meal · air-only · months 6,7,8,9 · `58.5433, -134.0225` · **book ahead**
-- **#200 Tracy Arm Fjord** · `55` · boat-cruise
-  - Narrow granite fjord to the Sawyer glaciers; an Aug 2025 landslide and megatsunami has kept vessels out through 2026.
-  - *Tip:* Holland America, Carnival, Royal Caribbean, MSC and Allen Marine all swapped 2026 sailings to Endicott Arm instead.
-  - 9h · Not operating in 2026 · boat-tour · months 6,7,8 · `57.7794, -133.6333`
+  - 3.5h · ~$400 including flight and meal · air-only · months 5,6,7,8,9 · `58.4904, -133.9406` · **book ahead**
 - **#209 AMHS Northern Panhandle Route** · `52` · ferry-route
   - Small-ferry milk run to the Tlingit and fishing villages of Chichagof and Admiralty Islands that no cruise ship visits.
   - *Tip:* Hoonah (4.5h RT from Auke Bay) is the easiest day-trip; Tenakee and Pelican need an overnight because sailings are sparse.
   - 5h · ~$50-90 walk-on per leg from Juneau · ferry · months 5,6,7,8,9 · `58.1094, -135.4364` · **book ahead**
-- **#210 Bonanza Mine Trail** · `52` · hike-trail
+- **#212 Bonanza Mine Trail** · `52` · hike-trail
   - 4.5mi, 3,800ft climb from Kennecott to the Bonanza mine ruins at 6,000ft, with Chugach-to-Wrangells views.
   - *Tip:* 8-9hr round trip. Start by 8am and carry all your water - there is none above the mill town.
   - 9h · Free · trail · months 7,8 · `61.5113, -142.8293`
-- **#211 Chief Shakes Island & Tribal House** · `52` · native-culture
+- **#214 Chief Shakes Island & Tribal House** · `52` · native-culture
   - Footbridge islet in Wrangell harbor with a rebuilt Tlingit clan house and a stand of replica and original totem poles.
   - *Tip:* Interior opens on request through the Wrangell Cooperative Association; the poles and bridge are always free to walk.
-  - 1h · Free grounds; about $5 for the house tour · road · months 5,6,7,8,9 · `56.4669, -132.3833`
-- **#219 Huna Tribal House (Xunaa Shuka Hit)** · `52` · native-culture
+  - 1h · Free grounds; about $5 for the house tour · road · months 5,6,7,8,9 · `56.4657, -132.3805`
+- **#223 Huna Tribal House (Xunaa Shuka Hit)** · `52` · native-culture
   - Huna Tlingit clan house at Glacier Bay park headquarters, opened 2016: carved house screens, totems and daily culture talks.
   - *Tip:* Five-minute walk from Glacier Bay Lodge; day-cruise passengers never land, so you need a Gustavus overnight to see it.
   - 1.5h · Free (NPS) · ferry · months 6,7,8 · `58.4553, -135.8878`
-- **#227 St. Lazaria Island** · `52` · wildlife
+- **#231 St. Lazaria Island** · `52` · wildlife
   - 65-acre volcanic islet at the mouth of Sitka Sound with roughly half a million nesting seabirds.
   - *Tip:* Landing is banned, so this is a circumnavigation trip. Seas get big - take motion meds and book a calm morning.
   - 5h · ~$200-300 boat tour from Sitka · boat-tour · months 6,7 · `56.9872, -135.7047` · **book ahead**
-- **#228 Ultima Thule Lodge** · `52` · wilderness-lodge
+- **#232 Ultima Thule Lodge** · `52` · wilderness-lodge
   - Family-run lodge on the Chitina River deep inside Wrangell-St. Elias, 100mi from the nearest road; daily bush flights.
   - *Tip:* The flying is the product - a different gravel bar or glacier each day, and weather dictates the schedule.
   - 3d · ~$3,000 per person per night, 3-night minimum · air-only · months 3,6,7,8,9 · `61.1299, -142.4145` · **book ahead**
-- **#236 Gold Creek Salmon Bake** · `50` · food-drink
+- **#240 Gold Creek Salmon Bake** · `50` · food-drink
   - All-you-can-eat alder-grilled salmon in a creekside forest amphitheater with gold panning and old mine ruins.
   - *Tip:* Price includes the downtown shuttle; last seating around 8:30pm. Covered outdoor seating - bring a jacket.
   - 2h · ~$59 adult, all-you-can-eat · road · months 5,6,7,8,9 · `58.3303, -134.4689` · **book ahead**
-- **#238 Petersburg** · `50` · town-city
+- **#242 Petersburg** · `50` · town-city
   - Norwegian-founded fishing town on Mitkof Island; too small for big ships, so it is all working harbor and rosemaling trim.
   - *Tip:* No cruise berth means no crowds. Come for LeConte Glacier, the muskeg boardwalks and the best halibut fleet in Southeast.
-  - 8h · Free · ferry · months 5,6,7,8,9 · `56.8125, -132.9556`
-- **#245 St. Michael's Cathedral** · `50` · historic-site
+  - 8h · Free · ferry · months 5,6,7,8,9 · `56.8134, -132.9572`
+- **#248 Sitka Sound Salmon & Halibut Charters** · `50` · fishing
+  - Sheltered island water plus quick open-Pacific access makes Sitka the most consistent all-species charter port in Southeast.
+  - *Tip:* King salmon peak late May-June and silvers in August; boats leave from Thomsen and ANB harbors, 10 min from downtown.
+  - 9h · $325-425 per person full day · cruise-port · months 6,7,8 · `57.0603, -135.3489` · **book ahead**
+- **#250 St. Michael's Cathedral** · `50` · historic-site
   - Russian Orthodox cathedral standing in the middle of Sitka's main street; a 1966 fire replica holding rescued 19th-c icons.
   - *Tip:* The icons are the originals, saved by townspeople from the fire. The Russian Bishop's House two blocks away is 1842 fabric.
   - 0.5h · $5 suggested donation · cruise-port · months 5,6,7,8,9 · `57.0528, -135.3385`
-- **#246 West Glacier Trail** · `50` · hike-trail
+- **#251 West Glacier Trail** · `50` · hike-trail
   - 3.4 mi one-way trail up the glacier's west flank to bedrock overlooks; the local route to real ice-level views.
   - *Tip:* Scrambles onto the ice and into caves beyond the marked end are unroped and have killed people. Stop at the rock knob.
-  - 4h · Free · trail · months 6,7,8,9 · `58.4181, -134.5814`
-- **#255 Kuskulana Bridge** · `48` · historic-site
+  - 4h · Free · trail · months 6,7,8,9 · `58.4181, -134.5900`
+- **#258 Goldbelt Tram (Mount Roberts Tramway)** · `48` · viewpoint
+  - Aerial tram from the Juneau cruise docks to an 1,800 ft alpine lodge and ridge trails - shut down and under assessment.
+  - *Tip:* Confirm on goldbelttram.com before counting on it. If it is down, hike the Mount Roberts Trail up from 6th Street instead.
+  - 2.5h · ~$60 adult all-day pass when running · road · months 5,6,7,8,9 · `58.2963, -134.4007`
+- **#263 Kuskulana Bridge** · `48` · historic-site
   - 1910 steel railroad bridge at McCarthy Road Mile 17: 525ft long, 238ft above the Kuskulana River gorge.
   - *Tip:* Park at the far pullout and walk back across - the deck is one lane with a plank walkway on the side.
   - 0.5h · Free · road · months 6,7,8,9 · `61.4888, -144.0156`
-- **#256 Mount Edgecumbe** · `48` · volcano-geology
+- **#264 Mount Edgecumbe** · `48` · volcano-geology
   - Dormant 3,201 ft stratovolcano on Kruzof Island, the cone that defines Sitka's skyline; 6.7 mi trail to the crater rim.
   - *Tip:* Needs a boat drop at Fred's Creek and a full clear day. Most visitors simply photograph it from Castle Hill.
-  - 10h · Free; charter to Kruzof ~$150+ · boat-tour · months 7,8,9 · `57.0511, -135.7614` · **book ahead**
-- **#261 Southeast Alaska Discovery Center** · `48` · museum-culture
+  - 10h · Free; charter to Kruzof ~$150+ · boat-tour · months 7,8,9 · `57.0514, -135.7606` · **book ahead**
+- **#269 Southeast Alaska Discovery Center** · `48` · museum-culture
   - Forest Service interpretive center on Main Street: rainforest diorama, Tongass ecology, and a public-lands trip-planning desk.
   - *Tip:* Best single place to get real Tongass cabin and trail information plus current Anan and Misty Fjords conditions.
-  - 1h · $5 (free with federal interagency pass) · road · months 5,6,7,8,9 · `55.3419, -131.6483`
-- **#265 Wrangell** · `48` · town-city
+  - 1h · $5 (free with federal interagency pass) · road · months 5,6,7,8,9 · `55.3421, -131.6470`
+- **#273 Wrangell** · `48` · town-city
   - One of the least cruise-touched towns in Southeast: Tlingit fort site, Stikine River gateway, working fishing harbor.
   - *Tip:* Only small ships call. Get here on the state ferry or the Alaska Airlines milk run; two nights unlocks Anan and the Stikine.
-  - 8h · Free · ferry · months 5,6,7,8,9 · `56.4708, -132.3775`
-- **#280 Jilkaat Kwaan Heritage Center** · `46` · native-culture
+  - 8h · Free · ferry · months 5,6,7,8,9 · `56.4706, -132.3829`
+- **#288 Icy Strait Point ZipRider** · `46` · viewpoint
+  - One of the world's longest ziplines: 5,330 ft dropping 1,300 ft off Hoonah Mountain, six riders side by side at up to 60 mph.
+  - *Tip:* Only worth the money on a clear day for the Icy Strait view; the gondola ride to the summit is a separate ticket.
+  - 2h · ~$169 per rider · cruise-port · months 5,6,7,8,9 · `58.1180, -135.4750` · **book ahead**
+- **#289 Jilkaat Kwaan Heritage Center** · `46` · native-culture
   - Tlingit-run center in Klukwan village displaying the four Whale House house-posts and Rain Screen, carvings roughly 200 years old.
   - *Tip:* Mile 22 Haines Hwy inside the Chilkat Bald Eagle Preserve; call ahead since hours follow the tour-bus schedule.
   - 2h · About $25 adult tour · road · months 5,6,7,8,9 · `59.4067, -135.8917` · **book ahead**
-- **#285 New Eddystone Rock** · `46` · volcano-geology
+- **#290 Kahiltna Glacier Base Camp** · `46` · glacier
+  - Seasonal ski-plane airstrip on the Southeast Fork Kahiltna where every West Buttress climb of Denali starts and ends.
+  - *Tip:* Non-climbers can land here on a Talkeetna flightseeing trip in May-June while camp is staffed; by late July it is gone.
+  - 2h · $1,000+ climber round-trip; ~$550 flightseeing l · air-only · months 5,6 · `62.9667, -151.0917` · **book ahead**
+- **#296 New Eddystone Rock** · `46` · volcano-geology
   - 237 ft basalt pillar standing alone in Behm Canal, the eroded neck of a volcanic vent, named by Vancouver in 1793.
   - *Tip:* Every Misty Fjords boat passes it and some land on the sand spit beside it at low tide for a beach walk.
-  - 0.5h · Included on Misty Fjords tours · boat-tour · months 6,7,8,9 · `55.5036, -130.9358`
-- **#286 Petroglyph Beach State Historic Site** · `46` · historic-site
+  - 0.5h · Included on Misty Fjords tours · boat-tour · months 6,7,8,9 · `55.5034, -130.9386`
+- **#297 Petroglyph Beach State Historic Site** · `46` · historic-site
   - Roughly 40 prehistoric petroglyphs pecked into beach bedrock north of town, among the densest such sites in Southeast.
   - *Tip:* Check the Wrangell tide table - they vanish at high water. Make rubbings only from the boardwalk replicas, never originals.
   - 1h · Free · road · months 5,6,7,8,9 · `56.4847, -132.3969`
-- **#304 Whale Park** · `45` · wildlife
+- **#315 Whale Park** · `45` · wildlife
   - Boardwalk, viewing decks and a hydrophone on Sawmill Creek Road - Sitka's free shore-based whale watching.
   - *Tip:* Sitka's late-March herring spawn turns the sound milky and pulls in whales, sea lions and thousands of eagles.
   - 1h · Free · road · months 3,4,9,10,11 · `57.0356, -135.2519`
-- **#309 Castle Hill** · `44` · historic-site
+- **#321 Castle Hill** · `44` · historic-site
   - Paved switchback to the knoll where Russia formally transferred Alaska to the United States on 18 October 1867.
   - *Tip:* Two-minute climb, best free view in Sitka. It faces west over the sound and Mount Edgecumbe, so go at sunset.
-  - 0.5h · Free · road · months 5,6,7,8,9 · `57.0508, -135.3392`
-- **#313 Deer Mountain Trail** · `44` · hike-trail
+  - 0.5h · Free · road · months 5,6,7,8,9 · `57.0487, -135.3380`
+- **#325 Deer Mountain Trail** · `44` · hike-trail
   - Steep 2.5 mi climb from the edge of downtown to a 3,001 ft summit over Tongass Narrows, with a free shelter on the ridge.
   - *Tip:* Trailhead is a 20-minute walk from the cruise berths - the only real hike you can do on a ship day without a vehicle.
-  - 5h · Free · trail · months 6,7,8,9 · `55.3372, -131.6339`
-- **#315 Fortress of the Bear** · `44` · wildlife
+  - 5h · Free · trail · months 6,7,8,9 · `55.3417, -131.6233`
+- **#327 Fortress of the Bear** · `44` · wildlife
   - Orphaned brown and black bears living in converted pulp-mill clarifier tanks 5 mi out Sawmill Creek Road; sightings guaranteed.
   - *Tip:* This is a rescue, not wild viewing. Great for kids and rain days, but Anan or Pack Creek is the real experience.
-  - 1h · $15 adult · road · months 5,6,7,8,9 · `57.0559, -135.2247`
-- **#318 Inter-Island Ferry Authority** · `44` · ferry-route
+  - 1h · $15 adult · road · months 5,6,7,8,9 · `57.0464, -135.2322`
+- **#331 Inter-Island Ferry Authority** · `44` · ferry-route
   - Community-run 3h ferry from Ketchikan to Hollis, unlocking Prince of Wales Island's 1,500mi of road, karst caves and black bears.
   - *Tip:* Separate from AMHS with its own website and reservation system - it is the only reliable POW connection and is often full.
   - 3h · ~$50 walk-on, ~$85 with a car, one way · ferry · months 5,6,7,8,9 · `55.4864, -132.6394` · **book ahead**
-- **#319 Juneau International Airport** · `44` · town-city
+- **#332 Juneau International Airport** · `44` · town-city
   - Jet gateway to Juneau, Glacier Bay and the northern panhandle - no road connects Juneau to anywhere.
   - *Tip:* Juneau flights divert in fog. Never book a same-day cruise, ferry or Gustavus connection off a JNU arrival.
   - 1h · Jet fare from Anchorage/Seattle · air-only · months 5,6,7,8,9 · `58.3548, -134.5763` · **book ahead**
-- **#322 Nabesna Road** · `44` · scenic-drive
+- **#336 Nabesna Road** · `44` · scenic-drive
   - 42mi dead-end gravel road into the quiet north side of Wrangell-St. Elias; volcanoes, trailheads, almost no people.
   - *Tip:* Stop at Slana Ranger Station first for creek-crossing conditions; most cars are fine to MP 29, high clearance beyond.
   - 5h · Free (NPS, no entrance fee) · road · months 6,7,8,9 · `62.5638, -143.4236`
-- **#329 Willow Lake Overlook** · `44` · viewpoint
+- **#346 Willow Lake Overlook** · `44` · viewpoint
   - Richardson Hwy pullout where the whole Wrangell volcano wall - Drum, Sanford, Wrangell, Blackburn - reflects in the lake.
   - *Tip:* Shoot early morning for glass-calm water; interpretive signs name every peak on the skyline.
   - 0.5h · Free · road · months 6,7,8,9 · `61.7789, -145.1809`
-- **#333 Wrangell-St. Elias Visitor Center (Copper Center)** · `44` · museum-culture
+- **#350 Wrangell-St. Elias Visitor Center (Copper Center)** · `44` · museum-culture
   - Main NPS center at Richardson Hwy Mile 106.8: park film, relief map, Ahtna exhibits, big deck view of the volcanoes.
   - *Tip:* Only staffed center on the Richardson - get McCarthy/Nabesna road conditions and loaner bear cans here.
   - 1h · Free · road · months 5,6,7,8,9 · `62.0200, -145.3634`
-- **#342 Dyea Townsite & Slide Cemetery** · `42` · historic-site
+- **#361 Dyea Townsite & Slide Cemetery** · `42` · historic-site
   - Ghost townsite 9 mi from Skagway: wharf pilings, a few ruins and the cemetery for the 1898 Palm Sunday avalanche dead.
   - *Tip:* Dyea Road is steep single-lane with blind corners; some rental contracts forbid it. Taxis run roughly $40 each way.
-  - 2h · Free · road · months 5,6,7,8,9 · `59.5142, -135.3644`
-- **#344 Fort William H. Seward** · `42` · historic-site
+  - 2h · Free · road · months 5,6,7,8,9 · `59.5099, -135.3605`
+- **#363 Fort William H. Seward** · `42` · historic-site
   - Alaska's first permanent army post (1904), now a landmark district of white officers' houses around a grass parade ground.
   - *Tip:* Walk the parade loop and stop at Alaska Indian Arts, the Tlingit carving shed in the old post hospital building.
-  - 1.5h · Free · road · months 5,6,7,8,9 · `59.2286, -135.4392`
-- **#347 Gustavus** · `42` · town-city
+  - 1.5h · Free · road · months 5,6,7,8,9 · `59.2273, -135.4428`
+- **#367 Gustavus** · `42` · town-city
   - 450-person town on a glacial outwash plain: the airstrip, lodges, ferry landing and grocery that make Glacier Bay possible.
   - *Tip:* Gustavus and Bartlett Cove are 10 mi apart with no taxi rank; arrange lodge transfers before you fly in.
-  - 2h · Free · air-only · months 6,7,8 · `58.4139, -135.7367` · **book ahead**
-- **#348 Haines Ferry Terminal** · `42` · ferry-route
+  - 2h · Free · air-only · months 5,6,7,8,9 · `58.4124, -135.7308` · **book ahead**
+- **#368 Haines Ferry Terminal** · `42` · ferry-route
   - Terminal 5mi north of Haines; the Haines Highway runs from here over Chilkat Pass to the Alaska Hwy at Haines Junction.
   - *Tip:* Ferry to Haines then drive the Haines Hwy over Chilkat Pass to reconnect with the road system - avoids the cross-gulf sailing.
   - 1h · Free to enter; ~$45 walk-on Juneau-Haines · ferry · months 5,6,7,8,9 · `59.2818, -135.4619` · **book ahead**
-- **#350 Last Chance Mining Museum & Perseverance Trail** · `42` · historic-site
+- **#370 Ketchikan Harbor Seaplane Base** · `42` · flightseeing
+  - Downtown floatplane dock on the Tongass Narrows where Misty Fjords flightseeing and remote Tongass cabin charters take off.
+  - *Tip:* Flights cancel often in rain - book Misty Fjords for the first hours in port so you keep a weather backup slot later.
+  - 2h · $250-350 Misty Fjords flight · cruise-port · months 5,6,7,8,9 · `55.3489, -131.6739` · **book ahead**
+- **#373 Last Chance Mining Museum & Perseverance Trail** · `42` · historic-site
   - Compressor house of the old Alaska-Juneau gold mine at the end of Basin Road, plus the Perseverance Trail trailhead.
   - *Tip:* Walk Basin Road from downtown in 25 minutes; the Gold Creek gorge and the flume walk are better than the museum.
-  - 2.5h · $8 museum; trail free · road · months 6,7,8,9 · `58.3125, -134.3728`
-- **#362 Alaska Bald Eagle Festival** · `40` · festival-event
+  - 2.5h · $8 museum; trail free · road · months 6,7,8,9 · `58.3056, -134.3845`
+- **#385 Alaska Bald Eagle Festival** · `40` · festival-event
   - Haines festival held when thousands of bald eagles concentrate on the Chilkat's late, ice-free chum run.
   - *Tip:* The reliable eagle fix when the river run is off; combine with the preserve pullouts 20 min up the highway.
   - 1d · Free events; guided tours ~$100 · road · months 5,6,7,8,9,11 · `59.2358, -135.4453` · **book ahead**
-- **#364 Auke Bay Ferry Terminal** · `40` · ferry-route
+- **#387 Auke Bay Ferry Terminal** · `40` · ferry-route
   - Juneau's ferry terminal 14mi north of downtown, the hinge of the whole Southeast network and the stop for Glacier Bay connections.
   - *Tip:* It is NOT downtown - allow 30 min drive and note there is no reliable transit at odd sailing hours. Vehicle check-in 90 min prior.
   - 1h · Free to enter; fares vary · ferry · months 5,6,7,8,9 · `58.3816, -134.6833` · **book ahead**
-- **#371 Hammer Museum** · `40` · museum-culture
+- **#395 Hammer Museum** · `40` · museum-culture
   - One-room Main Street museum holding 2,000+ hammers, from Roman nail-pullers to whaling tools, with a giant hammer outside.
   - *Tip:* Closed weekends and outside summer. Thirty minutes is enough, but it is the best small-museum gimmick in Southeast.
   - 1h · $5 · road · months 5,6,7,8,9 · `59.2372, -135.4444`
-- **#372 Herring Cove Bear Viewing** · `40` · wildlife
+- **#396 Herring Cove Bear Viewing** · `40` · wildlife
   - Creek mouth 8mi south of Ketchikan where black bears and eagles work the summer pink run - easiest port-day bears.
   - *Tip:* Best on a falling tide with salmon trapped in the shallows; the hatchery run peaks the first half of August.
   - 3h · Free roadside; ~$130 guided tour from Ketchikan · road · months 7,8 · `55.2925, -131.5644`
-- **#374 Klawock Totem Park** · `40` · native-culture
+- **#398 Klawock Totem Park** · `40` · native-culture
   - Twenty-one totems on a hill above Klawock's harbor - the largest totem park in Alaska, mostly moved from old Tuxekan.
   - *Tip:* Always open and free; the carving shed below sometimes has work in progress. Good stop driving Hollis to Craig.
-  - 1h · Free · road · months 5,6,7,8,9 · `55.5533, -133.0958`
-- **#380 Mount Wrangell** · `40` · volcano-geology
+  - 1h · Free · road · months 5,6,7,8,9 · `55.5524, -133.0971`
+- **#404 Mount Wrangell** · `40` · volcano-geology
   - 14,163ft active shield volcano that still steams from summit fumaroles; anchors the Copper Basin skyline.
   - *Tip:* Best roadside look is Willow Lake overlook or the visitor center deck at Copper Center; steam shows in cold air.
   - 0.5h · Free to view · air-only · months 5,6,7,8,9 · `62.0058, -144.0194`
-- **#387 Wrangell Narrows** · `40` · ferry-route
+- **#412 Tracy Arm Fjord** · `40` · boat-cruise
+  - Narrow granite fjord to the Sawyer glaciers; an Aug 2025 landslide and megatsunami has kept vessels out through 2026.
+  - *Tip:* Do not book a 2026 'Tracy Arm' trip without confirming the itinerary - operators sell Endicott Arm under the old name.
+  - 9h · Not operating in 2026 · boat-tour · months 6,7,8 · `57.9114, -133.4022`
+- **#415 Wrangell Narrows** · `40` · ferry-route
   - 22 mi dogleg channel south of Petersburg, under 300 ft wide in places, marked by more than 60 lit navigation aids.
   - *Tip:* Only state ferries and small ships fit through. Time a Columbia or Kennicott leg so you transit in daylight.
   - 2h · Part of the AMHS fare · ferry · months 5,6,7,8,9 · `56.6919, -132.9694` · **book ahead**
-- **#392 Alaskan Brewing Company** · `38` · food-drink
+- **#420 Alaskan Brewing Company** · `38` · food-drink
   - Brewery behind Alaskan Amber, founded 1986, with a tasting room and short production tour in the Lemon Creek area.
   - *Tip:* It sits in an industrial park 20 min from downtown, so only worth it if you already have a car for Mendenhall.
   - 1.5h · Free tasting; tour ~$20 · road · months 5,6,7,8,9 · `58.3547, -134.4903`
-- **#393 Benjamin Island Sea Lion Haulout** · `38` · wildlife
+- **#421 Benjamin Island Sea Lion Haulout** · `38` · wildlife
   - Rocky island in Favorite Channel 25mi northwest of Juneau - Southeast's most accessible winter sea lion haulout.
   - *Tip:* This is a winter show; summer visitors find it bare. Juneau whale boats detour here Oct-Apr for humpbacks too.
   - 4h · ~$150+ on a Juneau whale-watch charter · boat-tour · months 1,2,3,4,10,11,12 · `58.5561, -134.9033` · **book ahead**
-- **#397 Edgerton Highway** · `38` · scenic-drive
+- **#425 Edgerton Highway** · `38` · scenic-drive
   - 33mi paved spur off the Richardson at Kenny Lake down to Chitina, with the Wrangell volcanoes on the horizon.
   - *Tip:* Paved the whole way - the gravel only starts past Chitina. Last groceries are at Kenny Lake Mercantile.
   - 1h · Free · road · months 5,6,7,8,9 · `61.6200, -144.6900`
-- **#398 El Capitan Cave** · `38` · volcano-geology
+- **#426 El Capitan Cave** · `38` · volcano-geology
   - Alaska's longest known cave, about two miles of limestone passage; guided walks go 500 ft in past Pleistocene bone sites.
   - *Tip:* 367 steps to the entrance and no children under seven. Book via Thorne Bay Ranger District, 907-828-3304, two days out.
   - 3h · Free tour; reserve two days ahead · road · months 6,7,8 · `56.1644, -133.3191` · **book ahead**
-- **#403 Mount Blackburn** · `38` · volcano-geology
+- **#433 Mount Blackburn** · `38` · volcano-geology
   - 16,390ft ice-capped extinct shield volcano, Alaska's fifth-highest peak and the white wall above Kennecott.
   - *Tip:* Best ground view is from the Kennecott mill town lawn or the Root Glacier trail on a clear morning.
   - 0.5h · Free to view · air-only · months 6,7,8,9 · `61.7317, -143.4331`
-- **#411 Skagway Ferry Terminal** · `38` · ferry-route
+- **#434 Nizina River Packraft Float** · `38` · boat-cruise
+  - The classic Wrangell-St. Elias packraft: shuttle out of McCarthy to the Nizina, then float glacial braids toward the Chitina.
+  - *Tip:* Two to three days of Class II braided water with no rescue; most parties fly one leg with a McCarthy air taxi.
+  - 2d · $150-300 shuttle or flight; guided ~$1,200 · trail · months 6,7,8 · `61.4547, -142.8286` · **book ahead**
+- **#444 Skagway Ferry Terminal** · `38` · ferry-route
   - Northern end of the AMHS mainline, a five-minute walk from Broadway and the White Pass depot.
   - *Tip:* The private Haines-Skagway fast ferry runs far more often than AMHS and takes only 45 minutes.
-  - 2h · ~$50 walk-on to Haines · ferry · months 5,6,7,8,9 · `59.4479, -135.3300` · **book ahead**
-- **#414 Waterfall Resort** · `38` · wilderness-lodge
+  - 2h · ~$50 walk-on to Haines · ferry · months 5,6,7,8,9 · `59.4479, -135.3302` · **book ahead**
+- **#448 Waterfall Resort** · `38` · wilderness-lodge
   - A 1912 salmon cannery on Prince of Wales Island turned all-inclusive fishing lodge with guided boats for king and coho.
   - *Tip:* Floatplane in from Ketchikan; packages cover gear, guide and freezing/shipping your fish home.
   - 3d · $2,000-2,500 per person, 3-day package · air-only · months 6,7,8 · `55.2963, -133.2433` · **book ahead**
-- **#416 Baranof Warm Springs** · `36` · hot-springs
+- **#451 Baranof Warm Springs** · `36` · hot-springs
   - Boardwalk hamlet on Baranof's east side: three bathhouse tubs on the dock plus wild rock pools beside a 100 ft waterfall.
   - *Tip:* No scheduled service - charter a floatplane from Sitka, about 35 min. The upper natural pools are far better than the tubs.
-  - 4h · Free; floatplane charter from Sitka ~$300+ · air-only · months 6,7,8,9 · `57.0894, -134.8319` · **book ahead**
-- **#419 Gilahina Trestle** · `36` · historic-site
+  - 4h · Free; floatplane charter from Sitka ~$300+ · air-only · months 6,7,8,9 · `57.0894, -134.8349` · **book ahead**
+- **#455 Gilahina Trestle** · `36` · historic-site
   - Collapsing 1911 wooden rail trestle, 880ft long and ~90ft high, built in eight days; McCarthy Road Mile 29.
   - *Tip:* Roadside pullout with a short spur path. The timbers are rotten - photograph from below, don't climb.
   - 0.5h · Free · road · months 6,7,8,9 · `61.4388, -143.7183`
-- **#424 Eaglecrest Ski Area** · `35` · winter-sport
+- **#459 Situk River** · `36` · fishing
+  - Short, absurdly productive Yakutat river: spring steelhead, then sockeye and one of Alaska's best coho runs.
+  - *Tip:* Two road accesses - Nine Mile Bridge upper, Situk Landing lower. Float between them in a day with a shuttle.
+  - 8h · Guided day ~$450; nonresident license $45 · road · months 4,5,9,10 · `59.4353, -139.5467` · **book ahead**
+- **#463 Eaglecrest Ski Area** · `35` · winter-sport
   - Juneau's community ski area on Douglas Island: four lifts, sea-level-to-2,600 ft terrain, maritime snow and frequent rain.
-  - *Tip:* Check the lift and season status before planning around it; the long-promised gondola project has still not opened.
+  - *Tip:* Check lift and season status before planning around it; the Assembly is weighing scrapping the stalled gondola project.
   - 6h · ~$65 lift ticket · road · months 1,2,3,12 · `58.2678, -134.5094`
-- **#431 Gold Rush Cemetery** · `34` · historic-site
+- **#466 Alaska Canopy Adventures Rainforest Zipline** · `34` · viewpoint
+  - Eight-line zip and sky-bridge course through old-growth Tongass canopy above Herring Cove, 20 min south of Ketchikan.
+  - *Tip:* It rains constantly and runs anyway - rain gear is issued. Pair it with the Herring Cove bear platform in August.
+  - 3h · ~$199 adult · road · months 6,7,8,9 · `55.2892, -131.5731` · **book ahead**
+- **#471 Gold Rush Cemetery** · `34` · historic-site
   - Two miles up the valley: the graves of Soapy Smith and Frank Reid from the 1898 shootout, with Reid Falls just behind.
   - *Tip:* Walkable in about 40 minutes from town along the river. Keep going five minutes past the graves for the waterfall.
-  - 1h · Free · road · months 5,6,7,8,9 · `59.4753, -135.3236`
-- **#435 Little Norway Festival** · `34` · festival-event
+  - 1h · Free · road · months 5,6,7,8,9 · `59.4731, -135.2894`
+- **#476 Little Norway Festival** · `34` · festival-event
   - Petersburg's Norwegian-heritage weekend: bunads, a Viking longship, valkyries and a beer-batter halibut feed.
   - *Tip:* The ferry is the cheapest way in; Petersburg's handful of inns book out months before the third May weekend.
   - 8h · Free; fish feed ~$25 · ferry · months 5 · `56.8125, -132.9556` · **book ahead**
-- **#436 Metlakatla** · `34` · native-culture
+- **#477 Metlakatla** · `34` · native-culture
   - Alaska's only Indian reserve: a Tsimshian community founded in 1887 with a longhouse, dance group and cannery history.
   - *Tip:* Day-trippable on the Metlakatla ferry from Ketchikan, but arrange the visit through the community tourism office first.
-  - 6h · ~$25 ferry each way from Ketchikan · ferry · months 6,7,8 · `55.1281, -131.5747` · **book ahead**
-- **#441 Sitka WhaleFest** · `34` · festival-event
+  - 6h · ~$25 ferry each way from Ketchikan · ferry · months 6,7,8 · `55.1264, -131.5785` · **book ahead**
+- **#483 Sitka WhaleFest** · `34` · festival-event
   - November marine-science symposium plus boat trips onto Sitka Sound when humpbacks bubble-net feed in numbers.
   - *Tip:* The whale-watch boats sell out first. Pack for honest Southeast rain - November is the wettest month.
-  - 1d · ~$100 symposium; boat trips extra · air-only · months 11 · `57.0531, -135.3300` · **book ahead**
-- **#442 Skookum Volcano Trail** · `34` · hike-trail
+  - 1d · ~$100 symposium; boat trips extra · air-only · months 11 · `57.0531, -135.3302` · **book ahead**
+- **#484 Skookum Volcano Trail** · `34` · hike-trail
   - 2.5mi one-way route up an eroded volcanic vent at Nabesna Road Mile 36: lava dikes and an alpine pass.
   - *Tip:* Route follows a creek bed and is cairned, not cut. Scan the upper slopes for Dall sheep from the pass.
   - 5h · Free · trail · months 7,8 · `62.4446, -143.1036`
-- **#443 Yakutat** · `34` · town-city
+- **#486 Yakutat** · `34` · town-city
   - Isolated Gulf-coast town of about 600 between Southeast and Southcentral: steelhead rivers, Hubbard Glacier, real surf breaks.
   - *Tip:* Jet service is the Alaska Airlines milk run. There are ~10 mi of road and no rental fleet, so arrange a lodge vehicle.
   - 1d · Free · air-only · months 6,7,8,9 · `59.5469, -139.7272` · **book ahead**
-- **#444 Macaulay Salmon Hatchery** · `33` · wildlife
+- **#487 Macaulay Salmon Hatchery** · `33` · wildlife
   - Working hatchery with a fish ladder you watch from above plus saltwater touch tanks of local sea life.
   - *Tip:* Only interesting once salmon are actually running, roughly late June onward; easy add-on driving to Mendenhall.
-  - 1h · $8 adult · road · months 6,7,8,9 · `58.3306, -134.4933`
-- **#446 Skagway Brewing Company** · `33` · food-drink
+  - 1h · $8 adult · road · months 6,7,8,9 · `58.3261, -134.4648`
+- **#489 Skagway Brewing Company** · `33` · food-drink
   - Skagway brewpub known for its spruce-tip ale, with a full kitchen two blocks off Broadway from the cruise docks.
   - *Tip:* Spruce Tip Blonde is the one to order; the room empties and gets pleasant after the last ship sails.
   - 1.5h · $16-28 mains · cruise-port · months 5,6,7,8,9 · `59.4566, -135.3127`
-- **#447 Alaska Folk Festival** · `32` · festival-event
+- **#490 Alaska Folk Festival** · `32` · festival-event
   - Free week-long acoustic music festival at Juneau's Centennial Hall: no headliners, 15-minute sets, all volunteer.
   - *Tip:* Admission is free but Juneau's hotels fill with musicians - book a room before the schedule is announced.
   - 4h · Free · air-only · months 4 · `58.2999, -134.4103` · **book ahead**
-- **#456 Glacier Gardens Rainforest Adventure** · `32` · roadside-oddity
+- **#496 Chilkat State Park** · `32` · viewpoint
+  - Bluff campground at the end of Mud Bay Road with a straight-on view across Chilkat Inlet to Davidson Glacier.
+  - *Tip:* 7 mi south of Haines; Seduction Point Trail is 6.8 mi one way and needs a low tide at Battery Point.
+  - 3h · $5 day use / $20 camping · road · months 6,7,8,9 · `59.1394, -135.3661`
+- **#501 Glacier Gardens Rainforest Adventure** · `32` · roadside-oddity
   - Hillside rainforest garden known for upside-down spruce root flower towers; golf-cart tour to a 580 ft channel overlook.
-  - *Tip:* The overlook is the payoff, not the flowers. Skip it if time is tight and ride Mount Roberts Tramway instead.
-  - 1.5h · ~$30 adult · road · months 5,6,7,8,9 · `58.3878, -134.5514`
-- **#460 Sitka Rocky Gutierrez Airport** · `32` · town-city
+  - *Tip:* The 580 ft channel overlook is the payoff, not the flowers. Skip it if time is tight and the tram is running.
+  - 1.5h · ~$30 adult · road · months 5,6,7,8,9 · `58.3604, -134.5489`
+- **#503 Hydaburg Totem Park** · `32` · native-culture
+  - Alaska's only Haida community, with a CCC-era park of poles gathered from three abandoned Cordova Bay villages.
+  - *Tip:* 45 min south of Klawock on paved road; stop at the tribal office first - some poles are actively being replaced.
+  - 2h · Free · road · months 5,6,7,8,9 · `55.2047, -132.8208`
+- **#507 Sitka Rocky Gutierrez Airport** · `32` · town-city
   - Jet field on Japonski Island, a 10-minute walk from downtown Sitka across the O'Connell Bridge.
   - *Tip:* The only Southeast airport you can walk to town from - skip the rental car for a two-day Sitka stop.
   - 1h · Jet fare · air-only · months 5,6,7,8,9 · `57.0471, -135.3616` · **book ahead**
-- **#462 Tenakee Springs** · `32` · hot-springs
+- **#509 Tenakee Springs** · `32` · hot-springs
   - One-street, car-free village on Chichagof Island built around a 106F concrete soaking bath, with posted men's and women's hours.
   - *Tip:* Reach it on the AMHS LeConte or Alaska Seaplanes from Juneau; bring food, the single store keeps short hours.
-  - 1d · Free bathhouse (donation) · ferry · months 6,7,8,9 · `57.7794, -135.2181` · **book ahead**
-- **#466 Blueberry Arts Festival** · `30` · festival-event
+  - 1d · Free bathhouse (donation) · ferry · months 6,7,8,9 · `57.7801, -135.2197` · **book ahead**
+- **#513 Blueberry Arts Festival** · `30` · festival-event
   - Ketchikan's long-running downtown street fair: 100+ art booths, slug races, poetry slam and pie-eating, all blueberry-themed.
   - *Tip:* Run by the Ketchikan Area Arts & Humanities Council; downtown streets close, so walk in from the ships or the tunnel.
   - 4h · Free · cruise-port · months 8 · `55.3424, -131.6479`
-- **#476 Hollis Ferry Terminal** · `30` · ferry-route
+- **#518 Chief Shakes Hot Springs** · `30` · hot-springs
+  - Two free tubs, one enclosed and one open-air, on a slough off the Stikine River - a standard stop on a Wrangell jet-boat day.
+  - *Tip:* No road, no fee, no attendant; charters from Wrangell usually combine the springs with Shakes Glacier and Shakes Lake icebergs.
+  - 8h · Free tubs; ~$250 jet-boat charter · boat-tour · months 5,6,7,8,9 · `56.7150, -132.0433` · **book ahead**
+- **#526 Hollis Ferry Terminal** · `30` · ferry-route
   - The three-hour Inter-Island Ferry from Ketchikan lands here; it is the only vehicle route onto Prince of Wales Island.
   - *Tip:* One sailing each way per day makes a POW day trip impossible - plan an overnight and pre-book a rental car in Klawock.
-  - 3h · ~$50 walk-on each way · ferry · months 5,6,7,8,9 · `55.4842, -132.6467` · **book ahead**
-- **#481 Petersburg Ferry Terminal** · `30` · ferry-route
+  - 3h · ~$50 walk-on each way · ferry · months 5,6,7,8,9 · `55.4905, -132.6229` · **book ahead**
+- **#533 Petersburg Ferry Terminal** · `30` · ferry-route
   - Mile 0.9 Mitkof Highway; mainline ferries time the Wrangell Narrows tide to reach this dock.
   - *Tip:* Ride the Wrangell-Petersburg leg in daylight - 22 mi of buoy-lined narrows is the best deck time in Alaska.
   - 1h · ~$45 walk-on from Wrangell · ferry · months 5,6,7,8,9 · `56.8046, -132.9603` · **book ahead**
-- **#489 Craig** · `28` · town-city
+- **#536 Treadwell Mine Historic Trail** · `30` · historic-site
+  - Ruins of what was once the world's largest gold mine, drowned by a 1917 cave-in; easy 2-mi loop through the forest.
+  - *Tip:* Park at Sandy Beach on Douglas; the glory hole and the cave-in swimming hole are 10 min in. Free and uncrowded.
+  - 2h · Free · road · months 5,6,7,8,9 · `58.2717, -134.3906`
+- **#543 Craig** · `28` · town-city
   - Largest town on Prince of Wales Island and the service hub for its 1,500 mi of paved and logging roads.
   - *Tip:* Last reliable fuel, groceries and tire repair on the island - top up before running out to El Capitan Cave.
   - 1d · Free (town) · ferry · months 5,6,7,8,9 · `55.4764, -133.1483` · **book ahead**
-- **#497 Sitka Ferry Terminal** · `28` · ferry-route
+- **#552 Sitka Ferry Terminal** · `28` · ferry-route
   - AMHS dock 7 mi north of town with no bus service - a genuine trap for walk-on foot passengers.
   - *Tip:* Pre-arrange a shuttle or taxi. Ferries often land at 2am and nothing meets the boat.
-  - 1h · AMHS fares vary by leg · ferry · months 5,6,7,8,9 · `57.1332, -135.3610` · **book ahead**
-- **#506 Ketchikan International Airport & airport ferry** · `26` · ferry-route
+  - 1h · AMHS fares vary by leg · ferry · months 5,6,7,8,9 · `57.1332, -135.3612` · **book ahead**
+- **#553 Thorne Bay & the Prince of Wales road system** · `28` · scenic-drive
+  - Roughly 1,500 mi of logging road link Thorne Bay, Coffman Cove and Whale Pass - the biggest road net in Southeast.
+  - *Tip:* Mostly gravel, no cell service, few pumps: fill up in Craig or Klawock and carry a full-size spare.
+  - 8h · Free · road · months 6,7,8,9 · `55.6881, -132.5231`
+- **#556 White Sulphur Springs & USFS Cabin** · `28` · hot-springs
+  - Bathhouse built over a hot spring on Chichagof's outer coast, with a Forest Service cabin facing the open North Pacific.
+  - *Tip:* Reserve on recreation.gov months ahead; getting there means a floatplane from Sitka or a committing outer-coast kayak trip.
+  - 1d · $45/night cabin + ~$700 floatplane · air-only · months 6,7,8 · `57.7867, -136.2317` · **book ahead**
+- **#561 Goddard Hot Springs** · `26` · hot-springs
+  - Two cedar tubs in open shelters 16 mi south of Sitka, maintained by the city and free to use; boat or floatplane access only.
+  - *Tip:* No camping at the springs and no facilities - most people fold it into a Sitka Sound charter or a rented skiff on a calm day.
+  - 6h · Free · boat-tour · months 5,6,7,8,9 · `56.8306, -135.3617`
+- **#563 Kake & the Keku Totem Pole** · `26` · native-culture
+  - Tlingit village on Kupreanof Island with a 128-ft totem pole carved for the 1967 Alaska Purchase centennial.
+  - *Tip:* The LeConte calls a couple of times a week; the pole is a short uphill walk from the ferry dock.
+  - 3h · AMHS LeConte from Petersburg ~$50 · ferry · months 5,6,7,8,9 · `56.9708, -133.9339` · **book ahead**
+- **#565 Ketchikan International Airport & airport ferry** · `26` · ferry-route
   - Ketchikan's runway sits on Gravina Island, so every arrival takes a 5-minute vehicle ferry to reach town. No bridge exists.
   - *Tip:* This is the famous 'bridge to nowhere' crossing. Allow 45 minutes door-to-gate, more when a ship is unloading.
   - 1h · ~$7 walk-on each way · ferry · months 5,6,7,8,9 · `55.3556, -131.7139`
-- **#510 Tahku the Whale Project** · `26` · roadside-oddity
+- **#570 Tahku the Whale Project** · `26` · roadside-oddity
   - Life-size bronze breaching humpback in a fountain pool on the Gastineau Channel waterfront; a statehood-anniversary work.
   - *Tip:* At Overstreet Park under the Juneau-Douglas bridge, a 10-min walk south of the cruise docks; jets look best midday.
   - 0.5h · Free · road · months 5,6,7,8,9 · `58.2950, -134.4213`
-- **#515 Slana Ranger Station** · `24` · museum-culture
+- **#573 Angoon** · `24` · town-city
+  - Only permanent town on Admiralty Island - Tlingit Kootznoowoo, 'fortress of the bears', and gate to Mitchell Bay.
+  - *Tip:* Start or finish the Admiralty cross-island canoe route here; the Navy shelled the village in 1882 and locals still mark it.
+  - 6h · AMHS from Juneau ~$50 · ferry · months 6,7,8 · `57.4969, -134.5736` · **book ahead**
+- **#576 Elfin Cove** · `24` · town-city
+  - Boardwalk-only fishing village of about 20 on Cross Sound - no roads, no cars, just planking around the harbor.
+  - *Tip:* Floatplane from Juneau is ~35 min, but nearly everyone arrives on a multi-day lodge package; day trips are rare.
+  - 2d · Lodge packages $1,000+/night including fishing · air-only · months 6,7,8 · `58.1989, -136.3553` · **book ahead**
+- **#581 Slana Ranger Station** · `24` · museum-culture
   - Small NPS station at Nabesna Road Mile 0.2 - road and ford conditions, permits, bear cans, trail beta.
   - *Tip:* Stop or call before driving Nabesna Road; the creek crossings change week to week all summer.
   - 0.5h · Free · road · months 6,7,8,9 · `62.7096, -143.9818`
-- **#517 Yakutat Airport** · `24` · town-city
+- **#583 Yakutat Airport** · `24` · town-city
   - WWII-era runway on the Gulf coast; the only scheduled way in to Hubbard Glacier trips and Yakutat surf.
   - *Tip:* One flight a day each way - a missed connection or a weather scrub costs you a full 24 hours.
   - 1h · Jet fare on the Juneau-Anchorage milk run · air-only · months 6,7,8,9 · `59.5033, -139.6602` · **book ahead**
+- **#599 Wales & Cape Prince of Wales** · `20` · town-city
+  - Westernmost community on the North American mainland, at the tip of the Seward Peninsula facing the Bering Strait.
+  - *Tip:* Small plane from Nome, about 50 min; the cape is a walk from the village. Wind and fog cancel flights constantly.
+  - 8h · Flight from Nome ~$300 round trip · air-only · months 6,7,8 · `65.6122, -168.0892` · **book ahead**
+- **#602 Chisana** · `18` · historic-site
+  - Ghost gold camp deep inside Wrangell-St. Elias - a 1913 stampede town of log cabins with no year-round residents left.
+  - *Tip:* Air taxi from Tok or Nabesna only, and there is no lodging - most people come on a guided fly-in or horse trip.
+  - 1d · Air taxi from Tok ~$500 round trip · air-only · months 6,7,8 · `62.0661, -142.0408` · **book ahead**
 
-### Wrangell-Copper-Valdez  *(44)*
+### Wrangell-Copper-Valdez  *(48)*
 
-- **#28 Matanuska Glacier** · `80` · glacier
+- **#22 Matanuska Glacier** · `80` · glacier
   - 27-mile valley glacier whose toe you can walk on - the most accessible walk-on glacier in Alaska, via private land.
   - *Tip:* Self-guided access ended in 2021: you must book a 2-4hr guided trek (MICA, Salmon Berry, Glacier Access). Wear boots.
   - 5h · ~$150 guided incl. $55 gate fee · road · months 5,6,7,8,9 · `61.7856, -147.7639` · **book ahead**
-- **#51 Columbia Glacier cruise** · `74` · boat-cruise
+- **#48 Columbia Glacier cruise** · `74` · boat-cruise
   - Half-day boat from Valdez through miles of icebergs to a huge tidewater glacier front; otters, sea lions, kittiwakes.
   - *Tip:* Two operators run it - Stan Stephens and Lu-Lu Belle. The glacier has retreated far, so boats stop at the ice field.
   - 6h · $150-190 (6hr) · boat-tour · months 6,7,8 · `61.1900, -147.0300` · **book ahead**
-- **#61 Glenn Highway** · `73` · scenic-drive
+- **#59 Glenn Highway** · `73` · scenic-drive
   - 189mi Anchorage-Glennallen past Matanuska Glacier, Lion Head and the Chugach/Talkeetna wall of peaks.
   - *Tip:* Coord is Eureka Summit (MP 129, 3322ft), the highest point and best 360 pullout. Fuel at Glennallen or Palmer only.
   - 5h · Free · road · months 5,6,7,8,9 · `61.9376, -147.1729`
-- **#76 Richardson Highway** · `70` · scenic-drive
+- **#71 Richardson Highway** · `70` · scenic-drive
   - 368mi Valdez-Fairbanks over Thompson and Isabel Passes; follows the 1898 gold trail and the pipeline.
   - *Tip:* Coord is Keystone Canyon (MP 13.5) - Bridal Veil and Horsetail Falls plus the hand-cut 1900s Goat Trail tunnel.
   - 8h · Free · road · months 6,7,8,9 · `61.0781, -145.8992`
-- **#105 Valdez** · `66` · town-city
+- **#95 Valdez** · `66` · town-city
   - Fjord-head port rebuilt after the 1964 quake: pipeline terminus, fish derbies, glacier cruises, 300in of snow.
   - *Tip:* 6hr drive from Anchorage or a 6hr ferry from Whittier - the ferry saves backtracking up the Glenn Highway.
   - 1d · Free · road · months 6,7,8 · `61.1308, -146.3483` · **book ahead**
-- **#116 AMHS Prince William Sound Route** · `62` · ferry-route
+- **#109 AMHS Prince William Sound Route** · `62` · ferry-route
   - Working ferry across Prince William Sound past Columbia Glacier; the only vehicle link to roadless Cordova.
   - *Tip:* Whittier-Valdez lets you drive out on the Richardson instead of backtracking - the best loop shortcut in Southcentral.
   - 6h · ~$120 walk-on Whittier-Valdez; ~$160 more for a  · ferry · months 6,7,8,9 · `61.1245, -146.3639` · **book ahead**
-- **#135 Glenn Highway National Scenic Byway** · `60` · scenic-drive
+- **#131 Glenn Highway National Scenic Byway** · `60` · scenic-drive
   - 135mi Palmer-to-Glennallen byway past Matanuska Glacier, Sheep Mountain and 3,322ft Eureka Summit.
   - *Tip:* Allow 4hr with stops - this is the standard Anchorage approach to the Wrangells. Fuel at Glacier View and Eureka.
   - 4h · Free · road · months 5,6,7,8,9 · `61.8500, -147.3000`
-- **#144 Worthington Glacier State Recreation Site** · `60` · glacier
+- **#141 Worthington Glacier State Recreation Site** · `60` · glacier
   - Drive-up glacier at Richardson Mile 28.7 with a paved path to a viewing shelter and a rough moraine trail to the ice.
   - *Tip:* Easiest roadside glacier in Alaska after Mendenhall. Don't walk onto the ice unguided - it is crevassed.
   - 1.5h · Free day use · road · months 5,6,7,8,9 · `61.1703, -145.7633`
-- **#159 Richardson Highway (Valdez-Glennallen)** · `58` · scenic-drive
+- **#157 Richardson Highway (Valdez-Glennallen)** · `58` · scenic-drive
   - Alaska's first road, Valdez to Fairbanks; the southern half climbs Thompson Pass past glaciers and waterfalls.
   - *Tip:* Valdez-Glennallen is 115mi / 2.5hr. Drive it southbound for the big reveal dropping into Keystone Canyon.
   - 3h · Free · road · months 5,6,7,8,9 · `61.6000, -145.3000`
-- **#165 Thompson Pass** · `58` · viewpoint
+- **#163 Thompson Pass** · `58` · viewpoint
   - 2678ft alpine gap 26mi above Valdez holding US snowfall records (~975in in 1952-53); wildflower tundra in July.
   - *Tip:* Worthington Glacier is 2mi north at MP 28.7 with a short paved path. Fog eats the view - check the Valdez webcam first.
   - 1h · $1,200+ per heli-ski day; free to just drive it · road · months 2,3,4,6,7,8,9 · `61.1286, -145.7297`
-- **#190 Glenn Highway Scenic Byway (Sheep Mountain)** · `55` · scenic-drive
+- **#192 Glenn Highway Scenic Byway (Sheep Mountain)** · `55` · scenic-drive
   - National Scenic Byway from Palmer to Glennallen past Matanuska Glacier, the Lions Head and Sheep Mountain's red ridges.
   - *Tip:* Sheep Mountain Lodge at Mile 113.5 is the reliable food and coffee stop; bring binoculars for Dall sheep on the slopes.
   - 4h · Free · road · months 5,6,7,8,9 · `61.8125, -147.5069`
-- **#212 Copper River Highway** · `52` · scenic-drive
+- **#215 Copper River Highway** · `52` · scenic-drive
   - Gravel road across the Copper River delta to the 1910 Million Dollar Bridge between Childs and Sheridan Glaciers.
   - *Tip:* The bridge is the turnaround - the road beyond is gone. Best shorebird migration is the first week of May at Hartney Bay.
   - 5h · Free (you must ferry or fly your car to Cordova) · road · months 6,7,8,9 · `60.6731, -144.7458`
-- **#213 Cordova** · `52` · town-city
+- **#216 Cordova** · `52` · town-city
   - Fishing town of 2,600 with no road out: ferry or jet only, and the gateway to the Copper River Delta.
   - *Tip:* Rent a truck on arrival - the Copper River Highway and Alaganik Slough are the reason to come, 20-36 mi out.
   - 2d · Free (town); ferry or jet to reach · ferry · months 5,6,7,8 · `60.5433, -145.7581` · **book ahead**
-- **#221 Keystone Canyon** · `52` · scenic-drive
+- **#225 Keystone Canyon** · `52` · scenic-drive
   - Roadside frozen waterfalls in a Richardson Hwy canyon 13mi from Valdez - one of North America's densest ice-climbing zones.
   - *Tip:* Bridal Veil and Horsetail are visible from the pullouts even if you don't climb. Watch for avalanche closures on the highway.
   - 1h · Free to climb; ~$300/day guided · road · months 1,2,3,5,6,7,8,9 · `61.0753, -145.8957`
-- **#244 Solomon Gulch Hatchery** · `50` · wildlife
+- **#249 Solomon Gulch Hatchery** · `50` · wildlife
   - North America's largest pink-salmon hatchery on Dayville Road; in July the creek is solid fish and bears.
   - *Tip:* Free viewing platform. Black bears, sea lions and gulls work the outfall - stay near the car and give way.
   - 1h · Free · road · months 7,8 · `61.0846, -146.3024`
-- **#249 Alaganik Slough Boardwalk** · `48` · wildlife
+- **#254 Alaganik Slough Boardwalk** · `48` · wildlife
   - Boardwalk and viewing platforms on the Copper River Delta, the largest shorebird stopover on the Pacific Flyway.
   - *Tip:* Copper River Delta Shorebird Festival is the first week of May. Copper River Hwy Mile 17, then 3mi down Alaganik Rd.
   - 3h · Free · road · months 5,6 · `60.4531, -145.3714`
-- **#262 Valdez Glacier Lake** · `48` · glacier
+- **#270 Valdez Glacier Lake** · `48` · glacier
   - Iceberg-choked meltwater lake 5mi from town - the local kayak and packraft trip among calved bergs and ice caves.
   - *Tip:* Guided paddles run mid-May-Sept. Bergs roll without warning and the water is near freezing; go with a guide.
   - 4h · Free to view; ~$120 guided paddle · road · months 6,7,8 · `61.1548, -146.1549` · **book ahead**
-- **#273 Big Delta State Historical Park & Rika's Roadhouse** · `46` · historic-site
+- **#281 Big Delta State Historical Park & Rika's Roadhouse** · `46` · historic-site
   - Restored 1910 roadhouse on the Valdez-Fairbanks trail at the Tanana River, with gardens and a WWII signal-corps museum.
   - *Tip:* Walk to the riverbank for the pipeline's 1,200ft suspension bridge over the Tanana - best free pipeline photo in Alaska.
   - 2h · Free grounds; ~$5 parking · road · months 6,7,8,9 · `64.1552, -145.8409`
-- **#274 Bridal Veil & Horsetail Falls** · `46` · viewpoint
+- **#282 Bridal Veil & Horsetail Falls** · `46` · viewpoint
   - Two roadside waterfalls a quarter mile apart in Keystone Canyon; Bridal Veil drops ~900ft off the rim.
   - *Tip:* Pullouts are on the canyon side and spray reaches the road. In winter both become classic ice climbs.
   - 0.5h · Free · road · months 5,6,7 · `61.0672, -145.9074`
-- **#295 Old Valdez townsite** · `45` · historic-site
+- **#305 Old Valdez townsite** · `45` · historic-site
   - Empty grid of streets and foundations 4mi east of town, abandoned after the 1964 quake destroyed the waterfront.
   - *Tip:* Memorial plaques list the dead from Valdez and Chenega; signs mark where the docks and hotels stood.
   - 1h · Free · road · months 5,6,7,8,9 · `61.1157, -146.2652`
-- **#297 Sheep Mountain Overlook** · `45` · viewpoint
+- **#308 Sheep Mountain Overlook** · `45` · viewpoint
   - Banded red-and-cream mountain above the Glenn Highway; a reliable Dall sheep glassing spot with a lodge and cafe at the pullout.
   - *Tip:* Bring binoculars - the sheep are white dots on the upper slopes, not roadside. Good coffee/pie stop breaking Anchorage-Valdez.
   - 1h · Free · road · months 5,6,7,8,9 · `61.8124, -147.4994`
-- **#301 Thompson Pass heli-skiing (Tsaina Lodge)** · `45` · winter-sport
+- **#312 Thompson Pass heli-skiing (Tsaina Lodge)** · `45` · winter-sport
   - Richardson Mile 34.7 lodge that anchors Chugach heli-skiing on 5,000ft spine walls above Thompson Pass.
   - *Tip:* Buy multi-day packages - down days for weather are normal. This is expert terrain, not a beginner trip.
   - 2d · $1,500+/day heli packages · road · months 3,4 · `61.1983, -145.5515` · **book ahead**
-- **#312 Copper River fish wheels at Chitina** · `44` · native-culture
+- **#324 Copper River fish wheels at Chitina** · `44` · native-culture
   - Ahtna subsistence and personal-use fish wheels scoop salmon from the silty Copper below the Chitina bridge.
   - *Tip:* View from the bridge pullout on McCarthy Road Mile 1. The wheels are private property - watch, don't touch.
   - 1h · Free to view · road · months 6,7 · `61.5153, -144.3600`
-- **#336 Allison Point** · `42` · fishing
+- **#353 Allison Point** · `42` · fishing
   - Dayville Road shoreline where hatchery salmon stack up - shore fishing, a gravel campground, and constant bear traffic.
   - *Tip:* You can catch salmon from the beach with no boat; combine it with the hatchery a mile further along.
   - 3h · Free shore fishing; ~$25 camping · road · months 7,8 · `61.0839, -146.3364`
-- **#340 Chitina** · `42` · town-city
+- **#358 Chitina** · `42` · town-city
   - Old railway town at the McCarthy Road junction: last fuel, a small store, NPS ranger station, dipnet hub.
   - *Tip:* Fill the tank here - there is no fuel on the 120mi round trip to McCarthy and back.
   - 1h · Free · road · months 6,7,8,9 · `61.5169, -144.4403`
-- **#359 Valdez Museum & Historical Archive** · `42` · museum-culture
+- **#382 Valdez Museum & Historical Archive** · `42` · museum-culture
   - Town museum on Egan Drive covering the 1964 quake, pipeline construction, the Exxon Valdez spill and the gold-rush trail.
   - *Tip:* One ticket also covers the Old Town museum on Hazelet Ave and its detailed scale model of pre-quake Valdez.
   - 1.5h · $15 adult; under 18 free · road · months 5,6,7,8,9 · `61.1281, -146.3506`
-- **#367 Chitina dipnet fishery (O'Brien Creek)** · `40` · fishing
+- **#390 Chitina dipnet fishery (O'Brien Creek)** · `40` · fishing
   - Alaska's biggest personal-use dipnet fishery - people rope onto cliffs above the Copper and net sockeye.
   - *Tip:* Alaska residents only. O'Brien Creek Rd is rough and the canyon trail beyond it is genuinely dangerous.
   - 8h · $15 permit (Alaska residents only) · road · months 6,7 · `61.5042, -144.4531`
-- **#375 Klutina River** · `40` · fishing
+- **#399 Klutina River** · `40` · fishing
   - Glacial Copper tributary at Copper Center known for big king salmon in June and heavy sockeye runs in July.
   - *Tip:* Bank access is mostly private land - pay a day fee at a Copper Center lodge or book a drift boat.
   - 8h · $15-25 bank access; ~$250 guided · road · months 6,7 · `61.9532, -145.3095` · **book ahead**
-- **#379 Matanuska Glacier State Recreation Site** · `40` · viewpoint
+- **#403 Matanuska Glacier State Recreation Site** · `40` · viewpoint
   - Free state pullout at Mile 101 with a short overlook boardwalk - the best no-cost view of the glacier from above.
   - *Tip:* Costs nothing, takes 20 minutes, and worth doing even if you skip the paid trek. 12 first-come campsites on site.
   - 0.5h · Free day use; ~$20 camping · road · months 5,6,7,8,9 · `61.8194, -147.8339`
-- **#384 Solomon Gulch Hatchery Salmon & Bear Viewing** · `40` · wildlife
+- **#409 Shoup Bay State Marine Park** · `40` · boat-cruise
+  - Tidewater glacier, huge kittiwake colony and three bookable state-park cabins about 8 mi by kayak or trail west of Valdez.
+  - *Tip:* Cabins open on Alaska State Parks reservations six months out; the lagoon entrance is tide-gated, so paddle it near slack water.
+  - 1d · $75/night cabin; ~$150 water taxi · boat-tour · months 6,7,8 · `61.1478, -146.5828` · **book ahead**
+- **#410 Solomon Gulch Hatchery Salmon & Bear Viewing** · `40` · wildlife
   - Valdez hatchery where a massive pink salmon return draws black bears, bald eagles and Steller sea lions to one spot.
   - *Tip:* Peak crush is mid-July to early August; watch the sea lions work the outflow from the Dayville Road pullouts.
   - 1.5h · Free · road · months 7,8 · `61.0844, -146.3661`
-- **#413 Valdez Marine Terminal** · `38` · historic-site
+- **#447 Valdez Marine Terminal** · `38` · historic-site
   - South end of the 800mi Trans-Alaska Pipeline: 18 storage tanks and tanker berths across the bay from town.
   - *Tip:* Closed to the public since 2001 - view it from Dayville Road pullouts or from a Columbia Glacier boat.
   - 0.5h · Free to view · road · months 5,6,7,8,9 · `61.0832, -146.3817`
-- **#417 Copper River Delta Shorebird Festival** · `36` · festival-event
+- **#453 Copper River Delta Shorebird Festival** · `36` · festival-event
   - Cordova festival timed to millions of shorebirds staging on the Copper River Delta mudflats each spring.
   - *Tip:* The migration peaks inside a 10-day window in early May; Alaganik Slough boardwalk is the best viewing.
-  - 1d · Free events; workshops ~$25-75 · air-only · months 5 · `60.5428, -145.7570` · **book ahead**
-- **#457 Glennallen** · `32` · town-city
+  - 1d · Free events; workshops ~$25-75 · air-only · months 5 · `60.5428, -145.7571` · **book ahead**
+- **#485 Tok Cutoff** · `34` · scenic-drive
+  - 125 mi of Route 1 from Tok to Gakona over Mentasta Pass - the shortcut from the Alaska Highway to Valdez and Anchorage.
+  - *Tip:* Heaved, lightly travelled, and the access for Nabesna Road and Slana. Fuel is only at Mentasta and Chistochina.
+  - 3h · Free · road · months 6,7,8,9 · `62.8919, -143.7261`
+- **#502 Glennallen** · `32` · town-city
   - Highway-junction service town: fuel, groceries, clinic, and the last real supermarket before McCarthy.
   - *Tip:* Richardson x Glenn junction sits at Richardson Mile 187. Gas is pricey here but options thin out fast.
   - 1h · Free · road · months 5,6,7,8,9 · `62.1073, -145.5302`
-- **#464 Valdez Fish Derbies** · `32` · festival-event
+- **#511 Valdez Fish Derbies** · `32` · festival-event
   - Summer-long halibut and silver salmon derbies out of the Valdez small boat harbor, with five-figure cash prizes.
   - *Tip:* Buy the derby ticket BEFORE you leave the dock - a fish caught without one doesn't count for prizes.
   - 8h · ~$10-15 derby ticket plus charter · road · months 7,8 · `61.1256, -146.3550` · **book ahead**
-- **#467 Blueberry Lake State Recreation Site** · `30` · viewpoint
+- **#514 Blueberry Lake State Recreation Site** · `30` · viewpoint
   - Alpine lake and 25-site campground just below Thompson Pass, ringed by rock walls; stocked with trout.
   - *Tip:* Best tent camping on the Richardson but fully exposed and cold. Sites fill by late afternoon in July.
   - 2h · Free day use; ~$20 camping · road · months 6,7,8 · `61.1205, -145.7020`
-- **#491 Eureka Summit** · `28` · viewpoint
+- **#524 Gulkana River at Sourdough** · `30` · fishing
+  - Wild and scenic Gulkana - the Copper Basin's king salmon river and a 3-day float from Paxson Lake down to Sourdough.
+  - *Tip:* Sourdough Creek Campground is the standard take-out; put in at Paxson Lake, Richardson Mile 175, and shuttle a car.
+  - 8h · $12 BLM camping; float permit free · road · months 6,7 · `62.5344, -145.5136`
+- **#542 Copper Center** · `28` · historic-site
+  - Old Valdez Trail roadhouse settlement on the Klutina, the Copper Basin's first supply town for 1898 stampeders.
+  - *Tip:* The 1932 roadhouse burned in 2012, but the loop off Richardson Mile 101 still has the log church and old cabins.
+  - 1.5h · Free · road · months 6,7,8 · `61.9653, -145.3183`
+- **#545 Eureka Summit** · `28` · viewpoint
   - 3,322ft high point of the Glenn Highway; treeless pass looking at the Nelchina Glacier and the Chugach.
   - *Tip:* Eureka Roadhouse is the only service for 40mi. Nelchina caribou sometimes cross the highway in fall.
   - 0.5h · Free · road · months 6,7,8,9 · `61.9376, -147.1729`
-- **#494 Liberty Falls State Recreation Site** · `28` · viewpoint
+- **#549 Liberty Falls State Recreation Site** · `28` · viewpoint
   - Roadside waterfall and 10-site campground at Edgerton Hwy Mile 23.5; steep path climbs to the upper cascade.
   - *Tip:* Best free leg-stretch on the way to McCarthy - the lower falls are 100 yards from the parking area.
   - 1h · Free day use; ~$20 camping · road · months 6,7,8,9 · `61.6216, -144.5475`
-- **#495 Mineral Creek Trail** · `28` · hike-trail
+- **#550 Mineral Creek Trail** · `28` · hike-trail
   - Rough gravel road behind Valdez turning to trail up a waterfall canyon to the 1913 Smith stamp mill ruins.
   - *Tip:* Drive ~5mi of narrow road, then walk the last mile. High clearance helps; bears use the canyon constantly.
   - 3h · Free · trail · months 6,7,8 · `61.1365, -146.3748`
-- **#496 Old Valdez Townsite Memorial** · `28` · historic-site
+- **#551 Old Valdez Townsite Memorial** · `28` · historic-site
   - Empty street grid four miles east of town where the 1964 quake and its wave destroyed old Valdez and killed 32 on the dock.
   - *Tip:* Only street signs and a memorial remain; pair it with the Valdez Museum's Remembering Old Valdez model annex.
   - 0.5h · Free · road · months 5,6,7,8,9 · `61.1244, -146.2860`
-- **#507 Lake Louise State Recreation Area** · `26` · fishing
+- **#566 Lake Louise State Recreation Area** · `26` · fishing
   - Big shallow lake off the Glenn with lake trout and burbot fishing, a few lodges, and winter snowmachining.
   - *Tip:* 19mi gravel spur from Glenn Mile 159.8 - worth the detour only if you're fishing or staying overnight.
   - 6h · Free day use; ~$20 camping · road · months 6,7,8 · `62.2825, -146.5432` · **book ahead**
-- **#509 Merle K. (Mudhole) Smith Airport, Cordova** · `26` · town-city
+- **#568 Merle K. (Mudhole) Smith Airport, Cordova** · `26` · town-city
   - Jet stop 13 mi from Cordova on the Copper River Highway; the town's lifeline alongside the ferry.
   - *Tip:* Pre-book the airport shuttle or a rental - there is no taxi rank and it is a 13 mi walk into town.
   - 1h · Jet fare from Anchorage (~50 min) · air-only · months 5,6,7,8 · `60.4918, -145.4776` · **book ahead**
-- **#514 Dock Point Trail** · `24` · hike-trail
+- **#575 Dock Point Trail** · `24` · hike-trail
   - 1mi gravel and boardwalk loop over a rocky knob at the small boat harbor - the fastest Valdez viewpoint on foot.
   - *Tip:* 30-40 minutes, easy with kids, loaded with blueberries in August. Good option in drizzle.
   - 1h · Free · trail · months 6,7,8,9 · `61.1276, -146.3309`
-- **#520 Valdez Pioneer Field** · `22` · flightseeing
+- **#591 Valdez Pioneer Field** · `22` · flightseeing
   - Valdez's airstrip 3mi east of town: commuter flights from Anchorage plus the heli-ski and flightseeing base.
   - *Tip:* Scheduled service is thin and weather-cancelled often; driving or the ferry is the reliable way in.
   - 0.5h · varies by carrier · road · months 3,4,5,6,7,8 · `61.1337, -146.2467` · **book ahead**
-- **#525 Paxson Junction** · `20` · roadside-oddity
+- **#596 Paxson Junction** · `20` · roadside-oddity
   - Where the Denali Highway meets the Richardson - and where the lodge closed, leaving no fuel, food or lodging.
   - *Tip:* Nearest dependable gas is Glennallen 70 mi south or Delta Junction 80 mi north; carry 200 mi of range.
   - 0.25h · Free · road · months 6,7,8,9 · `63.0333, -145.4972`
 
-### Southwest  *(31)*
+### Southwest  *(43)*
 
 - **#3 Brooks Falls** · `92` · wildlife
   - Elevated platform above a 6ft falls where brown bears catch leaping sockeye. The iconic Alaska bear photo.
   - *Tip:* Falls Platform caps at 40 people with 1-hour rotations in July; sign the waitlist board the minute you land.
-  - 10h · ~$800-1,000 day trip from King Salmon; ~$1,540 f · air-only · months 6,7,9 · `58.5551, -155.7915` · **book ahead**
-- **#23 Brooks Camp** · `80` · wilderness-lodge
-  - Electric-fenced 60-person campground at Brooks Falls - the only affordable way to sleep at Katmai's bear river.
-  - *Tip:* Lodge rooms go by Dec lottery; campground blocks drop Jan 7/Feb 7/Mar 7 on recreation.gov and sell out fast.
-  - 2d · Campground $18/person/night (Jun-Sep 17); Brooks · air-only · months 6,7,8,9 · `58.5561, -155.7769` · **book ahead**
-- **#67 Valley of Ten Thousand Smokes** · `72` · volcano-geology
+  - 8h · $100 Katmai user fee + ~$800 float plane from Ki · air-only · months 6,7,8,9 · `58.5550, -155.7915` · **book ahead**
+- **#64 Valley of Ten Thousand Smokes** · `72` · volcano-geology
   - Ash desert buried 700ft deep by the 1912 Novarupta eruption; 23mi 4WD bus road ends at Three Forks Overlook.
   - *Tip:* Bus leaves ~8am, back ~4pm - so it eats a whole bear day. Book it as a separate day, and pack wind layers.
   - 8h · ~$120 bus tour from Brooks Camp · air-only · months 6,7,8,9 · `58.4031, -155.2531` · **book ahead**
-- **#75 Richard Proenneke Cabin** · `70` · historic-site
+- **#88 Kodiak** · `66` · town-city
+  - Working fishing port of ~5,500 with Russian-era roots, ~100mi of road, and a Coast Guard base; gateway to bears.
+  - *Tip:* Alaska Airlines jets from Anchorage (~1hr) or the Tustumena ferry from Homer. It rains ~200 days a year - pack for it.
+  - 3d · Free to visit; ~$250 flight or ~$100 ferry from  · ferry · months 6,7,8,9 · `57.7901, -152.4072`
+- **#111 Brooks Camp Campground** · `62` · wildlife
+  - Electric-fenced 60-person campground at Brooks Falls - the only affordable way to sleep at Katmai's bear river.
+  - *Tip:* Reservations open on recreation.gov in early January; peak July nights are gone within minutes.
+  - 2d · ~$18 per person per night, plus ~$800 floatplane · air-only · months 7,9 · `58.5591, -155.7793` · **book ahead**
+- **#115 Frazer Lake Fish Pass** · `62` · wildlife
+  - Fish ladder at Frazer Lake's outlet where Kodiak brown bears fish; 5-10 bears at once from grassy viewing knolls.
+  - *Tip:* 50-min floatplane from Kodiak then a 1.25mi walk. Cheapest reliable way to see the giant Kodiak subspecies.
+  - 8h · ~$750-900 floatplane day trip from Kodiak · air-only · months 7,8 · `57.2551, -154.1384` · **book ahead**
+- **#121 Richard Proenneke Cabin** · `62` · historic-site
   - Hand-built 1968 log cabin of Dick Proenneke, kept as he left it; NPS volunteers open it for tours in summer.
   - *Tip:* Charter from Port Alsworth or Anchorage. Combine with a Twin Lakes overnight - the cabin alone is a 30-min stop.
   - 6h · Free to enter; ~$600-900 floatplane charter from · air-only · months 7,8,9 · `60.6394, -153.8639` · **book ahead**
-- **#98 Kodiak** · `66` · town-city
-  - Working fishing port of ~5,500 with Russian-era roots, ~100mi of road, and a Coast Guard base; gateway to bears.
-  - *Tip:* Alaska Airlines jets from Anchorage (~1hr) or the Tustumena ferry from Homer. It rains ~200 days a year - pack for it.
-  - 3d · Free to visit; ~$250 flight or ~$85 ferry from H · ferry · months 6,7,8,9 · `57.7901, -152.4072`
-- **#120 Frazer Lake Fish Pass** · `62` · wildlife
-  - Fish ladder at Frazer Lake's outlet where Kodiak brown bears fish; 5-10 bears at once from grassy viewing knolls.
-  - *Tip:* 50-min floatplane from Kodiak then a 1.25mi walk. Cheapest reliable way to see the giant Kodiak subspecies.
-  - 8h · ~$750-900 floatplane day trip from Kodiak · air-only · months 7,8 · `57.2401, -154.1581` · **book ahead**
-- **#134 Fort Abercrombie State Historical Park** · `60` · historic-site
+- **#130 Fort Abercrombie State Historical Park** · `60` · historic-site
   - WWII coastal battery, bunkers and 8-inch gun mounts on a spruce headland above the sea, 4mi from downtown.
   - *Tip:* Best cliff-top whale and puffin watching on the road system. The bunker museum only opens a few days a week.
   - 3h · $5 parking; camping $20 · road · months 5,6,7,8,9 · `57.8319, -152.3547`
-- **#153 Karluk Lake Bear Viewing** · `58` · wildlife
+- **#151 Karluk Lake Bear Viewing** · `58` · wildlife
   - Heart of Kodiak refuge and the densest Kodiak brown bear country; floatplanes land on the lake and walk the creeks.
   - *Tip:* Book a Kodiak air taxi weeks out and pad two weather days - fog scrubs more Kodiak flights than any other hub.
   - 8h · ~$700-900 floatplane day trip from Kodiak · air-only · months 7,8,9 · `57.3672, -154.0369` · **book ahead**
@@ -1936,270 +2200,354 @@ Anchors — Denali NP 98, Kenai Fjords day cruise 93, Brooks Falls 92, Mendenhal
   - 6h · ~$650-800 floatplane day trip from Anchorage or  · air-only · months 6,7 · `60.2650, -152.6019` · **book ahead**
 - **#202 Alutiiq Museum** · `54` · native-culture
   - Alutiiq/Sugpiaq-run museum of 7,500 years of island culture - masks, kayak gear, and active archaeology.
-  - *Tip:* Small but the best Alutiiq collection anywhere; closed Sun-Mon. Pair with the Russian cathedral across the street.
-  - 1.5h · $7 adults · road · months 5,6,7,8,9 · `57.7876, -152.4046`
+  - *Tip:* Small but the best Alutiiq collection anywhere; closed Sun-Mon. Pair with the Russian cathedral up the block.
+  - 1.5h · $10 adults · road · months 5,6,7,8,9 · `57.7886, -152.4028`
 - **#205 Lake Clark Pass** · `54` · flightseeing
   - Narrow glacier-walled pass through the Chigmits; the standard low-level bush route from Anchorage into the park.
   - *Tip:* Free flightseeing if you're already flying to Port Alsworth - ask for a left window heading west.
-  - 1h · Included in any Anchorage-Port Alsworth flight ( · air-only · months 6,7,8,9 · `60.3892, -153.0919`
-- **#229 Wood-Tikchik State Park** · `52` · wilderness-lodge
+  - 1h · Included in any Anchorage-Port Alsworth flight ( · air-only · months 6,7,8,9 · `60.8167, -152.7166`
+- **#233 Wood-Tikchik State Park** · `52` · wilderness-lodge
   - Largest state park in the US at 1.6M acres: two chains of interconnected glacial lakes, world-class rainbow and salmon.
   - *Tip:* Access is floatplane from Dillingham. Lake-to-lake float trips down the Agulowak/Wood River are the classic itinerary.
-  - 4d · Park free; lodges $6,000-10,000/week, float trip · air-only · months 7,8,9 · `60.1147, -159.1297` · **book ahead**
-- **#250 Alutiiq Museum & Archaeological Repository** · `48` · native-culture
+  - 4d · Park free; lodges $6,000-10,000/week, float trip · air-only · months 7,8,9 · `60.0406, -158.6872` · **book ahead**
+- **#255 Alutiiq Museum & Archaeological Repository** · `48` · native-culture
   - Alutiiq/Sugpiaq-run museum holding 250,000 artifacts from 7,500 years on Kodiak, plus active language and dance revival work.
   - *Tip:* Small gallery but a serious collection; ask about the season's digs, and the shop is the best source of real Alutiiq art.
   - 1h · $7 adult · ferry · months 5,6,7,8,9 · `57.7884, -152.4032`
-- **#272 Baranov Museum** · `46` · museum-culture
+- **#280 Baranov Museum** · `46` · museum-culture
   - An 1808 Russian-American Company fur warehouse, the oldest Russian-built structure in the US, now Kodiak's history museum.
   - *Tip:* Recently renovated and sits right above the harbor, so it fits neatly into a Tustumena ferry layover.
   - 1h · $10 adult · ferry · months 5,6,7,8,9 · `57.7876, -152.4073`
-- **#276 Chiniak Highway and Pasagshak** · `46` · scenic-drive
+- **#284 Chiniak Highway and Pasagshak** · `46` · scenic-drive
   - 42mi of coast road to Chiniak plus the Pasagshak spur: beaches, bison ranch, WWII ruins, surf and silver salmon.
   - *Tip:* Rent a car in Kodiak - it's the only way to use the island's road system, and vehicles sell out in summer.
-  - 6h · Free; rental car ~$100/day · road · months 6,7,8,9 · `57.4433, -152.4408` · **book ahead**
-- **#281 King Salmon Airport** · `46` · town-city
-  - Airport town that gates all Katmai travel; joint NPS/USFWS center handles bear orientation and flight staging.
-  - *Tip:* There is no road in - jets from Anchorage only. Weather delays are normal; never book a same-day connection.
+  - 6h · Free; rental car ~$100/day · road · months 6,7,8,9 · `57.4605, -152.4516` · **book ahead**
+- **#292 King Salmon Airport** · `46` · town-city
+  - Old Air Force field that is the jet gateway to Katmai; floatplanes hop 30 mi from here to Brooks Camp.
+  - *Tip:* Same-day Anchorage-King Salmon-Brooks is weather-fragile; plan a King Salmon overnight as your buffer.
   - 2h · ~$500-800 round trip from Anchorage · air-only · months 6,7,8,9 · `58.6768, -156.6494` · **book ahead**
-- **#282 Kodiak History Museum** · `46` · museum-culture
+- **#293 Kodiak History Museum** · `46` · museum-culture
   - Russian-American Company warehouse of 1808 - one of four surviving Russian buildings in the US - now a museum.
-  - *Tip:* Renamed from Baranov Museum in 2019 and reopened after renovation; closed Sundays. 5-min walk from the ferry dock.
-  - 1h · $7 adults · road · months 5,6,7,8,9 · `57.7869, -152.4067`
-- **#298 Ship Creek Salmon Viewing Platform** · `45` · fishing
+  - *Tip:* Renamed from the Baranov Museum and reopened after renovation; closed Sun-Tue. 5-min walk from the ferry dock.
+  - 1h · $10 adults; under 13 free · road · months 5,6,7,8,9 · `57.7874, -152.4033`
+- **#309 Ship Creek Salmon Viewing Platform** · `45` · fishing
   - Downtown creek where king and silver salmon stack up below a dam while anglers fish in waders a block from hotels.
   - *Tip:* Best action on an incoming tide - the mudflats here are quicksand-like, stay on the platform and the gravel bar.
   - 1h · Free to watch; fishing license ~$25/day · road · months 6,7,8 · `61.2233, -149.8783`
-- **#306 Aniakchak Caldera** · `44` · volcano-geology
+- **#317 Aniakchak Caldera** · `44` · volcano-geology
   - 6mi-wide collapsed caldera holding Surprise Lake, which drains through The Gates in a 1,500ft rift.
-  - *Tip:* The least-visited NPS unit in the US - about 250 visitors a year. Budget spare days: charters often can't land.
-  - 4d · Free (NPS); charter from King Salmon ~$3,000+ · air-only · months 7,8 · `56.8992, -158.0958` · **book ahead**
-- **#323 Novarupta** · `44` · volcano-geology
+  - *Tip:* The least-visited NPS unit in the US - often under 200 visitors a year. Budget spare days: charters often can't land.
+  - 4d · Free (NPS); charter from King Salmon ~$3,000+ · air-only · months 7,8 · `56.9219, -158.1002` · **book ahead**
+- **#337 Novarupta** · `44` · volcano-geology
   - Vent of the largest eruption of the 20th century (1912); a squat lava dome plugging the valley's source.
-  - *Tip:* No trail - it's a 12mi+ off-trail slog with river fords from Three Forks. Most visitors just view it from the bus.
+  - *Tip:* No maintained trail: a 12mi+ off-trail slog with river fords from Three Forks. Most visitors just view it from the bus.
   - 3d · Free (NPS); guided backpack trips ~$4,000+ · trail · months 7,8 · `58.2701, -155.1572` · **book ahead**
-- **#324 Port Alsworth** · `44` · town-city
+- **#338 Port Alsworth** · `44` · town-city
   - Lake-shore village of ~180 that serves as Lake Clark's only visitor center and trailhead base.
   - *Tip:* ~1hr flight from Anchorage via Lake Clark Pass. Only trailheads in the park start here - everywhere else is bush.
   - 2h · Free · air-only · months 6,7,8,9 · `60.2006, -154.3222` · **book ahead**
-- **#349 Kodiak National Wildlife Refuge Visitor Center** · `42` · museum-culture
+- **#371 King Salmon Visitor Center** · `42` · town-city
+  - Airport town that gates all Katmai travel; joint NPS/USFWS center handles bear orientation and flight staging.
+  - *Tip:* There is no road in - jets from Anchorage only. Weather delays are normal; never book a same-day connection.
+  - 1h · Free · air-only · months 6,7,8,9 · `58.6827, -156.6682`
+- **#372 Kodiak National Wildlife Refuge Visitor Center** · `42` · museum-culture
   - Free center at 402 Center Ave with a 36ft gray whale skeleton; the planning desk for 1.9M-acre Kodiak refuge.
   - *Tip:* Start here if you want a refuge cabin - the 9 public-use cabins are $45/night by quarterly lottery.
-  - 1h · Free · road · months 5,6,7,8,9 · `57.7876, -152.4083`
-- **#352 Naknek** · `42` · fishing
+  - 1h · Free · road · months 5,6,7,8,9 · `57.7877, -152.4042`
+- **#375 Naknek** · `42` · fishing
   - Cannery town at the Naknek River mouth, epicentre of the world's largest sockeye run (~50M+ fish a season).
   - *Tip:* 15mi paved road from King Salmon. Late June the beach is wall-to-wall setnets - the real working Alaska.
-  - 3h · Free to watch; charters vary · road · months 6,7 · `58.7297, -157.0208`
-- **#356 Tanalian Falls Trail** · `42` · hike-trail
+  - 3h · Free to watch; charters vary · road · months 6,7 · `58.7267, -157.0184`
+- **#379 Tanalian Falls Trail** · `42` · hike-trail
   - 2.4mi each way from Port Alsworth to a broad falls on the Tanalian River; the park's only maintained trail.
   - *Tip:* Extend to Kontrashibuna Lake or the 4mi Tanalian Mountain climb for the classic overhead Lake Clark view.
   - 4h · Free (NPS) · trail · months 6,7,8,9 · `60.1897, -154.2578`
-- **#434 Kodiak Crab Festival** · `34` · festival-event
+- **#475 Kodiak Crab Festival** · `34` · festival-event
   - Downtown Kodiak ferry berth linking the island to Homer and, a few times a season, to the Aleutian chain run.
   - *Tip:* Bringing your own vehicle over from Homer is the cheapest way to drive Kodiak's 100mi road system and hit remote beaches.
-  - 8h · ~$85 passenger Homer-Kodiak; vehicles much more · air-only · months 5,6,7,8,9 · `57.7900, -152.4072` · **book ahead**
-- **#439 Pillar Mountain** · `34` · viewpoint
+  - 8h · ~$100 passenger Homer-Kodiak; vehicles much more · air-only · months 5,6,7,8,9 · `57.7902, -152.4072` · **book ahead**
+- **#480 Pillar Mountain** · `34` · viewpoint
   - 1,270ft hill directly behind town; steep gravel road to wind turbines and a full view over the harbor and islands.
   - *Tip:* 2WD-doable when dry but rutted. Best at evening light; hosts the odd World Championship Mountain Man snow race.
-  - 1h · Free · road · months 6,7,8,9 · `57.7906, -152.4351`
-- **#454 Dillingham** · `32` · town-city
+  - 1h · Free · road · months 6,7,8,9 · `57.7886, -152.4356`
+- **#498 Dillingham** · `32` · town-city
   - Bristol Bay hub of ~2,200 and the staging point for Wood-Tikchik, Togiak refuge and Round Island charters.
   - *Tip:* Rooms are impossible and rates triple during the late-June sockeye opener - book flights and beds months out.
   - 4h · ~$500 round trip from Anchorage · air-only · months 6,7,8 · `59.0392, -158.4575` · **book ahead**
-- **#458 Kodiak Benny Benson State Airport** · `32` · town-city
+- **#499 Fossil Beach & Narrow Cape** · `32` · viewpoint
+  - End of Kodiak's Pasagshak Road: fossil-bearing sea cliffs, a surf break, feral cattle and rocket launch pads.
+  - *Tip:* 45 mi of gravel from Kodiak, allow 90 min each way; the road closes for occasional Spaceport launches.
+  - 5h · Free · road · months 6,7,8,9 · `57.4067, -152.3564`
+- **#504 Kodiak Benny Benson State Airport** · `32` · town-city
   - Jet field 5 mi south of Kodiak town, shared with USCG Base Kodiak and the floatplanes to the bear refuge.
   - *Tip:* Kodiak weather scrubs flights often - build a spare day, or use the Homer-Kodiak ferry as your backup.
-  - 1h · Jet fare from Anchorage (~1 hr) · air-only · months 6,7,8,9 · `57.7500, -152.4939` · **book ahead**
-- **#477 Iliamna** · `30` · fishing
+  - 1h · Jet fare from Anchorage (~1 hr) · air-only · months 6,7,8,9 · `57.7503, -152.4939` · **book ahead**
+- **#527 Iliamna** · `30` · fishing
   - Airstrip village on Alaska's largest lake (1,000 sq mi); base for the Kvichak trophy rainbow fishery and lodge fly-outs.
   - *Tip:* Gateway to Katmai's back door and the Pebble Mine controversy country. Serious anglers only - little else to do here.
   - 4d · ~$450 flight from Anchorage; lodges $5,000-9,000 · air-only · months 6,7,8,9 · `59.7539, -154.8358` · **book ahead**
-- **#504 Izembek National Wildlife Refuge** · `26` · wildlife
+- **#562 Izembek National Wildlife Refuge** · `26` · wildlife
   - One of the world's largest eelgrass beds; ~98% of Pacific black brant and most emperor geese stage here each fall.
   - *Tip:* Cold Bay has a huge WWII-era runway but almost no services - the fall staging spectacle is the only reason to come.
-  - 1d · ~$700 round trip from Anchorage · air-only · months 9,10 · `55.3001, -162.8333` · **book ahead**
-- **#512 Yukon Delta National Wildlife Refuge** · `26` · wildlife
+  - 1d · ~$700 round trip from Anchorage · air-only · months 9,10 · `55.3158, -162.8453` · **book ahead**
+- **#569 Monashka Bay & Termination Point** · `26` · hike-trail
+  - Where Kodiak's road net ends to the north: pebble beach, spruce forest loop and whale watching off the point.
+  - *Tip:* About 12 mi from town on Monashka Bay Road; the loop is roughly 5 mi and easy to lose in the moss - carry a track.
+  - 4h · Free · road · months 6,7,8,9 · `57.8492, -152.3606`
+- **#572 Yukon Delta National Wildlife Refuge** · `26` · wildlife
   - 19M-acre tundra wetland, the second largest US refuge - nesting ground for ~2M ducks and 100M shorebirds.
   - *Tip:* No trails, no cabins, no roads - this is charter-and-camp country. Refuge HQ in Bethel is the only visitor facility.
-  - 2d · Free; bush charters from Bethel $600+/hr · air-only · months 6,7 · `61.2001, -163.0001` · **book ahead**
+  - 2d · Free; bush charters from Bethel $600+/hr · air-only · months 6,7 · `61.6781, -163.6363` · **book ahead**
+- **#580 Shuyak Island State Park** · `24` · wilderness-lodge
+  - 47,000-acre park at the top of the Kodiak archipelago: sheltered sea-kayak channels and four public-use cabins.
+  - *Tip:* Floatplane from Kodiak is the only way in; book the cabins months ahead through Alaska State Parks.
+  - 3d · $75/night cabin + ~$600 floatplane · air-only · months 6,7,8 · `58.5253, -152.5047` · **book ahead**
+- **#587 Cold Bay Airport** · `22` · town-city
+  - One of Alaska's longest runways, a WWII bomber field, and the only practical way in to Izembek's eelgrass lagoons.
+  - *Tip:* Alaska Airlines jets land here year-round; refuge gravel roads run from the terminal to the Grant Point overlook.
+  - 6h · Round-trip jet from Anchorage ~$700 · air-only · months 5,9,10 · `55.2061, -162.7256` · **book ahead**
+- **#600 Yentna River** · `20` · fishing
+  - 75-mi glacial river feeding the Susitna: the Iditarod's opening run and a string of fly-in king salmon camps.
+  - *Tip:* Floatplane or riverboat from Deshka Landing. King seasons close some years - check ADF&G emergency orders first.
+  - 10h · Riverboat from Deshka Landing ~$150 pp · air-only · months 6,7 · `61.5606, -150.4844` · **book ahead**
+- **#603 Nunivak Island & Mekoryuk** · `18` · wildlife
+  - Bering Sea island with Alaska's founding musk ox herd (transplanted 1935) and the only Cup'ig-speaking village.
+  - *Tip:* Every musk ox in Alaska descends from this herd; guided musk ox and reindeer hunts are the main visitor traffic.
+  - 1d · Flight from Bethel ~$450 round trip · air-only · months 6,7,8 · `60.3878, -166.2586` · **book ahead**
+- **#604 Sand Point** · `18` · town-city
+  - Aleut fishing town of ~600 on Popof Island, hub of the Shumagins and home to the region's largest fishing fleet.
+  - *Tip:* Reachable two ways: Tustumena ferry about 8x a year, or a scheduled flight from Anchorage most days.
+  - 5h · Ferry from Kodiak ~$200; flight from Anchorage ~ · ferry · months 6,7,8 · `55.3392, -160.4989` · **book ahead**
+- **#606 Chignik** · `16` · town-city
+  - Salmon cannery village of ~100 on the Alaska Peninsula, a scheduled Tustumena ferry stop with no road anywhere.
+  - *Tip:* The ferry lays over about two hours - enough to walk the village. The next boat is weeks away.
+  - 3h · AMHS from Kodiak ~$180 · ferry · months 6,7,8 · `56.2983, -158.4044` · **book ahead**
+- **#608 Port Heiden** · `14` · town-city
+  - Bristol Bay coast village of ~100 that is the usual overland jumping-off point for Aniakchak's caldera.
+  - *Tip:* Aniakchak gets ~10 visitors a year; from here it is a 10-mi tundra walk or a bush flight into Surprise Lake.
+  - 1d · Flight from Anchorage ~$700 round trip · air-only · months 6,7,8 · `56.9469, -158.6253` · **book ahead**
+- **#609 King Cove** · `13` · town-city
+  - Fishing town of ~750 near the Aleutian tip, known for the decades-long fight over a road through Izembek refuge.
+  - *Tip:* No visitor infrastructure at all - come as a Tustumena stop or with a local contact, not on spec.
+  - 3h · Ferry stopover included in AMHS fare · ferry · months 6,7,8 · `55.0642, -162.3200` · **book ahead**
+- **#611 Aniak** · `12` · town-city
+  - Kuskokwim River hub of ~500 that supplies a dozen upriver villages; base for Aniak and Kuskokwim river fishing.
+  - *Tip:* Daily flights from Bethel and Anchorage. You come for a fishing charter or a village connection, not for sightseeing.
+  - 1d · Flight from Anchorage ~$500 round trip · air-only · months 6,7,8 · `61.5788, -159.5503` · **book ahead**
 
-### Arctic  *(29)*
+### Arctic  *(36)*
 
-- **#66 Gates of the Arctic National Park & Preserve** · `72` · national-park
+- **#28 Gates of the Arctic National Park & Preserve** · `78` · national-park
   - 8.4M acres of Brooks Range with no roads, trails, campgrounds or signs - the least-visited US national park.
   - *Tip:* No fee and no permit, but you must fly in. Free bear-canister loans and route advice at Bettles or Coldfoot.
   - 4d · Free entry; ~$800-1,500pp air taxi · air-only · months 6,7,8 · `67.7800, -153.3000` · **book ahead**
-- **#70 Anchorage Museum at Rasmuson Center** · `70` · museum-culture
+- **#67 Anchorage Museum at Rasmuson Center** · `70` · museum-culture
   - Alaska's largest museum: state history galleries, planetarium, and the Smithsonian Arctic Studies Center's 600 Native objects.
   - *Tip:* If short on time, do the Smithsonian gallery on floor 2 - 600 Native objects repatriated on long-term loan.
   - 3h · $25 adult · road · months 1,2,3,4,5,6,7,8,9,10,11,12 · `61.2159, -149.8842`
-- **#93 Atigun Pass** · `66` · viewpoint
-  - 4,739ft Brooks Range crossing on the Dalton Highway with Dall sheep on the scree plus caribou, wolves and raptors.
-  - *Tip:* Check Alaska 511 before committing; avalanche closures are common. Scan the walls for Dall sheep at the summit.
-  - 1h · Free · road · months 6,7,8 · `68.1294, -149.4758`
-- **#117 Aurora over the Brooks Range at Wiseman** · `62` · aurora
+- **#110 Aurora over the Brooks Range at Wiseman** · `62` · aurora
   - Wiseman sits directly under the auroral oval with zero light pollution - among the best aurora odds in Alaska.
   - *Tip:* Give it 3 nights: clear-sky odds beat Fairbanks but a single cloudy night can wipe out a whole trip.
   - 1d · ~$200-260/night cabin · road · months 2,3,9,10 · `67.4103, -150.1092` · **book ahead**
-- **#131 Arctic Ocean Shuttle & Arctic Ocean dip** · `60` · viewpoint
-  - Escorted bus through the restricted Prudhoe oilfield to the Beaufort Sea shore - the only legal way to the water.
-  - *Tip:* Reserve 24+ hrs ahead with photo ID or passport for security clearance. Bring a towel if you plan to go in.
-  - 2h · ~$85-100 shuttle · road · months 6,7,8 · `70.4000, -148.5300` · **book ahead**
-- **#184 Arrigetch Peaks** · `55` · hike-trail
+- **#127 Atigun Pass** · `60` · viewpoint
+  - 4,739ft Brooks Range crossing on the Dalton Highway with Dall sheep on the scree plus caribou, wolves and raptors.
+  - *Tip:* Check Alaska 511 before committing; avalanche closures are common. Scan the walls for Dall sheep at the summit.
+  - 1h · Free · road · months 6,7,8 · `68.1294, -149.4758`
+- **#185 Arrigetch Peaks** · `55` · hike-trail
   - Granite spires above the Alatna River - Gates of the Arctic's signature backpacking and big-wall objective.
   - *Tip:* Float-plane to Circle Lake, then two hard off-trail days up Arrigetch Creek. NPS asks parties to camp low.
   - 4d · ~$1,200 air taxi round trip · air-only · months 7,8 · `67.4167, -154.1833` · **book ahead**
-- **#192 Inupiat Heritage Center** · `55` · native-culture
-  - NPS-affiliated Inupiaq museum on bowhead whaling, umiaks and the Arctic whaling trade, partnered with New Bedford Whaling NHP.
-  - *Tip:* Reachable only by jet from Anchorage or Fairbanks; call ahead because it shuts for Nalukataq whaling feasts in June.
-  - 2h · About $10 adult · air-only · months 3,6,7,8 · `71.2951, -156.7660`
-- **#193 Kobuk Valley National Park** · `55` · national-park
+- **#194 Kobuk Valley National Park** · `55` · national-park
   - 1.7M roadless acres straddling the Kobuk River - no trails, no facilities, one of the least-visited US parks.
   - *Tip:* Most visitors do a single day landing on the dunes from Kotzebue. No permit or fee, but file a plan with someone.
   - 1d · Free entry; ~$700-1,000pp air taxi · air-only · months 6,7,8,9 · `67.5500, -159.2833` · **book ahead**
-- **#214 Deadhorse** · `52` · town-city
+- **#210 Arctic Ocean Shuttle & Arctic Ocean dip** · `52` · viewpoint
+  - Escorted bus through the restricted Prudhoe oilfield to the Beaufort Sea shore - the only legal way to the water.
+  - *Tip:* Book ahead with your exact legal name and date of birth - oilfield security clears every passenger. Bring a towel.
+  - 2h · $89 per person · road · months 6,7,8 · `70.4025, -148.5273` · **book ahead**
+- **#217 Deadhorse** · `52` · town-city
   - End of the Dalton at Mile 414: an industrial oilfield camp of gravel pads, worker hotels and no town at all.
-  - *Tip:* No bar, no shops, and you cannot reach the ocean on your own. Book a bed and the ocean shuttle before you leave.
+  - *Tip:* No bar, no shops, and you cannot reach the ocean alone. Book a bed and the $89 ocean shuttle before you leave.
   - 12h · ~$400-600 one way from Fairbanks/Anchorage · road · months 6,7,8 · `70.1994, -148.4597` · **book ahead**
-- **#218 Great Kobuk Sand Dunes** · `52` · volcano-geology
+- **#222 Great Kobuk Sand Dunes** · `52` · volcano-geology
   - 25 sq mi of active dunes up to 100 ft high above the Arctic tree line - relics of Pleistocene glacial outwash.
   - *Tip:* Tundra-tire bush planes land right on the sand. On a clear July day the sand surface can exceed 100F.
-  - 6h · Included in a ~$800 air taxi · air-only · months 6,7,8 · `67.0539, -158.9131` · **book ahead**
-- **#241 Point Barrow** · `50` · wildlife
+  - 6h · Included in a ~$800 air taxi · air-only · months 6,7,8 · `67.0546, -158.9057` · **book ahead**
+- **#245 Point Barrow** · `50` · wildlife
   - Northernmost point in the US: nesting shorebirds and snowy owls in June, polar bears at the whale bone pile in fall.
   - *Tip:* Guided 4x4 only. The whale bone pile out here draws polar bears - never walk or drive the spit on your own.
   - 4h · ~$150 guided tundra tour plus airfare from Fairb · air-only · months 6,7,8,9 · `71.3875, -156.4783` · **book ahead**
-- **#300 Sukakpak Mountain** · `45` · volcano-geology
+- **#261 Inupiat Heritage Center** · `48` · native-culture
+  - NPS-affiliated Inupiaq museum on bowhead whaling, umiaks and the Arctic whaling trade, partnered with New Bedford Whaling NHP.
+  - *Tip:* Reachable only by jet from Anchorage or Fairbanks; call ahead because it shuts for Nalukataq whaling feasts in June.
+  - 2h · About $10 adult · air-only · months 3,6,7,8 · `71.2951, -156.7660`
+- **#311 Sukakpak Mountain** · `45` · volcano-geology
   - A 4,459 ft marble fin tilted straight up off the highway at Mile 203 - the classic Brooks Range photograph.
   - *Tip:* Best light is evening from the pullout just north. There is no trail; the approach is boggy tussock and palsas.
   - 1h · Free · road · months 6,7,8,9 · `67.6034, -149.7418`
-- **#305 Alaska Zoo** · `44` · wildlife
+- **#316 Alaska Zoo** · `44` · wildlife
   - Compact zoo of Alaskan and Arctic species - polar bear, brown bears, muskox, lynx, wolves - mostly rescued animals.
   - *Tip:* Cold-adapted animals are far more active in winter than on a warm July afternoon; December lantern nights are a hit.
   - 2h · $25 adult · road · months 1,2,5,6,7,8,12 · `61.1072, -149.8003`
-- **#307 Arctic Interagency Visitor Center** · `44` · museum-culture
+- **#318 Arctic Interagency Visitor Center** · `44` · museum-culture
   - Joint BLM/NPS/USFWS center at Coldfoot with Brooks Range exhibits, trip planning and a nightly 8pm ranger talk.
-  - *Tip:* The only place on the road to get real Gates of the Arctic backcountry info and Arctic Circle certificates.
+  - *Tip:* Nightly 8pm ranger talk, free Wi-Fi, and the only real Gates of the Arctic backcountry briefing on the road.
   - 1h · Free · road · months 6,7,8 · `67.2489, -150.1742`
-- **#327 The Gates: Boreal Mountain & Frigid Crags** · `44` · viewpoint
-  - The twin portals on the North Fork Koyukuk that Bob Marshall named the gates of the Arctic in 1929.
+- **#344 The Gates: Boreal Mountain & Frigid Crags** · `44` · viewpoint
+  - The twin portals on the North Fork Koyukuk - Frigid Crags west, Boreal Mountain east - that Bob Marshall named in 1929.
   - *Tip:* Seen on a Bettles flightseeing loop, or on foot via a float-plane drop at Redstar Lake plus a river float.
-  - 3h · ~$300 flightsee from Bettles · air-only · months 6,7,8 · `67.7350, -152.7600` · **book ahead**
-- **#368 Coldfoot Airport flightseeing base** · `40` · flightseeing
+  - 3h · ~$300 flightsee from Bettles · air-only · months 6,7,8 · `67.8265, -150.8622` · **book ahead**
+- **#391 Coldfoot Airport flightseeing base** · `40` · flightseeing
   - Gravel strip beside Coldfoot Camp: the air-taxi and flightseeing base for Gates of the Arctic and Anaktuvuk Pass.
-  - *Tip:* Coyote Air and Wright Air operate here. A Brooks Range flightsee is the cheapest way to actually see the park.
+  - *Tip:* Coyote Air and Wright Air fly from here. A Brooks Range flightsee is the cheapest way to actually see the park.
   - 2h · ~$250-400 per seat for a 1-2 hr flightsee · road · months 6,7,8 · `67.2522, -150.2039` · **book ahead**
-- **#381 Nalukataq** · `40` · festival-event
+- **#405 Nalukataq** · `40` · festival-event
   - Inupiat spring-whaling festival where successful crews share muktuk with the whole town, ending in a blanket toss.
   - *Tip:* Usually falls in the last ten days of June but depends on the hunt - confirm with the borough before booking.
   - 6h · Free; visitors welcome (bring a bowl and a bag) · air-only · months 6 · `71.2913, -156.7823` · **book ahead**
-- **#404 Noatak National Preserve** · `38` · national-park
+- **#406 Noatak River Float** · `40` · boat-cruise
+  - Gentle 400-mile wilderness river draining Gates of the Arctic, with float-plane put-ins at Lake Matcharak or Twelvemile Creek.
+  - *Tip:* Class I water makes it the friendliest Arctic float, but budget two weather days at each end for the Bettles air charter.
+  - 4d · $5,000-7,000 guided; ~$1,800 charter if self-sup · air-only · months 6,7,8 · `67.5667, -156.2500` · **book ahead**
+- **#427 Gambell, St. Lawrence Island** · `38` · wildlife
+  - Siberian Yupik village 36 mi from Russia - North America's premier spot for Asian vagrant birds and seabird watches.
+  - *Tip:* Go late May to early June on a package; there is one lodge and you ride ATVs across the gravel to the point.
+  - 4d · ~$3,500 week-long birding package incl. flights · air-only · months 5,6 · `63.7761, -171.7008` · **book ahead**
+- **#435 Noatak National Preserve** · `38` · national-park
   - 6.6M acres protecting the whole Noatak River basin - the largest essentially untouched river basin in North America.
   - *Tip:* Classic trip is a 10-14 day Class I-II float from Lake Matcharak or the Cutler River down to Noatak village.
   - 4d · Free entry; ~$1,500+ air taxi plus raft rental · air-only · months 7,8 · `68.1667, -159.5000` · **book ahead**
-- **#425 Simon Paneak Memorial Museum** · `35` · museum-culture
+- **#450 Arctic Valley Ski Area** · `36` · winter-sport
+  - Anchorage's non-profit ski hill above Ship Creek - two chairs in winter, and the city's best blueberry slopes in August.
+  - *Tip:* The 7-mi gravel road up is fine for a rental car in summer; berry picking above the lodge peaks mid-to-late August.
+  - 4h · $45 lift ticket; $5 summer parking · road · months 1,2,3,8 · `61.2478, -149.5411`
+- **#464 Simon Paneak Memorial Museum** · `35` · museum-culture
   - Village museum on Nunamiut life: caribou-skin masks, sod-house models and the 1950s shift from nomadic hunting.
   - *Tip:* Caribou-skin masks are still made in the village and sold here - one of the few places you can buy them.
-  - 1.5h · ~$5 admission · air-only · months 6,7,8 · `68.1436, -151.7383`
-- **#429 Finger Mountain Wayside** · `34` · viewpoint
+  - 1.5h · Small admission fee · air-only · months 6,7,8 · `68.1442, -151.7367`
+- **#469 Finger Mountain Wayside** · `34` · viewpoint
   - BLM wayside among granite tors with a short tundra walk, interpretive panels and a toilet.
   - *Tip:* Named for the finger-shaped rock on the ridge. Blueberries ripen here in late Aug; best light is evening.
-  - 1h · Free (BLM) · road · months 6,7,8,9 · `66.3828, -150.4997`
-- **#438 Northwest Arctic Heritage Center** · `34` · museum-culture
+  - 1h · Free (BLM) · road · months 6,7,8,9 · `66.3577, -150.4606`
+- **#479 Northwest Arctic Heritage Center** · `34` · museum-culture
   - NPS center in Kotzebue with Inupiat subsistence exhibits and the planning desk for three roadless Arctic parks.
-  - *Tip:* Closed Saturday and Sunday - schedule your Kotzebue flights around a weekday if you want park briefings.
+  - *Tip:* Closed Saturday and Sunday - schedule your Kotzebue flights around a weekday if you want a park briefing.
   - 1.5h · Free · air-only · months 6,7,8 · `66.8961, -162.5906`
-- **#449 Atigun Gorge** · `32` · hike-trail
+- **#492 Atigun Gorge** · `32` · hike-trail
   - Where the Atigun River cuts east out of the Brooks Range - the standard north-slope day hike and packraft put-in.
   - *Tip:* Access on a rough spur off the Dalton near Mile 270. Tussock walking is brutal; 1 mph is a realistic pace.
-  - 6h · Free (BLM land, ANWR boundary) · trail · months 6,7,8 · `68.4500, -149.1667`
-- **#455 Galbraith Lake Campground** · `32` · viewpoint
+  - 6h · Free (BLM land) · trail · months 6,7,8 · `68.4843, -149.2146`
+- **#500 Galbraith Lake Campground** · `32` · viewpoint
   - Undeveloped BLM camping area 2.5 mi off the highway, ringed by the north wall of the Brooks Range.
-  - *Tip:* About 12 sites, vault toilet, no potable water. Wind is relentless - a freestanding tent with real stakes only.
-  - 12h · $12/night · road · months 6,7,8 · `68.4600, -149.4900`
-- **#469 Cape Krusenstern National Monument** · `30` · native-culture
+  - *Tip:* About 12 sites, a vault toilet, bear-proof cans, no potable water - filter the creek. Wind here is relentless.
+  - 12h · Free - no camping fee · road · months 6,7,8 · `68.4533, -149.4833`
+- **#516 Cape Krusenstern National Monument** · `30` · national-park
   - 114 beach ridges on the Chukchi coast recording more than 5,000 years of Inupiat sea-mammal hunting camps.
   - *Tip:* No facilities of any kind, ~20 min flight from Kotzebue, and much of the land inside is Native-owned - ask first.
   - 6h · ~$400 charter from Kotzebue · air-only · months 6,7,8 · `67.4167, -163.5000` · **book ahead**
-- **#487 Bettles Ranger Station** · `28` · national-park
+- **#529 Little Diomede** · `30` · town-city
+  - Village clinging to a rock in the Bering Strait; Russia's Big Diomede and tomorrow's date sit 2.4 mi across the water.
+  - *Tip:* Weekly subsidized helicopter from Nome, weather permitting - budget spare days, people get stranded routinely.
+  - 1d · Helicopter from Nome ~$400 round trip · air-only · months 3,6,7,8 · `65.7583, -168.9517` · **book ahead**
+- **#540 Bettles Ranger Station** · `28` · national-park
   - Main staging station for Gates of the Arctic: bear-can loan, route advice and the backcountry orientation.
   - *Tip:* Air taxis stage from Bettles Field next door - charter seats and float dates book up by February.
   - 2h · Free (air taxi $1,500+ per person) · air-only · months 6,7,8 · `66.9175, -151.5164` · **book ahead**
-- **#500 Wiley Post-Will Rogers Memorial Airport, Utqiagvik** · `28` · town-city
+- **#557 Wiley Post-Will Rogers Memorial Airport, Utqiagvik** · `28` · town-city
   - Northernmost jet airport in the United States, on the gravel edge of the Arctic Ocean at Utqiagvik.
   - *Tip:* Book a guided package - independent arrivals find no taxis, no rental cars and no signage in town.
-  - 1h · ~$700-1000 round trip from Anchorage · air-only · months 6,7,8 · `71.2854, -156.7660` · **book ahead**
-- **#508 Marion Creek Campground** · `26` · hike-trail
-  - BLM campground with 27 sites, potable water and a ~4 mi trail up to Marion Creek Falls in the Brooks foothills.
-  - *Tip:* First-come, first-served and the only developed campground north of the Yukon. Best tent option near Coldfoot.
-  - 2h · $12/night · road · months 6,7,8 · `67.3208, -150.1553`
-- **#516 Will Rogers & Wiley Post Memorial** · `24` · historic-site
+  - 1h · ~$700-1000 round trip from Anchorage · air-only · months 6,7,8 · `71.2854, -156.7661` · **book ahead**
+- **#567 Marion Creek Campground** · `26` · hike-trail
+  - BLM campground at Mile 180: 27 sites, potable water, a camp host and an undeveloped trail toward Marion Creek Falls.
+  - *Tip:* First-come, first-served at $12 - the only developed campground north of the Yukon and the best tent option here.
+  - 2h · $12/night · road · months 6,7,8 · `67.3168, -150.1590`
+- **#579 Point Hope** · `24` · native-culture
+  - Inupiaq whaling village on a Chukchi Sea spit - one of the longest continuously occupied sites in North America.
+  - *Tip:* Spring bowhead whaling and the Qagruq festival are the reason to come; arrange it through the village first.
+  - 1d · Flights from Kotzebue ~$500 round trip · air-only · months 6 · `68.3469, -166.7631` · **book ahead**
+- **#582 Will Rogers & Wiley Post Memorial** · `24` · historic-site
   - Monument at the 1935 crash site ~15 mi south of Utqiagvik where humorist Will Rogers and pilot Wiley Post died.
   - *Tip:* Tundra track only - go with a local guide or ATV tour. A second, easier marker stands near the airport in town.
   - 3h · Usually included in a town tour · air-only · months 6,7,8 · `71.1544, -156.8281` · **book ahead**
-- **#519 Prospect Creek** · `22` · roadside-oddity
+- **#588 Prospect Creek** · `22` · roadside-oddity
   - Site of the -80F reading on 23 Jan 1971 - still the coldest temperature ever recorded in the United States.
   - *Tip:* The pipeline construction camp is long gone; what's left is an airstrip and a sign. Two minutes, then drive on.
   - 0.25h · Free · road · months 6,7,8,9 · `66.8142, -150.6436`
+- **#590 Unalakleet** · `22` · town-city
+  - Norton Sound village of ~700 where the Iditarod reaches the Bering coast; strong king and silver salmon river.
+  - *Tip:* The first team to Unalakleet wins a cash prize - mid-March is the one week this town is on the map.
+  - 1d · Flight from Anchorage ~$550 round trip · air-only · months 3,6,7 · `63.8736, -160.7889` · **book ahead**
+- **#598 Savoonga** · `20` · native-culture
+  - Siberian Yupik village on St. Lawrence Island's north shore, known for ivory carving and spring walrus hunting.
+  - *Tip:* Birders combine it with Gambell on the same package; buying carvings direct supports the carvers, not a gallery.
+  - 1d · Flight from Nome ~$600 round trip · air-only · months 5,6 · `63.6947, -170.4794` · **book ahead**
 
-### Aleutians-Bering  *(14)*
+### Aleutians-Bering  *(16)*
 
-- **#128 Unalaska** · `62` · town-city
+- **#124 Unalaska** · `62` · town-city
   - Treeless volcanic island town of ~4,300, 800mi west of Anchorage; WWII battleground and the top US fishing port.
   - *Tip:* Flights are notoriously fog-cancelled - allow 2 buffer days. The Tustumena ferry is the slow, cheaper alternative.
-  - 2d · ~$800-1,200 round-trip flight from Anchorage · air-only · months 6,7,8 · `53.8736, -166.5378` · **book ahead**
-- **#163 St. Paul Island** · `58` · wildlife
-  - Bering Sea island with ~500,000 northern fur seals, million-bird cliffs and Asian rarities; Unangax̂ village of ~350.
-  - *Tip:* Aleutian Airways took the route in Jan 2026, flying Tue/Thu/Sun in summer. King Eider Hotel is the only lodging.
+  - 2d · ~$800-1,200 round-trip flight from Anchorage · air-only · months 6,7,8 · `53.8736, -166.5329` · **book ahead**
+- **#161 St. Paul Island** · `58` · wildlife
+  - Bering Sea island with vast northern fur seal rookeries, million-bird cliffs and Asian rarities; Unangax̂ village of ~410.
+  - *Tip:* Aleutian Airways flies Anchorage-St. Paul a few days a week in summer; King Eider Hotel is the only lodging.
   - 4d · ~$1,200+ airfare plus King Eider Hotel; birding  · air-only · months 6,7,8,9 · `57.1236, -170.2764` · **book ahead**
 - **#203 Fort Schwatka** · `54` · historic-site
-  - Highest coastal gun battery ever built in the US - concrete bunkers and observation posts at 1,000ft on Mt Ballyhoo.
+  - Highest coastal gun battery ever built in the US - concrete bunkers and observation posts ~900ft up Mt Ballyhoo.
   - *Tip:* You need an Ounalashka Corporation land permit (buy in town) to walk any of this. High-clearance 4WD for the road.
-  - 3h · $6 Ounalashka Corp land-use permit · road · months 6,7,8,9 · `53.9231, -166.5197`
-- **#234 Church of the Holy Ascension** · `50` · historic-site
-  - 1896 cruciform Orthodox church, a National Historic Landmark, with ~700 icons and artifacts; oldest in the region.
+  - 3h · $6 Ounalashka Corp land-use permit · road · months 6,7,8,9 · `53.9097, -166.5162`
+- **#238 Church of the Holy Ascension** · `50` · historic-site
+  - 1894-96 cruciform Orthodox church, a National Historic Landmark, holding ~700 icons and artifacts.
   - *Tip:* Photogenic from the outside in any weather; ask at the Museum of the Aleutians about interior access times.
-  - 1h · Free (donation) · air-only · months 6,7,8 · `53.8767, -166.5325`
-- **#257 Museum of the Aleutians** · `48` · museum-culture
+  - 1h · Free (donation) · road · months 6,7,8 · `53.8756, -166.5364`
+- **#265 Museum of the Aleutians** · `48` · museum-culture
   - Unangax̂ archaeology, Russian-era artifacts and WWII material covering 9,000 years of Aleutian occupation.
   - *Tip:* The single best place to understand the 1942 Unangax̂ internment - a story most Alaska tours skip entirely.
-  - 1.5h · $5 adults · air-only · months 6,7,8 · `53.8756, -166.5386`
-- **#271 Aleutian WWII National Historic Area Visitor Center** · `46` · historic-site
-  - NPS-affiliated center in the restored 1942 Naval Air Station aerology building by the airport; tells the forgotten war.
-  - *Tip:* Pick up the free Fort Schwatka self-guided booklet and the land permit info here before driving up Ballyhoo.
-  - 1.5h · $5 adults · air-only · months 6,7,8,9 · `53.8889, -166.5272`
-- **#287 Ridge Wall Seabird Cliffs** · `46` · wildlife
-  - Basalt cliffs with wooden blinds over nesting least/crested/parakeet auklets, both puffin species and red-legged kittiwakes.
-  - *Tip:* Red-legged kittiwake breeds almost nowhere else on earth. Shoot morning - afternoon fog usually swallows the cliffs.
-  - 4h · Included in island tours · air-only · months 6,7,8 · `57.1889, -170.2417` · **book ahead**
-- **#291 Aleutian Islands WWII National Historic Area Visitor Center** · `45` · historic-site
+  - 1.5h · $15 adults · road · months 6,7,8 · `53.8819, -166.5492`
+- **#279 Aleutian WWII National Historic Area Visitor Center** · `46` · historic-site
   - NPS museum in a 1940s naval air-transport building covering the Aleutian campaign, the Attu evacuation and Unangax internment.
   - *Tip:* At 2716 Airport Beach Rd by the airport; then drive up Bunker Hill and Fort Schwatka for the concrete gun emplacements.
-  - 2h · $4 adult (NPS) · air-only · months 6,7,8 · `53.8993, -166.5416`
-- **#370 Dutch Harbor** · `40` · fishing
+  - 1.5h · ~$5 adults (run by the Ounalashka Corporation) · road · months 6,7,8,9 · `53.8946, -166.5402`
+- **#298 Ridge Wall Seabird Cliffs** · `46` · wildlife
+  - Basalt cliffs with wooden blinds over nesting least/crested/parakeet auklets, both puffin species and red-legged kittiwakes.
+  - *Tip:* Red-legged kittiwake breeds almost nowhere else on earth. Shoot morning - afternoon fog usually swallows the cliffs.
+  - 4h · Included in island tours · air-only · months 6,7,8 · `57.1642, -170.3768` · **book ahead**
+- **#394 Dutch Harbor** · `40` · fishing
   - The #1 US fishing port by volume for decades; the Deadliest Catch crabbers and pollock factory trawlers tie up here.
   - *Tip:* Walk the causeway and small-boat harbor for the boats. Bering Sea snow crab quotas collapsed - fewer crabbers now.
-  - 2h · Free to walk the harbor road · air-only · months 6,7,8 · `53.8903, -166.5414`
-- **#390 Adak Island** · `38` · town-city
-  - Half-abandoned Cold War navy town of ~100 on a treeless volcanic island 1,200mi from Anchorage; ghost-town urbex.
-  - *Tip:* Only two Alaska Airlines flights a week - a missed one costs 3-4 days. Rent a truck locally; there's no other transport.
-  - 3d · ~$1,000+ round trip from Anchorage · air-only · months 6,7,8,9 · `51.8801, -176.6461` · **book ahead**
-- **#428 Bunker Hill WWII bunkers** · `34` · historic-site
+  - 2h · Free to walk the harbor road · road · months 6,7,8 · `53.8903, -166.5414`
+- **#418 Adak Island** · `38` · town-city
+  - Half-abandoned Cold War navy town of ~170 on a treeless volcanic island 1,200mi from Anchorage; ghost-town urbex.
+  - *Tip:* Only two Alaska Airlines flights a week - a missed one costs 3-4 days. Rent a truck locally; no other transport.
+  - 3d · ~$1,000+ round trip from Anchorage · air-only · months 6,7,8,9 · `51.8736, -176.6390` · **book ahead**
+- **#443 Shishaldin Volcano** · `38` · volcano-geology
+  - 9,373-ft near-perfect cone on Unimak Island, the most active volcano in the Aleutians and almost always steaming.
+  - *Tip:* Best seen from the Anchorage-Dutch Harbor flight; sit on the left side outbound and hope for a clear hour.
+  - 1h · Free (viewed from the air) · air-only · months 6,7,8 · `54.7558, -163.9675`
+- **#468 Bunker Hill WWII bunkers** · `34` · historic-site
   - Concrete WWII command bunkers and gun positions on the hill above Dutch Harbor, with the whole port laid out below.
   - *Tip:* Steep gravel road up; a rental truck or a local tour gets you there. Fort Schwatka on Ulakta Head is the bigger site.
   - 2h · Free · air-only · months 6,7,8,9 · `53.8756, -166.5564`
-- **#461 St. George Island** · `32` · wildlife
+- **#508 St. George Island** · `32` · wildlife
   - Smaller Pribilof with the largest seabird colony in the northern hemisphere - ~2.5M birds on 1,000ft cliffs.
   - *Tip:* Far harder to reach than St. Paul and lodging is minimal; only worth it for serious birders with schedule slack.
   - 3d · ~$1,200+ airfare; St. George Tanaq Hotel · air-only · months 6,7,8 · `56.6033, -169.5497` · **book ahead**
-- **#498 Tom Madsen Airport, Unalaska/Dutch Harbor** · `28` · town-city
+- **#554 Tom Madsen Airport, Unalaska/Dutch Harbor** · `28` · town-city
   - Short 3,900 ft runway boxed in by mountains and water; landings are hand-flown and often turned back.
   - *Tip:* Budget two spare days each way, or ride the M/V Tustumena one direction - Dutch flights routinely cancel.
   - 1h · ~$900+ round trip from Anchorage · air-only · months 6,7,8 · `53.9001, -166.5435` · **book ahead**
-- **#521 Attu Island Battlefield** · `20` · historic-site
+- **#592 Attu Island Battlefield** · `20` · historic-site
   - Site of the only WWII land battle fought on North American soil, May 1943; now uninhabited tundra at the end of the chain.
   - *Tip:* The Coast Guard LORAN station closed in 2010, so there are no services; Kiska has the better-preserved Japanese wrecks.
   - 2d · Charter or expedition cruise only, very expensiv · air-only · months 6,7,8 · `52.8800, -187.1000` · **book ahead**
+- **#610 Akutan** · `12` · town-city
+  - Aleut village and giant seafood plant on Akutan Island; a Tustumena stop with a hot spring walk out of town.
+  - *Tip:* Getting off requires the ferry's skiff or a hovercraft from the airport on nearby Akun - not a casual visit.
+  - 3h · Ferry stopover included in AMHS fare · ferry · months 6,7,8 · `54.1358, -165.7736` · **book ahead**
+- **#612 False Pass** · `12` · town-city
+  - Village of ~40 on Isanotski Strait, the narrow gate between the Bering Sea and the Pacific at Unimak Island.
+  - *Tip:* The ferry transits the strait itself - be on deck, the pass narrows to roughly 1,000 feet.
+  - 2h · Ferry stopover included in AMHS fare · ferry · months 6,7,8 · `54.8279, -163.3991` · **book ahead**
 
 ## Month by month
 
