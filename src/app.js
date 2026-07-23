@@ -14,33 +14,43 @@ const LOGI  = /*__LOGI__*/{gotchas:[],costs:[],myths:[]}/*__END__*/;
 const BUILT = /*__BUILT__*/'—'/*__END__*/;
 
 // ══════════════ constants ══════════════
-const CATS = {
-  'national-park'  : ['National park',   '#4ade80'],
-  'glacier'        : ['Glacier / ice',   '#7fd8ff'],
-  'wildlife'       : ['Wildlife',        '#ffd166'],
-  'aurora'         : ['Aurora',          '#a78bfa'],
-  'town-city'      : ['Town / city',     '#eef3fa'],
-  'museum-culture' : ['Museum',          '#f472b6'],
-  'native-culture' : ['Native culture',  '#fb923c'],
-  'scenic-drive'   : ['Scenic drive',    '#ffcf5c'],
-  'hike-trail'     : ['Hike / trail',    '#86efac'],
-  'boat-cruise'    : ['Boat / cruise',   '#38bdf8'],
-  'flightseeing'   : ['Flightseeing',    '#67e8f9'],
-  'hot-springs'    : ['Hot springs',     '#fca5a5'],
-  'fishing'        : ['Fishing',         '#22d3ee'],
-  'winter-sport'   : ['Winter sport',    '#c7d2fe'],
-  'railroad'       : ['Railroad',        '#d8b4fe'],
-  'historic-site'  : ['Historic site',   '#cbb994'],
-  'food-drink'     : ['Food & drink',    '#ff9f6b'],
-  'festival-event' : ['Festival',        '#ff7ab8'],
-  'wilderness-lodge':['Wilderness lodge','#a3e635'],
-  'roadside-oddity': ['Roadside oddity', '#facc15'],
-  'volcano-geology': ['Volcano / geology','#ff7a6b'],
-  'ferry-route'    : ['Ferry',           '#60a5fa'],
-  'viewpoint'      : ['Viewpoint',       '#bef264'],
+// Colour says what KIND of day it is (5 families, not 23 hues).
+// The glyph says which category. The shape says how much it matters.
+const FAM = {
+  ice:     ['Ice & high country', '#7fd8ff'],
+  wild:    ['Wild Alaska',        '#6ee7a8'],
+  night:   ['Aurora, snow & steam','#a78bfa'],
+  journey: ['Ways to travel',     '#ffcf5c'],
+  people:  ['Towns & culture',    '#ff9e7a'],
 };
-const catColor = c => (CATS[c] || ['Other', '#8ea3bd'])[1];
-const catName  = c => (CATS[c] || ['Other', '#8ea3bd'])[0];
+const CATS = {
+  'glacier'         : ['Glacier & ice',    'ice'],
+  'volcano-geology' : ['Volcano & geology','ice'],
+  'viewpoint'       : ['Viewpoint',        'ice'],
+  'hike-trail'      : ['Hike & trail',     'ice'],
+  'national-park'   : ['National park',    'wild'],
+  'wildlife'        : ['Wildlife',         'wild'],
+  'fishing'         : ['Fishing',          'wild'],
+  'wilderness-lodge': ['Wilderness lodge', 'wild'],
+  'aurora'          : ['Aurora',           'night'],
+  'winter-sport'    : ['Winter sport',     'night'],
+  'hot-springs'     : ['Hot springs',      'night'],
+  'scenic-drive'    : ['Scenic drive',     'journey'],
+  'railroad'        : ['Railroad',         'journey'],
+  'ferry-route'     : ['Ferry',            'journey'],
+  'boat-cruise'     : ['Boat & cruise',    'journey'],
+  'flightseeing'    : ['Flightseeing',     'journey'],
+  'town-city'       : ['Town & city',      'people'],
+  'museum-culture'  : ['Museum',           'people'],
+  'native-culture'  : ['Native culture',   'people'],
+  'historic-site'   : ['Historic site',    'people'],
+  'food-drink'      : ['Food & drink',     'people'],
+  'festival-event'  : ['Festival',         'people'],
+  'roadside-oddity' : ['Roadside oddity',  'people'],
+};
+const catFam   = c => (CATS[c] || ['Other', 'ice'])[1];
+const catColor = c => FAM[catFam(c)][1];
+const catName  = c => (CATS[c] || ['Other'])[0];
 
 const ACCESS = {
   'road':['Drive to it','🚗'], 'rail':['Train','🚆'], 'ferry':['State ferry','⛴'],
@@ -56,6 +66,68 @@ const $$ = s => [...document.querySelectorAll(s)];
 const el = (t, c, h) => { const n = document.createElement(t); if (c) n.className = c; if (h != null) n.innerHTML = h; return n; };
 const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m]));
 const clamp = (v, a, b) => v < a ? a : v > b ? b : v;
+
+// ══════════════ iconography ══════════════
+// 23 glyphs drawn in a 24x24 box. Canvas for pins, memoised data-URIs for the DOM,
+// so the map and the sidebar teach the same visual language.
+function _l(c, pts, close) {
+  c.beginPath();
+  pts.forEach((p, i) => i ? c.lineTo(p[0], p[1]) : c.moveTo(p[0], p[1]));
+  if (close) c.closePath();
+  c.stroke();
+}
+function _d(c, x, y, r) { c.beginPath(); c.arc(x, y, r, 0, 7); c.fill(); }
+function _o(c, x, y, r) { c.beginPath(); c.arc(x, y, r, 0, 7); c.stroke(); }
+
+const ICONS = {
+  'national-park': c => { _l(c, [[2.5, 19.5], [21.5, 19.5]]); _l(c, [[4, 19.5], [9.5, 8.5], [13.5, 16]]); _l(c, [[11.5, 19.5], [15.5, 11], [20.5, 19.5]]); },
+  'glacier': c => { _l(c, [[12, 4], [4.5, 15], [19.5, 15]], 1); _l(c, [[3, 18.6], [6.5, 20.4], [10, 18.6], [13.5, 20.4], [17, 18.6], [20.5, 20.4]]); },
+  'viewpoint': c => { _o(c, 7.5, 15, 3.6); _o(c, 16.5, 15, 3.6); _l(c, [[10.4, 13.5], [13.6, 13.5]]); _l(c, [[6, 11.4], [7.6, 6.5], [10, 6.5]]); _l(c, [[18, 11.4], [16.4, 6.5], [14, 6.5]]); },
+  'hike-trail': c => { _d(c, 13, 5.4, 2); _l(c, [[13, 7.8], [10.6, 13.2], [13.4, 16.2]]); _l(c, [[10.6, 13.2], [6.5, 11.2]]); _l(c, [[13.4, 16.2], [10.2, 20.5]]); _l(c, [[13.4, 16.2], [16.4, 20.5]]); _l(c, [[18, 6.5], [18, 20.5]]); },
+  'volcano-geology': c => { _l(c, [[3, 20], [9.5, 9], [14.5, 9], [21, 20]], 1); _l(c, [[10.5, 6.5], [12, 3.5], [13.5, 6.5]]); _d(c, 16.5, 4.5, 1.1); _d(c, 8, 5, 1.1); },
+  'wildlife': c => { _d(c, 12, 15.6, 4.3); _d(c, 6.4, 11.2, 2.1); _d(c, 9.9, 8.4, 2.1); _d(c, 14.1, 8.4, 2.1); _d(c, 17.6, 11.2, 2.1); },
+  'fishing': c => { c.beginPath(); c.moveTo(4, 12); c.bezierCurveTo(8, 6.5, 15, 6.5, 18.5, 12); c.bezierCurveTo(15, 17.5, 8, 17.5, 4, 12); c.closePath(); c.stroke(); _l(c, [[18.5, 12], [22, 8], [22, 16]], 1); _d(c, 8, 11, 1.1); },
+  'wilderness-lodge': c => { _l(c, [[2.5, 12], [12, 4.5], [21.5, 12]]); _l(c, [[5, 11], [5, 20], [19, 20], [19, 11]]); _l(c, [[10, 20], [10, 14.5], [14, 14.5], [14, 20]]); },
+  'aurora': c => { c.beginPath(); c.moveTo(3, 17); c.quadraticCurveTo(8, 3, 12, 11); c.quadraticCurveTo(16, 19, 21, 6); c.stroke(); c.beginPath(); c.moveTo(4, 21); c.quadraticCurveTo(9, 8, 13, 15); c.quadraticCurveTo(17, 22, 21, 12); c.stroke(); },
+  'winter-sport': c => { for (let i = 0; i < 3; i++) { const a = i * Math.PI / 3; _l(c, [[12 - Math.cos(a) * 8.5, 12 - Math.sin(a) * 8.5], [12 + Math.cos(a) * 8.5, 12 + Math.sin(a) * 8.5]]); } _l(c, [[8.6, 5.4], [12, 7.4], [15.4, 5.4]]); _l(c, [[8.6, 18.6], [12, 16.6], [15.4, 18.6]]); },
+  'hot-springs': c => { _l(c, [[3, 18.5], [21, 18.5]]); _l(c, [[3, 21.5], [21, 21.5]]); [7.5, 12, 16.5].forEach(x => { c.beginPath(); c.moveTo(x, 15); c.bezierCurveTo(x - 3, 11, x + 3, 8, x, 3.5); c.stroke(); }); },
+  'scenic-drive': c => { _l(c, [[6.5, 21.5], [9.5, 3]]); _l(c, [[17.5, 21.5], [14.5, 3]]); c.save(); c.setLineDash([3.2, 3.4]); _l(c, [[12, 21], [12, 3.5]]); c.restore(); },
+  'railroad': c => { _l(c, [[6.5, 21.5], [6.5, 3]]); _l(c, [[17.5, 21.5], [17.5, 3]]); [5, 9.5, 14, 18.5].forEach(y => _l(c, [[3.5, y], [20.5, y]])); },
+  'ferry-route': c => { _l(c, [[3, 15], [21, 15], [18, 20], [6, 20]], 1); _l(c, [[7, 15], [7, 9], [17, 9], [17, 15]]); _l(c, [[10, 9], [10, 5], [14, 5]]); },
+  'boat-cruise': c => { _l(c, [[4, 15.5], [20, 15.5], [16.5, 20.5], [7.5, 20.5]], 1); _l(c, [[12, 15.5], [12, 3.5]]); _l(c, [[12.8, 5], [18, 13], [12.8, 13]], 1); },
+  'flightseeing': c => { _l(c, [[12, 2.5], [13.4, 9.5], [21.5, 14], [21.5, 16], [13.4, 13.8], [12.9, 19], [15.6, 21], [15.6, 22], [12, 20.8], [8.4, 22], [8.4, 21], [11.1, 19], [10.6, 13.8], [2.5, 16], [2.5, 14], [10.6, 9.5]], 1); },
+  'town-city': c => { _l(c, [[2.5, 20.5], [21.5, 20.5]]); _l(c, [[4, 20.5], [4, 11], [10, 11], [10, 20.5]]); _l(c, [[10, 20.5], [10, 5], [17, 5], [17, 20.5]]); _d(c, 13.5, 9, 1); _d(c, 13.5, 13.5, 1); _d(c, 7, 15, 1); },
+  'museum-culture': c => { _l(c, [[2.5, 9], [12, 3.5], [21.5, 9]]); _l(c, [[2.5, 20.5], [21.5, 20.5]]); [6.5, 12, 17.5].forEach(x => _l(c, [[x, 10], [x, 18.5]])); _l(c, [[4, 18.5], [20, 18.5]]); },
+  'native-culture': c => { _l(c, [[9, 3.5], [15, 3.5], [15, 20.5], [9, 20.5]], 1); _l(c, [[9, 9], [12, 11], [15, 9]]); _l(c, [[9, 15], [12, 17], [15, 15]]); _l(c, [[9, 6.5], [3.5, 9]]); _l(c, [[15, 6.5], [20.5, 9]]); },
+  'historic-site': c => { _l(c, [[4, 20.5], [15, 8.5]]); c.beginPath(); c.moveTo(10.5, 6.5); c.quadraticCurveTo(16, 2, 21, 7.5); c.stroke(); _l(c, [[13.5, 4.2], [17.5, 11]]); },
+  'food-drink': c => { _l(c, [[5, 9], [5, 17.5], [15, 17.5], [15, 9]], 1); c.beginPath(); c.moveTo(15, 10.5); c.quadraticCurveTo(20.5, 10.5, 20.5, 13.5); c.quadraticCurveTo(20.5, 16.5, 15, 16.5); c.stroke(); _l(c, [[7.5, 6.5], [7.5, 3.5]]); _l(c, [[12, 6.5], [12, 3.5]]); },
+  'festival-event': c => { for (let i = 0; i < 8; i++) { const a = i * Math.PI / 4; _l(c, [[12 + Math.cos(a) * 3.5, 12 + Math.sin(a) * 3.5], [12 + Math.cos(a) * 9, 12 + Math.sin(a) * 9]]); } _o(c, 12, 12, 2.2); },
+  'roadside-oddity': c => { _l(c, [[12, 4], [12, 21]]); _l(c, [[12, 6], [20, 6], [18, 9], [12, 9]], 1); _l(c, [[12, 12.5], [4, 12.5], [6, 15.5], [12, 15.5]], 1); },
+};
+function drawIcon(c, cat, x, y, size, color, lw) {
+  const f = ICONS[cat] || ICONS['viewpoint'];
+  c.save();
+  c.translate(x - size / 2, y - size / 2);
+  c.scale(size / 24, size / 24);
+  c.strokeStyle = color; c.fillStyle = color;
+  c.lineWidth = (lw || 2) * 24 / size;
+  c.lineCap = 'round'; c.lineJoin = 'round';
+  f(c);
+  c.restore();
+}
+const _iconCache = {};
+function iconURL(cat, color, px) {
+  const key = cat + color + px;
+  if (_iconCache[key]) return _iconCache[key];
+  const cn = document.createElement('canvas');
+  cn.width = cn.height = px * 2;
+  const c = cn.getContext('2d');
+  c.scale(2, 2);
+  drawIcon(c, cat, px / 2, px / 2, px * .92, color, 2.1);
+  return (_iconCache[key] = cn.toDataURL());
+}
+const iconImg = (cat, size, color) =>
+  '<img class="gly" src="' + iconURL(cat, color || catColor(cat), size || 13) + '" alt="" width="' + (size || 13) + '" height="' + (size || 13) + '">';
 
 // ══════════════ projection: Alaska Albers ══════════════
 const RAD = Math.PI / 180, R_KM = 6371;
@@ -343,7 +415,7 @@ function drawGrid() {
   }
 }
 
-function pinR(a) { return 2.6 + Math.pow(clamp(a.imp, 20, 100) / 100, 2.4) * 7.4; }
+function pinR(a) { return a._small ? 2.2 : a.tier === 1 ? 12.5 : a.tier === 2 ? 9 : a.tier === 3 ? 4 : 2.6; }
 function pass(a) {
   if (!F.cats.has(a.cat) || !F.tiers.has(a.tier) || !F.regions.has(a.region) || !F.access.has(a.access)) return false;
   if (F.kid && !a.kid) return false;
@@ -360,7 +432,7 @@ function drawPins() {
   for (const a of A) {
     a._sx = sx(a._p[0]); a._sy = sy(a._p[1]); a._vis = 0;
     if (a._sx < -30 || a._sx > W + 30 || a._sy < -30 || a._sy > H + 30) continue;
-    const ok = pass(a);
+    const ok = pass(a) && (a.tier <= 2 || view.k > (a.tier === 3 ? 800 : 1500));
     if (!ok && !F.showFiltered) continue;
     a._ok = ok; a._season = inSeason(a);
     shown.push(a);
@@ -381,31 +453,63 @@ function drawPins() {
   shown.sort((a, b) => a.imp - b.imp);
 
   for (const a of shown) {
-    const r = a._small ? 2.4 : pinR(a), c = catColor(a.cat);
-    const off = !a._ok, dim = F.seasonDim && !a._season;
+    const c = catColor(a.cat), off = !a._ok, dim = F.seasonDim && !a._season;
     if (off) {
-      ctx2.globalAlpha = .16; ctx2.fillStyle = c;
-      ctx2.beginPath(); ctx2.arc(a._sx, a._sy, 1.7, 0, 7); ctx2.fill();
-      ctx2.globalAlpha = 1; continue;
+      ctx2.globalAlpha = .14; ctx2.fillStyle = '#8fa6c2';
+      _d(ctx2, a._sx, a._sy, 1.6); ctx2.globalAlpha = 1; continue;
     }
     a._vis = 1;
-    ctx2.globalAlpha = dim ? .3 : 1;
-    if (a.tier === 1 && !dim && !a._small) {
-      ctx2.beginPath(); ctx2.arc(a._sx, a._sy, r + 5.5, 0, 7);
-      ctx2.fillStyle = c + '22'; ctx2.fill();
+    ctx2.globalAlpha = dim ? .28 : 1;
+    const X = a._sx, Y = a._sy;
+    if (a._small) {                                   // decluttered: quiet dot
+      ctx2.fillStyle = c; ctx2.globalAlpha = dim ? .2 : .55;
+      _d(ctx2, X, Y, 2.2);
+    } else if (a.tier === 1) {                        // benchmark disc
+      const R = 12.5;
+      ctx2.beginPath(); ctx2.arc(X, Y, R + 4, 0, 7);
+      ctx2.fillStyle = c + '1c'; ctx2.fill();
+      ctx2.beginPath(); ctx2.arc(X, Y, R, 0, 7);
+      ctx2.fillStyle = '#080e18'; ctx2.fill();
+      ctx2.lineWidth = 1.7; ctx2.strokeStyle = c; ctx2.stroke();
+      ctx2.lineWidth = 1; ctx2.strokeStyle = c + '77';   // survey-mark ticks
+      for (let i = 0; i < 8; i++) {
+        const ang = i * Math.PI / 4;
+        ctx2.beginPath();
+        ctx2.moveTo(X + Math.cos(ang) * (R + 1.4), Y + Math.sin(ang) * (R + 1.4));
+        ctx2.lineTo(X + Math.cos(ang) * (R + 3.4), Y + Math.sin(ang) * (R + 3.4));
+        ctx2.stroke();
+      }
+      drawIcon(ctx2, a.cat, X, Y, 15, c, 2.1);
+    } else if (a.tier === 2) {                        // ringed chip
+      const R = 9;
+      ctx2.beginPath(); ctx2.arc(X, Y, R, 0, 7);
+      ctx2.fillStyle = '#0a111c'; ctx2.fill();
+      ctx2.lineWidth = 1.4; ctx2.strokeStyle = c; ctx2.stroke();
+      drawIcon(ctx2, a.cat, X, Y, 11, c, 2.4);
+    } else if (a.tier === 3) {                        // dot with a hairline
+      ctx2.fillStyle = c; ctx2.globalAlpha = dim ? .28 : .82;
+      _d(ctx2, X, Y, 4);
+      ctx2.globalAlpha = dim ? .28 : 1;
+      ctx2.lineWidth = 1; ctx2.strokeStyle = 'rgba(6,11,20,.8)'; _o(ctx2, X, Y, 4);
+    } else {                                          // tier 4: texture only
+      ctx2.fillStyle = c; ctx2.globalAlpha = dim ? .18 : .45;
+      _d(ctx2, X, Y, 2.6);
     }
-    ctx2.beginPath(); ctx2.arc(a._sx, a._sy, r, 0, 7);
-    ctx2.fillStyle = c; ctx2.fill();
-    ctx2.lineWidth = 1.1; ctx2.strokeStyle = 'rgba(4,8,15,.78)'; ctx2.stroke();
-    if (a.tier === 1 && !a._small) { ctx2.beginPath(); ctx2.arc(a._sx, a._sy, r - 2.4, 0, 7); ctx2.fillStyle = 'rgba(4,8,15,.55)'; ctx2.fill(); }
     ctx2.globalAlpha = 1;
     const ti = trip.indexOf(a.id);
     if (ti >= 0) {
-      ctx2.beginPath(); ctx2.arc(a._sx, a._sy, r + 4, 0, 7);
-      ctx2.strokeStyle = '#52ffb8'; ctx2.lineWidth = 1.6; ctx2.stroke();
-      ctx2.font = '700 8px ' + FONT; ctx2.fillStyle = '#52ffb8'; ctx2.textAlign = 'center';
-      ctx2.fillText(ti + 1, a._sx, a._sy - r - 6); ctx2.textAlign = 'left';
+      const R = pinR(a) + 4;
+      ctx2.beginPath(); ctx2.arc(X, Y, R, 0, 7);
+      ctx2.strokeStyle = '#52ffb8'; ctx2.lineWidth = 1.6; ctx2.setLineDash([]); ctx2.stroke();
+      ctx2.font = '700 9px ' + FONT; ctx2.textAlign = 'center';
+      ctx2.lineWidth = 3; ctx2.strokeStyle = 'rgba(5,9,16,.9)';
+      ctx2.strokeText(ti + 1, X, Y - R - 4); ctx2.fillStyle = '#52ffb8';
+      ctx2.fillText(ti + 1, X, Y - R - 4); ctx2.textAlign = 'left';
     }
+  }
+  if (hov && hov._vis) {
+    ctx2.beginPath(); ctx2.arc(hov._sx, hov._sy, pinR(hov) + 5, 0, 7);
+    ctx2.strokeStyle = 'rgba(255,255,255,.75)'; ctx2.lineWidth = 1.4; ctx2.stroke();
   }
   // selection pulse
   if (sel) {
@@ -528,14 +632,14 @@ function hit(x, y) {
   for (const a of A) {
     if (!a._vis) continue;
     const d = (a._sx - x) ** 2 + (a._sy - y) ** 2;
-    const rr = Math.max(a._small ? 6 : 9, (a._small ? 3.5 : pinR(a)) + 5) ** 2;
+    const rr = Math.max(8, pinR(a) + 4) ** 2;
     if (d < Math.min(bd, rr)) { bd = d; best = a; }
   }
   return best;
 }
 const tip = $('#tip');
 function showTip(a, x, y) {
-  tip.innerHTML = '<div class="t" style="color:' + catColor(a.cat) + '">' + esc(a.name) + '</div>' +
+  tip.innerHTML = '<div class="t" style="color:' + catColor(a.cat) + '">' + iconImg(a.cat, 13) + esc(a.name) + '</div>' +
     '<div class="b">' + esc(a.blurb) + '</div>' +
     '<div class="m">#' + a.rank + ' · ' + esc(catName(a.cat)) + ' · ' + a.imp + '/100' + (a._season ? '' : ' · off-season') + '</div>';
   tip.classList.add('on'); moveTip(x, y);
@@ -570,7 +674,7 @@ function renderDetail(a) {
     '<h3>' + esc(a.name) + '</h3>' +
     '<div class="sub">' +
     '<span class="pill solid" style="background:' + t[1] + '">#' + a.rank + ' · ' + t[0] + '</span>' +
-    '<span class="pill" style="color:' + col + ';border-color:' + col + '66">' + esc(catName(a.cat)) + '</span>' +
+    '<span class="pill" style="color:' + col + ';border-color:' + col + '66">' + iconImg(a.cat, 11, col) + esc(catName(a.cat)) + '</span>' +
     '<span class="pill">' + esc(a.region) + '</span></div></div>' +
     '<div class="dbody">' +
     '<p class="bl">' + esc(a.blurb) + '</p>' +
@@ -593,7 +697,7 @@ function renderDetail(a) {
     (a.url ? '<a href="' + esc(a.url) + '" target="_blank" rel="noopener">Info ↗</a>' : '') +
     '</div>' +
     '<div class="near"><h5>Nearby</h5>' + near.map(n =>
-      '<a data-go="' + esc(n.x.id) + '"><i style="width:7px;height:7px;border-radius:50%;background:' + catColor(n.x.cat) + '"></i>' +
+      '<a data-go="' + esc(n.x.id) + '">' + iconImg(n.x.cat, 12) +
       esc(n.x.name) + '<span class="d">' + (n.d < 10 ? n.d.toFixed(1) : Math.round(n.d)) + ' km</span></a>').join('') + '</div>' +
     '</div>';
   d.classList.add('on');
@@ -635,11 +739,13 @@ function renderList() {
     const off = F.month && !inSeason(a);
     n.innerHTML = '<div class="rk">' + a.rank + '</div><div><div class="nm"' + (off ? ' style="opacity:.5"' : '') + '>' + esc(a.name) +
       (off ? ' <span style="color:var(--salmon);font-size:9px">off-season</span>' : '') + '</div>' +
-      '<div class="mt"><i class="cd" style="background:' + catColor(a.cat) + '"></i>' + esc(catName(a.cat)) +
+      '<div class="mt">' + iconImg(a.cat, 12) + esc(catName(a.cat)) +
       ' · ' + esc(a.region) + ' · ' + fmtH(a.hours) + '</div></div>' +
       '<div class="sc" style="color:' + (TIER[a.tier] || TIER[4])[1] + '">' + a.imp + '</div>' +
       '<button class="add" title="Add to trip">' + (trip.includes(a.id) ? '✓' : '+') + '</button>';
     n.onclick = e => { if (e.target.classList.contains('add')) { toggleTrip(a.id); e.stopPropagation(); } else select(a.id); };
+    n.onmouseenter = () => { hov = a; draw(); };
+    n.onmouseleave = () => { if (hov === a) { hov = null; draw(); } };
     frag.appendChild(n);
   }
   box.innerHTML = ''; box.appendChild(frag);
@@ -667,12 +773,54 @@ function countBy(f) { const m = {}; A.forEach(a => { const k = f(a); m[k] = (m[k
 function buildFilters() {
   const cc = countBy(a => a.cat), rc = countBy(a => a.region), ac = countBy(a => a.access), tc = countBy(a => a.tier);
   const refresh = () => { buildFilters(); apply(); };
-  chipRow($('#fCats'), Object.keys(CATS).filter(k => cc[k]).sort((a, b) => cc[b] - cc[a]).map(k => [k, catName(k), cc[k]]), F.cats, catColor, refresh);
+  buildCatChips(cc, refresh);
   chipRow($('#fRegions'), REGION_ORDER.filter(k => rc[k]).map(k => [k, k, rc[k]]), F.regions, null, refresh);
   chipRow($('#fAccess'), Object.keys(ACCESS).filter(k => ac[k]).map(k => [k, ACCESS[k][0], ac[k]]), F.access, null, refresh);
   chipRow($('#fTiers'), [1, 2, 3, 4].filter(k => tc[k]).map(k => [k, TIER[k][0], tc[k]]), F.tiers, k => TIER[k][1], refresh);
   $('#tagCats').textContent = F.cats.size + '/' + Object.keys(cc).length;
   $('#tagRegions').textContent = F.regions.size + '/' + Object.keys(rc).length;
+}
+function buildCatChips(cc, refresh) {
+  const host = $('#fCats'); host.innerHTML = '';
+  Object.keys(FAM).forEach(fk => {
+    const cats = Object.keys(CATS).filter(k => catFam(k) === fk && cc[k]);
+    if (!cats.length) return;
+    const col = FAM[fk][1], n = cats.reduce((s, k) => s + cc[k], 0);
+    const on = cats.every(k => F.cats.has(k));
+    const head = el('div', 'famhead');
+    head.innerHTML = '<i style="background:' + col + '"></i><b>' + FAM[fk][0] + '</b><span>' + n + '</span>';
+    head.title = on ? 'Hide this family' : 'Show this family';
+    head.onclick = () => { cats.forEach(k => on ? F.cats.delete(k) : F.cats.add(k)); refresh(); };
+    host.appendChild(head);
+    const row = el('div', 'chips');
+    cats.sort((a, b) => cc[b] - cc[a]).forEach(k => {
+      const c = el('button', 'chip' + (F.cats.has(k) ? ' on' : ''));
+      if (F.cats.has(k)) c.style.background = col;
+      c.innerHTML = iconImg(k, 12, F.cats.has(k) ? '#07101c' : col) + catName(k) + '<span class="ct">' + cc[k] + '</span>';
+      c.onclick = e => {
+        if (e.shiftKey || e.metaKey) { F.cats.clear(); F.cats.add(k); }
+        else F.cats.has(k) ? F.cats.delete(k) : F.cats.add(k);
+        refresh();
+      };
+      row.appendChild(c);
+    });
+    host.appendChild(row);
+  });
+}
+function buildLegend() {
+  $('#legendBody').innerHTML =
+    '<h4>What matters</h4>' +
+    '<div class="lg"><b class="mk disc"></b>Bucket list — go out of your way</div>' +
+    '<div class="lg"><b class="mk chip"></b>Major — worth a half day</div>' +
+    '<div class="lg"><b class="mk dot"></b>Worth it / if nearby</div>' +
+    '<h4 style="margin-top:9px">Kind of day</h4>' +
+    Object.keys(FAM).map(fk => '<div class="lg"><i style="background:' + FAM[fk][1] + '"></i>' + FAM[fk][0] + '</div>').join('') +
+    '<h4 style="margin-top:9px">On the ground</h4>' +
+    '<div class="lg"><span class="ln" style="border-color:#ffcd6e"></span>Highway</div>' +
+    '<div class="lg"><span class="ln" style="border-color:#a78bfa;border-top-style:dashed"></span>Alaska Railroad</div>' +
+    '<div class="lg"><span class="ln" style="border-color:#7fd8ff;border-top-style:dotted"></span>Ferry (AMHS)</div>' +
+    '<div class="lg"><i style="background:rgba(150,225,255,.5);border-radius:2px"></i>Glacier &amp; icefield</div>' +
+    '<div class="lg"><i style="background:rgba(74,222,128,.32);border-radius:2px"></i>National park</div>';
 }
 function apply() { renderList(); draw(); syncHash(); }
 
@@ -1033,7 +1181,7 @@ function boot() {
   window.addEventListener('resize', resize);
 
   suppressHash = true; readHash(); suppressHash = false;
-  buildFilters(); buildLayers(); renderMonths(); renderList(); renderTrip();
+  buildFilters(); buildLegend(); buildLayers(); renderMonths(); renderList(); renderTrip();
   $('#hTotal').textContent = A.length;
   auroraHeader();
   resize(); fitAll();

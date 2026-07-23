@@ -334,3 +334,24 @@ main{position:relative;overflow:hidden;background:#04070d}
 #layerPop{display:none;background:var(--panel);backdrop-filter:blur(12px);border:1px solid var(--line2);
   border-radius:var(--r);padding:8px 11px;box-shadow:var(--shadow);min-width:172px}
 #layerPop .switch{font-size:11px}
+
+/* glyphs + family-grouped filters + legend keys */
+.gly{display:inline-block;vertical-align:-2px;flex-shrink:0;opacity:.95}
+.chip .gly{margin-right:1px}
+.famhead{display:flex;align-items:center;gap:6px;margin:9px 0 5px;cursor:pointer;
+  font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--tx3);user-select:none}
+.famhead:first-child{margin-top:2px}
+.famhead:hover{color:var(--tx2)}
+.famhead i{width:8px;height:8px;border-radius:2px;flex-shrink:0}
+.famhead b{font-weight:600;letter-spacing:.1em}
+.famhead span{margin-left:auto;font-family:var(--mono);font-size:9px;opacity:.7}
+.item .mt .gly{opacity:.8}
+#tip .t .gly{margin-right:4px}
+.pill .gly{margin-right:3px;vertical-align:-1.5px}
+.near a .gly{opacity:.85}
+.legend .mk{display:inline-block;flex-shrink:0;box-sizing:border-box}
+.legend .mk.disc{width:13px;height:13px;border-radius:50%;border:1.6px solid var(--tx);background:#080e18;
+  box-shadow:0 0 0 2.5px rgba(228,237,247,.14)}
+.legend .mk.chip{width:10px;height:10px;border-radius:50%;border:1.4px solid var(--tx2);background:#0a111c}
+.legend .mk.dot{width:7px;height:7px;border-radius:50%;background:var(--tx2)}
+.legend{max-width:224px}
