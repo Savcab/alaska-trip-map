@@ -230,9 +230,18 @@ def normalize(raw):
         out.append(a)
 
     out.sort(key=lambda x: (-x['imp'], x['name']))
+    # Tiers are relative labels, not absolute scores: keep the top of the map legible
+    # even if the researchers scored generously or stingily.
+    def band(lo, hi, n):
+        return max(lo, min(hi, n))
+    n1 = band(22, 40, sum(1 for a in out if a['imp'] >= 86))
+    n2 = n1 + band(55, 110, sum(1 for a in out if 72 <= a['imp'] < 86))
+    n3 = n2 + band(90, 210, sum(1 for a in out if 55 <= a['imp'] < 72))
     for i, a in enumerate(out):
         a['rank'] = i + 1
-        a['tier'] = 1 if a['imp'] >= 88 else 2 if a['imp'] >= 72 else 3 if a['imp'] >= 50 else 4
+        a['tier'] = 1 if i < n1 else 2 if i < n2 else 3 if i < n3 else 4
+    print('  tiers: %d bucket-list / %d major / %d worth it / %d if nearby'
+          % (n1, n2 - n1, n3 - n2, len(out) - n3))
     return out
 
 

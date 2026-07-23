@@ -211,9 +211,10 @@ function fitAll() {
   fit(main.flatMap(r => [[r.b[0], r.b[1]], [r.b[2], r.b[3]]]), 0.94);
 }
 function fitEverything() { fit(GL.land.flatMap(r => [[r.b[0], r.b[1]], [r.b[2], r.b[3]]]), 0.95); }
+const REDUCED = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 function flyTo(x, y, k, instant) {
   k = clamp(k, 180, 60000);
-  if (instant) { view.x = x; view.y = y; view.k = k; draw(); return; }
+  if (instant || REDUCED) { view.x = x; view.y = y; view.k = k; draw(); return; }
   const s = { x: view.x, y: view.y, k: view.k }, t0 = performance.now(), D = 480;
   cancelAnimationFrame(anim);
   (function step(t) {
@@ -1059,6 +1060,11 @@ function help() {
     '<p>' + A.length + ' places worth your time, ranked 1–' + A.length + ' by a single importance score. ' +
     'Everything is client-side: the coastline, the icefields, the park boundaries and the highways are real geometry, ' +
     'projected in Alaska Albers.</p>' +
+    '<h3>Reading the map</h3><ul>' +
+    '<li><b>Shape is how much it matters.</b> A ringed disc is bucket-list, a small ringed chip is major, a plain dot is worth-it-if-nearby. Dots appear as you zoom in.</li>' +
+    '<li><b>Colour is what kind of day it is</b> — ice &amp; high country, wild Alaska, aurora &amp; snow, ways to travel, towns &amp; culture.</li>' +
+    '<li><b>The glyph is the category</b> — bear paw, iceberg, plane, totem, pickaxe. The same glyphs label the filters and the list.</li>' +
+    '<li>When two places sit on top of each other the lower-ranked one shrinks to a dot. Zoom in and it comes back.</li></ul>' +
     '<h3>Use it like this</h3><ul>' +
     '<li>Filter by <b>category / tier / region / access</b> — shift-click a chip to isolate it.</li>' +
     '<li>Pick a <b>month</b> at the bottom: off-season places dim, daylight and aurora odds update.</li>' +
@@ -1112,7 +1118,7 @@ function readHash() {
 // ══════════════ aurora header ══════════════
 function auroraHeader() {
   const c = $('#auroraCanvas'), x = c.getContext('2d');
-  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  if (REDUCED) return;
   let t = 0, w, h;
   const rs = () => { const r = c.getBoundingClientRect(); w = c.width = r.width * 2; h = c.height = r.height * 2; };
   rs(); window.addEventListener('resize', rs);

@@ -355,3 +355,9 @@ main{position:relative;overflow:hidden;background:#04070d}
 .legend .mk.chip{width:10px;height:10px;border-radius:50%;border:1.4px solid var(--tx2);background:#0a111c}
 .legend .mk.dot{width:7px;height:7px;border-radius:50%;background:var(--tx2)}
 .legend{max-width:224px}
+
+/* quality floor: visible focus, reduced motion */
+:focus-visible{outline:2px solid var(--aurora);outline-offset:2px;border-radius:6px}
+@media (prefers-reduced-motion: reduce){
+  *,*:before,*:after{animation-duration:.01ms !important;transition-duration:.01ms !important}
+}
