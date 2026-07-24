@@ -1,0 +1,173 @@
+{
+  "itineraries": [
+    {
+      "id": "classic-10",
+      "name": "The Classic 10-Day Road Trip",
+      "days": 10,
+      "season": "Jun-Aug",
+      "budget": "$$",
+      "style": "road trip",
+      "who": "first-timers with a rental car",
+      "summary": "Anchorage → Kenai Fjords → Denali → Fairbanks. The three things everyone comes for, at a humane pace.",
+      "why": "Hits a tidewater-glacier cruise, the Kenai, and Denali without backtracking or bush flights.",
+      "attractions": [
+        "Anchorage Museum at Rasmuson Center",
+        "Seward Highway",
+        "Kenai Fjords National Park Day Cruise",
+        "Exit Glacier",
+        "Alaska Wildlife Conservation Center",
+        "Talkeetna",
+        "Denali National Park & Preserve",
+        "Denali Park Road",
+        "University of Alaska Museum of the North",
+        "Chena Hot Springs Resort"
+      ]
+    },
+    {
+      "id": "kenai-7",
+      "name": "7-Day Kenai + Anchorage",
+      "days": 7,
+      "season": "Jun-Aug",
+      "budget": "$$",
+      "style": "road trip",
+      "who": "short on time, want glaciers + wildlife",
+      "summary": "Stay south of Anchorage: fjords, glaciers, halibut, and the Homer Spit. Minimal driving, maximum coast.",
+      "why": "Everything is a day trip from Seward or Homer — no long transit days.",
+      "attractions": [
+        "Seward Highway - Turnagain Arm",
+        "Alaska Wildlife Conservation Center",
+        "Kenai Fjords National Park Day Cruise",
+        "Exit Glacier",
+        "Alaska SeaLife Center",
+        "Homer Spit",
+        "Kachemak Bay State Park",
+        "Homer Halibut Charters"
+      ]
+    },
+    {
+      "id": "ultimate-14",
+      "name": "14-Day Ultimate Summer",
+      "days": 14,
+      "season": "Jun-Aug",
+      "budget": "$$$",
+      "style": "road trip + one bush flight",
+      "who": "want the whole picture in one trip",
+      "summary": "The classic loop plus Wrangell-St. Elias, Valdez over Thompson Pass, and a day of bears at Brooks Falls.",
+      "why": "Adds the biggest national park in the country and a bear-viewing fly-in to the standard circuit.",
+      "attractions": [
+        "Kenai Fjords National Park Day Cruise",
+        "Exit Glacier",
+        "Homer Spit",
+        "Talkeetna Denali Flightseeing & Glacier Landing",
+        "Denali National Park & Preserve",
+        "Denali Park Road",
+        "University of Alaska Museum of the North",
+        "Chena Hot Springs Resort",
+        "Matanuska Glacier",
+        "Kennecott Mines National Historic Landmark",
+        "Root Glacier Trail",
+        "Valdez",
+        "Brooks Falls"
+      ]
+    },
+    {
+      "id": "aurora-5",
+      "name": "5-Day Winter Aurora",
+      "days": 5,
+      "season": "late Aug-Apr",
+      "budget": "$$",
+      "style": "winter, Fairbanks base",
+      "who": "here for the northern lights",
+      "summary": "Fairbanks base camp: soak at Chena under the aurora, mush dogs, ride the winter train, chase clear skies.",
+      "why": "Fairbanks sits under the auroral oval and stays clear more nights than the coast.",
+      "attractions": [
+        "Fairbanks",
+        "Chena Hot Springs Resort",
+        "University of Alaska Museum of the North",
+        "Alaska Railroad Aurora Winter Train",
+        "Chena River State Recreation Area",
+        "Riverboat Discovery"
+      ]
+    },
+    {
+      "id": "inside-passage-7",
+      "name": "7-Day Inside Passage",
+      "days": 7,
+      "season": "May-Sep",
+      "budget": "$$",
+      "style": "ferry + towns, no car needed",
+      "who": "want Southeast without a cruise ship",
+      "summary": "Ride the state ferry between Ketchikan, Sitka, Juneau and Skagway — totems, whales, the icefield, the gold-rush railroad.",
+      "why": "The AMHS ferry lets you do the Inside Passage independently and cheaply, one town at a time.",
+      "attractions": [
+        "Ketchikan",
+        "Sitka National Historical Park",
+        "Juneau",
+        "Mendenhall Glacier & Visitor Center",
+        "Glacier Bay National Park - Bartlett Cove",
+        "Skagway",
+        "White Pass & Yukon Route Railroad"
+      ]
+    },
+    {
+      "id": "bears-10",
+      "name": "10-Day Bears & Bush Planes",
+      "days": 10,
+      "season": "Jul + Sep",
+      "budget": "$$$$",
+      "style": "fly-in wilderness",
+      "who": "photographers, bear people, splurgers",
+      "summary": "Brooks Falls, Silver Salmon Creek, and Kodiak — the three great brown-bear stages, reached by float plane.",
+      "why": "July and September are the salmon-run peaks when the bears line up at the falls.",
+      "attractions": [
+        "Brooks Falls",
+        "Silver Salmon Creek",
+        "Homer Bear-Viewing Flights (Katmai / Lake Clark)",
+        "Kodiak",
+        "Kodiak National Wildlife Refuge Visitor Center",
+        "Homer Spit"
+      ]
+    },
+    {
+      "id": "wrangell-8",
+      "name": "8-Day Wrangell-St. Elias & Valdez",
+      "days": 8,
+      "season": "Jun-Sep",
+      "budget": "$$",
+      "style": "backroads road trip",
+      "who": "want wild country without crowds",
+      "summary": "The empty side of Alaska: Matanuska Glacier, the McCarthy Road, Kennecott's copper ruins, and Valdez over Thompson Pass.",
+      "why": "The biggest park in the US, almost no people, and the most dramatic paved pass in the state.",
+      "attractions": [
+        "Matanuska Glacier",
+        "Glennallen",
+        "Wrangell-St. Elias National Park & Preserve",
+        "McCarthy Road",
+        "Kennecott Mines National Historic Landmark",
+        "Root Glacier Trail",
+        "Thompson Pass",
+        "Valdez",
+        "Columbia Glacier cruise"
+      ]
+    },
+    {
+      "id": "budget-6",
+      "name": "6-Day Budget & Camping",
+      "days": 6,
+      "season": "Jun-Aug",
+      "budget": "$",
+      "style": "camp + hike, one car",
+      "who": "doing Alaska cheap",
+      "summary": "Free glaciers, state-park campgrounds, and one splurge cruise. Sleep in the car or a tent, skip the tour buses.",
+      "why": "Exit Glacier, Portage, and Hatcher Pass are free; camping beats $250 hotel nights.",
+      "attractions": [
+        "Seward Highway - Turnagain Arm",
+        "Portage Glacier & Begich, Boggs Visitor Center",
+        "Exit Glacier",
+        "Kenai Fjords National Park Day Cruise",
+        "Hatcher Pass",
+        "Independence Mine State Historical Park"
+      ]
+    }
+  ]
+}

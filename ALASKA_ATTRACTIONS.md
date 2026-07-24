@@ -1,6 +1,6 @@
 # Alaska — everything worth seeing, ranked
 
-*611 places, coordinate-verified, scored 1–100 for a first-time visitor. Generated 2026-07-22.*
+*611 places, coordinate-verified, scored 1–100 for a first-time visitor. Generated 2026-07-23.*
 
 Interactive map: **[the map](https://savcab.github.io/alaska-trip-map/)** — filter by season, category and access, then build a route.
 
@@ -2547,18 +2547,215 @@ Tiers are relative, not absolute: the top of the list is capped so the map stays
 
 | Month | Daylight ANC | High ANC °F | Aurora | Crowds | Price | Notes |
 |---|--:|--:|--:|--:|--:|---|
-| Jan | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
-| Feb | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
-| Mar | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
-| Apr | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
-| May | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
-| Jun | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
-| Jul | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
-| Aug | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
-| Sep | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
-| Oct | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
-| Nov | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
-| Dec | 0h | 0 | 0/10 | 0/10 | 0/10 |  |
+| Jan | 6.6h | 23 | 9/10 | 2/10 | 2/10 | Deep winter: peak aurora, dog sledding, empty trails. Brutal Interior cold, few tourists. |
+| Feb | 9.4h | 27 | 9/10 | 3/10 | 3/10 | Aurora peak continues with longer light. Fur Rondy and ice-art season begin. Cold, clear, cheap. |
+| Mar | 11.8h | 34 | 9/10 | 4/10 | 4/10 | Best mix of aurora and daylight. Iditarod, ski touring, spring-break energy. Still very cold. |
+| Apr | 14.5h | 44 | 6/10 | 3/10 | 3/10 | Shoulder season: aurora fades by month-end, snow melts to mud. Arctic Man, quiet, low prices. |
+| May | 17.2h | 55 | 1/10 | 5/10 | 6/10 | Summer switch flips: roads and railroad open, cruises start, whales and puffins return. Green-up. |
+| Jun | 19.2h | 63 | 1/10 | 8/10 | 9/10 | Long days, wildflowers, king salmon run. Denali buses roll, midnight sun peaks. Busy and pricey. |
+| Jul | 18.3h | 65 | 1/10 | 10/10 | 10/10 | Peak season: warmest, Brooks Falls bears, sockeye run, festivals. Most crowded, most expensive. |
+| Aug | 15.6h | 64 | 4/10 | 8/10 | 9/10 | Silvers run, fireweed tops out, aurora returns late month. Fall colors start. Busy, rain rises. |
+| Sep | 12.8h | 55 | 8/10 | 5/10 | 6/10 | Fall colors peak, aurora resumes, termination dust dusts peaks. Fewer crowds, cruises wind down. |
+| Oct | 10.0h | 40 | 9/10 | 2/10 | 3/10 | Freeze-up shoulder: summer gone, winter not yet set. Strong aurora, low prices, most tours closed. |
+| Nov | 7.2h | 28 | 9/10 | 2/10 | 2/10 | Early winter, deep dark, strong aurora. Snow builds, dog-sled season starts. Very quiet and cheap. |
+| Dec | 5.5h | 24 | 9/10 | 3/10 | 3/10 | Darkest month with holiday lights and aurora. Cold, snowy, quiet outside solstice festivities. |
+
+## Season windows
+
+- **Denali Park bus season** — late May → mid September · Buses to ~Mile 43 (Polychrome); road beyond closed by Pretty Rocks slide until ~2027.
+- **Cruise season** — early May → late September · Inside Passage & Gulf sailings; peak Jun-Aug for weather and wildlife.
+- **Alaska Railroad summer service** — mid May → mid September · Daily Denali Star, Coastal Classic, Glacier Discovery on full schedule.
+- **Alaska Railroad winter (Aurora Winter Train)** — mid September → mid May · Weekends only, Anchorage-Fairbanks; slower flag-stop service.
+- **Brooks Falls bears - summer peak** — early July → late July · Sockeye leap the falls; most bears and most people on the platform.
+- **Brooks Falls bears - fall peak** — early September → late September · Fewer crowds; fat bears feast on spawned-out salmon before denning.
+- **King (Chinook) salmon run** — mid May → late July · Peak mid-June; Kenai, Kasilof, Nushagak, Copper R. Kenai kings often restricted.
+- **Red (sockeye) salmon run** — mid May → August · Copper R mid-May; Russian R June; Kenai late run peaks mid-late July.
+- **Pink (humpy) salmon run** — July → August · Strong even-year returns across Southcentral; easy shore fishing.
+- **Chum (dog) salmon run** — July → August · Common in Interior and Arctic rivers; overlaps pink and sockeye runs.
+- **Silver (coho) salmon run** — August → September · Peak late Aug-Sep; last salmon of the season, prized by anglers.
+- **Halibut season** — mid May → mid September · Charters from Homer, Seward, Valdez; prime May-Sep, weather-dependent.
+- **Aurora season** — Aug 21 → Apr 21 · Dark-sky window; best on clear cold nights near the equinoxes (Sep, Mar).
+- **Midnight sun** — mid May → late July · Utqiagvik sun never sets ~May 11-Aug 2; Fairbanks ~22h light at solstice.
+- **Fall colors** — late August → mid September · Interior and Denali tundra turns first; birch and aspen gold by early Sep.
+- **Termination dust** — mid September → early October · First snow dusting on mountain peaks; local sign that summer is over.
+- **Iditarod Sled Dog Race** — first Sat of March → mid March · Ceremonial start Anchorage, restart Willow; 2027 race starts Mar 6.
+- **Fur Rondy (Fur Rendezvous)** — late February → early March · Anchorage winter festival; sled races and Running of the Reindeer.
+- **World Ice Art Championships** — late February → late March · Fairbanks; multi-block ice carving, park open evenings into late March.
+- **Arctic Man Ski & Sno-Go Classic** — mid April → mid April · Summit Lake near Paxson; ski-snowmachine race and huge backcountry camp.
+- **Humpback whale season** — late April → October · Arrive Southeast/Kenai Fjords/PWS in May; depart to Hawaii Oct-Nov.
+- **Gray whale spring migration** — mid March → May · Pass Kodiak and Kenai coast northbound; peak viewing in April.
+- **Puffin season** — mid May → August · Horned and tufted puffins nest at Gull Island, Kenai Fjords, St. Paul.
+- **Wildflowers & fireweed** — June → August · Alpine blooms Jun-Jul; fireweed tops out late Aug, ~6 weeks to snow.
+- **Mosquito season** — late May → August · Peak mid-Jun to mid-Jul, worst in Interior wetlands; bring DEET/headnet.
+- **Denali Highway (gravel)** — mid May → early October · 135 mi Paxson-Cantwell; unmaintained in winter, gates close with snow.
+- **Hatcher Pass summit road** — early July → early October · Willow-side gate above Independence Mine opens only after snow clears.
+- **McCarthy Road** — May → October · 60 mi gravel Chitina-McCarthy; slow, no winter maintenance.
+- **Nabesna Road** — late May → September · 42 mi into Wrangell-St. Elias; some stream fords, best mid-summer.
+- **Dalton Highway** — year-round → year-round · Open all year to Deadhorse; best Jun-Aug, winter = ice and whiteouts.
+
+## Ready-made routes
+
+### The Classic 10-Day Road Trip — 10 days · Jun-Aug
+
+Anchorage → Kenai Fjords → Denali → Fairbanks. The three things everyone comes for, at a humane pace.
+
+Anchorage Museum at Rasmuson Center → Seward Highway → Kenai Fjords National Park Day Cruise → Exit Glacier → Alaska Wildlife Conservation Center → Talkeetna → Denali National Park & Preserve → Denali Park Road → University of Alaska Museum of the North → Chena Hot Springs Resort
+
+### 7-Day Kenai + Anchorage — 7 days · Jun-Aug
+
+Stay south of Anchorage: fjords, glaciers, halibut, and the Homer Spit. Minimal driving, maximum coast.
+
+Seward Highway - Turnagain Arm → Alaska Wildlife Conservation Center → Kenai Fjords National Park Day Cruise → Exit Glacier → Alaska SeaLife Center → Homer Spit → Kachemak Bay State Park → Homer Halibut Charters
+
+### 14-Day Ultimate Summer — 14 days · Jun-Aug
+
+The classic loop plus Wrangell-St. Elias, Valdez over Thompson Pass, and a day of bears at Brooks Falls.
+
+Kenai Fjords National Park Day Cruise → Exit Glacier → Homer Spit → Talkeetna Denali Flightseeing & Glacier Landing → Denali National Park & Preserve → Denali Park Road → University of Alaska Museum of the North → Chena Hot Springs Resort → Matanuska Glacier → Kennecott Mines National Historic Landmark → Root Glacier Trail → Valdez → Brooks Falls
+
+### 5-Day Winter Aurora — 5 days · late Aug-Apr
+
+Fairbanks base camp: soak at Chena under the aurora, mush dogs, ride the winter train, chase clear skies.
+
+Fairbanks → Chena Hot Springs Resort → University of Alaska Museum of the North → Alaska Railroad Aurora Winter Train → Chena River State Recreation Area → Riverboat Discovery
+
+### 7-Day Inside Passage — 7 days · May-Sep
+
+Ride the state ferry between Ketchikan, Sitka, Juneau and Skagway — totems, whales, the icefield, the gold-rush railroad.
+
+Ketchikan → Sitka National Historical Park → Juneau → Mendenhall Glacier & Visitor Center → Glacier Bay National Park - Bartlett Cove → Skagway → White Pass & Yukon Route Railroad
+
+### 10-Day Bears & Bush Planes — 10 days · Jul + Sep
+
+Brooks Falls, Silver Salmon Creek, and Kodiak — the three great brown-bear stages, reached by float plane.
+
+Brooks Falls → Silver Salmon Creek → Homer Bear-Viewing Flights (Katmai / Lake Clark) → Kodiak → Kodiak National Wildlife Refuge Visitor Center → Homer Spit
+
+### 8-Day Wrangell-St. Elias & Valdez — 8 days · Jun-Sep
+
+The empty side of Alaska: Matanuska Glacier, the McCarthy Road, Kennecott's copper ruins, and Valdez over Thompson Pass.
+
+Matanuska Glacier → Glennallen → Wrangell-St. Elias National Park & Preserve → McCarthy Road → Kennecott Mines National Historic Landmark → Root Glacier Trail → Thompson Pass → Valdez → Columbia Glacier cruise
+
+### 6-Day Budget & Camping — 6 days · Jun-Aug
+
+Free glaciers, state-park campgrounds, and one splurge cruise. Sleep in the car or a tent, skip the tour buses.
+
+Seward Highway - Turnagain Arm → Portage Glacier & Begich, Boggs Visitor Center → Exit Glacier → Kenai Fjords National Park Day Cruise → Hatcher Pass → Independence Mine State Historical Park
+
+## Gotchas
+
+- **Denali road is closed at Mile 43** *(high)* — The Pretty Rocks landslide severed the park road in 2021. Buses run only to East Fork (Mile 43); Eielson and Wonder Lake are off-limits by road until a bridge opens (~2027). Plan around it.
+- **Denali bus tickets sell out** *(high)* — You cannot drive the park road yourself past Mile 15 — you ride a park bus. Reserve at recreation.gov the moment tickets open (early winter for summer). Walk-up seats are scarce.
+- **Brooks Falls needs a float plane + a permit-tight camp** *(high)* — Getting to Katmai means a jet to King Salmon then a float plane to Brooks (~$700-900 round trip). Brooks Lodge beds go by lottery a year and a half out; most people day-trip.
+- **McNeil River bears are a lottery** *(medium)* — The world's best brown-bear viewing is a state permit drawn each March for a handful of summer slots. Apply early; most years you won't win.
+- **Pack Creek needs a permit too** *(medium)* — The Admiralty Island bear sanctuary caps daily visitors June-Sep. Book the permit and your float plane together before you fly to Juneau.
+- **Rental cars ban gravel highways** *(high)* — Most contracts forbid the Dalton, Denali Hwy, McCarthy Rd and Nabesna Rd, and won't cover a cracked windshield. Rent from a company that allows them (or a specialist) if you're going north.
+- **The Whittier tunnel runs on a clock** *(medium)* — The 2.5-mile one-lane tunnel alternates direction and shares the bore with the train. Miss your window and you wait 30-60 min. Check the schedule before you commit to a Sound cruise time.
+- **Ferries book up and reschedule** *(high)* — The Alaska Marine Highway sells cabins months ahead in summer and revises sailings when a vessel goes to refit. Book early, build slack, and check your sailing the week before.
+- **Bush flights cancel for weather** *(high)* — Small planes to Katmai, Lake Clark, Gates of the Arctic and the like scrub for fog and wind. Never schedule a fly-in on your last day — leave a buffer day or you miss your flight home.
+- **You can't drive to Juneau** *(high)* — The capital, plus Sitka, Ketchikan, Kodiak, Nome and Cordova, have no road connection. Southeast towns are air or ferry only — plan those legs as flights, not drives.
+- **Store your food; this is bear country** *(high)* — Use bear-proof lockers, never leave food in reach, carry spray and know how to use it, and keep 100 yards from any bear. On salmon streams give them the trail.
+- **Cell coverage dies fast** *(medium)* — Outside towns and the main highway corridors there is no signal. On the Dalton, McCarthy Rd, Denali Hwy and most of the bush, download maps and tell someone your plan.
+- **Fuel gaps are real** *(high)* — The Dalton has fuel only at Yukon River, Coldfoot and Deadhorse. On remote highways fill up at every chance — running dry out here is a genuine emergency.
+- **Gravel eats tires and windshields** *(medium)* — Carry a full-size spare (two on the Dalton), drive slow on washboard, and pull right for oncoming trucks to save your glass. A rock star can strand you 200 miles from help.
+- **Turnagain Arm mudflats can kill** *(high)* — The glacial silt off the Seward Hwy is quicksand and the bore tide comes in fast. Look, photograph, but don't walk out onto the flats.
+- **The midnight sun wrecks your sleep** *(low)* — In June it never really gets dark. Bring an eye mask, book rooms with blackout curtains, and don't be surprised when kids won't sleep at 11pm.
+- **Mosquitoes are the state bird** *(medium)* — Late June through July, especially in the Interior and Arctic, they're relentless. DEET or picaridin, a head net for the bush, long sleeves. They ease off by mid-August.
+- **Cold water is the real hazard** *(medium)* — Alaska water runs 35-50°F year-round. A capsize or a slip means hypothermia in minutes. Wear the life jacket on every boat; dress in layers you can add and shed.
+- **Cruise-port days are short** *(medium)* — Ships dock ~8am-5pm. Excursions that fly or boat far out cut it fine. Book the cruise line's own tours for the far ones so the ship waits if you're late.
+- **Fishing needs a license and has limits** *(medium)* — Buy a sport license online before you cast. Bag limits are strict and king (Chinook) salmon are often closed to protect the run — check the current emergency orders.
+- **Drones are banned in the national parks** *(low)* — Launching, landing or operating a drone in Denali, Katmai, Glacier Bay and the rest is illegal. Great for harassment complaints, terrible for your wallet.
+- **There's no statewide sales tax — but boroughs add their own** *(low)* — Alaska has no state sales tax, yet many towns levy local sales + bed taxes (Juneau, Ketchikan, etc.). Anchorage has none. Budgets vary town to town.
+- **Tip your guides** *(low)* — Fishing captains, bush pilots, raft and bear guides work for tips like anywhere else — 15-20% is normal for a good day. Bring cash; card readers don't work in the bush.
+- **Interior summers get smoky** *(medium)* — Wildfire season (late June-Aug) can bury Fairbanks and the Interior in smoke, grounding flightseeing and hiding Denali. Watch the forecast; keep plans flexible.
+- **Flightseeing weather refunds vary** *(low)* — If clouds cover Denali, some operators fly a lower route, some refund, some rebook. Ask the cancellation and mountain-visibility policy before you pay.
+- **Layers, always layers** *(low)* — One day can swing 40°F and rain sideways then clear. Waterproof shell, fleece, warm hat and real footwear go in the day pack every day, even in July.
+- **RV rentals book out by winter** *(medium)* — Summer motorhomes are snapped up months ahead and cost $200-350/night plus fuel and dump fees. Reserve early or you're priced out of the fleet that's left.
+- **Peak season is a hard wall** *(medium)* — Mid-June to mid-August is when lodging, cars, cruises and tours fill and prices peak. Late May and September are quieter and cheaper with most things still open.
+- **Some tribal lands need permission** *(low)* — Roads and trails around Native villages may cross corporation land requiring a permit. Ask locally before you cross fences or camp near a village.
+
+## What things cost
+
+| Item | Typical | Note |
+|---|--:|---|
+| Kenai Fjords 6-8hr day cruise | $185-235 | Lunch + national-park narration usually included. |
+| Round-trip flight to Anchorage (Lower 48) | $450-800 | Summer; book 2-3 months out. |
+| Rental car / day (summer) | $90-160 | Half that in shoulder season; SUVs cost more. |
+| Rental car / day (winter) | $45-75 | Add studded tires; much cheaper than summer. |
+| RV / motorhome per night | $200-350 | Plus fuel (poor mpg) and dump-station fees. |
+| Hotel / night, Anchorage or Fairbanks | $180-300 | Summer peak; less shoulder season. |
+| Hotel / night, small town in July | $220-380 | Seward, Homer, Talkeetna book out — reserve early. |
+| Bush flight to Brooks Falls (Katmai) | $700-900 | Jet to King Salmon + float plane round trip. |
+| Denali flightseeing + glacier landing | $450-575 | From Talkeetna; ~1.5-2h, ski-plane landing on the glacier. |
+| Denali flightseeing, no landing | $275-400 | Shorter loop around the mountain. |
+| Juneau icefield helicopter + dog camp | $650-750 | Land on the glacier and mush the dog team. |
+| Aurora tour / night (Fairbanks) | $75-150 | Heated cabin, hot drinks, a photographer to shoot you under it. |
+| Dog-sled ride (snow) | $100-175 | Short winter run; glacier-landing mush costs far more. |
+| Halibut charter / day | $275-375 | Homer or Seward; often includes gear + processing extra. |
+| Denali park bus (Transit) | $36-58 | Green camp/transit bus; road only runs to Mile 43 now. |
+| National park entry (Denali) | $15/person | 7-day pass; many Alaska parks are free. |
+| Alaska Railroad, Anchorage-Seward | $115-165 | Coastal Classic, one way; Denali Star runs more. |
+| Ferry, Bellingham to Ketchikan | $250-400 | Foot passenger; cabins + vehicles add a lot. |
+| Gas / gallon (remote highway) | $5.50-7.00 | Coldfoot + the bush are the priciest; town is cheaper. |
+| Sit-down dinner entrée | $22-38 | Halibut or king crab runs higher; groceries are pricey too. |
+| King crab dinner | $60-95 | Market price; Juneau + Anchorage crab shacks. |
+| Guided glacier trek (half day) | $95-150 | Matanuska or Root Glacier with crampons + guide. |
+| Arctic Ocean tour, Deadhorse | $70-90 | Must pre-book 24h+ for the oilfield security escort. |
+| Fishing license, non-resident | $25-145 | 1-day to annual; king stamp extra. |
+
+## Myths
+
+- ~~You can drive to Juneau~~ — The capital has no road out. Juneau, Sitka, Ketchikan, Kodiak, Nome and Cordova are all air or ferry only.
+- ~~Denali is always visible~~ — The mountain makes its own weather and hides ~2 days in 3. Give yourself several days near it to improve the odds.
+- ~~You need a cruise to see Alaska~~ — A cruise shows you one strip of Southeast. The Interior, Denali, the Kenai and the Arctic need a car, train or bush plane.
+- ~~Alaska is warm and sunny in summer~~ — Coastal Southeast and the Kenai are cool and wet; 55-65°F and rain is normal. Pack a real rain shell even in July.
+- ~~Everything is close together~~ — It's a fifth the size of the Lower 48. Anchorage to Fairbanks is a 7-hour drive; Nome to Anchorage isn't drivable at all.
+- ~~You'll see the aurora in summer~~ — The sky never gets dark enough June-July. Aurora season is roughly late August to mid-April.
+- ~~Bears are everywhere and dangerous~~ — They're common but shy. Make noise, store food, carry spray, keep your distance and encounters stay uneventful.
+- ~~It's all untouched wilderness~~ — The road system, towns and cruise ports are developed and busy in summer. True backcountry starts where the roads end — which is most of the map.
+- ~~Alaska is one time zone with the Lower 48~~ — Almost the whole state is Alaska Time — an hour behind Pacific, four behind Eastern. Book flights carefully.
+- ~~Alaska is cheap once you're there~~ — Remote logistics make it one of the pricier US trips. Bush flights, ferries, summer hotels and fuel add up fast — budget accordingly.
+- ~~Summer means 24-hour daylight everywhere~~ — Only above the Arctic Circle gets true midnight sun. Anchorage gets ~19 hours in June — long, but the sun does dip.
+- ~~You can just show up and do Denali~~ — Park buses, Brooks Falls, ferries and summer lodging sell out months ahead. The big-ticket items need reservations, not walk-ups.
+
+## Drive legs
+
+| From | To | Miles | Hours | Road |
+|---|---|--:|--:|---|
+| Anchorage | Fairbanks | 360 | 7.0 | George Parks Highway |
+| Skagway | Haines | 359 | 7.5 | Klondike + Haines Hwy (via Yukon) |
+| Anchorage | Valdez | 304 | 6.3 | Glenn + Richardson Highway |
+| Fairbanks | Coldfoot | 260 | 6.0 | Elliott + Dalton Highway |
+| Coldfoot | Deadhorse / Prudhoe Bay | 240 | 6.5 | Dalton Highway |
+| Anchorage | Denali Park / Healy | 237 | 4.3 | George Parks Highway |
+| Anchorage | Homer | 222 | 4.8 | Seward + Sterling Highway |
+| Tok | Fairbanks | 206 | 3.9 | Alaska Highway |
+| Anchorage | Glennallen | 189 | 3.6 | Glenn Highway |
+| Anchorage | Glennallen | 189 | 3.6 | Glenn Highway |
+| Seward | Homer | 168 | 3.6 | Sterling Highway |
+| Tok | Glennallen | 139 | 2.8 | Tok Cutoff |
+| Anchorage | Seward | 127 | 2.6 | Seward Highway |
+| Denali Park / Healy | Fairbanks | 125 | 2.2 | George Parks Highway |
+| Glennallen | McCarthy / Kennecott | 123 | 4.0 | Edgerton Hwy + McCarthy Road |
+| Anchorage | Talkeetna | 115 | 2.5 | Parks Highway + Spur |
+| Glennallen | Valdez | 115 | 2.4 | Richardson Highway |
+| Delta Junction | Tok | 108 | 2.1 | Alaska Highway |
+| Tok | Delta Junction | 108 | 2.1 | Alaska Highway |
+| Fairbanks | Delta Junction | 98 | 1.9 | Richardson Highway |
+| Anchorage | Whittier | 60 | 1.5 | Seward Hwy + Portage Glacier Rd |
+| Fairbanks | chena-hot-springs | 57 | 1.2 | Chena Hot Springs Road |
+| Skagway | Haines | — | 0.8 | AMHS fast ferry |
+| Anchorage | Juneau | — | 1.5 | jet |
+| Juneau | Sitka | — | 0.5 | jet or day-ferry |
+| Juneau | Gustavus | — | 0.5 | small plane / ferry |
+| Anchorage | Kodiak | — | 1.0 | jet |
+| Anchorage | King Salmon | — | 1.3 | jet |
+| Anchorage | Nome | — | 1.6 | jet |
+| Homer | Kodiak | — | 9.5 | AMHS Tustumena |
+| Whittier | Valdez | — | 5.8 | AMHS across Prince William Sound |
+| Valdez | Cordova | — | 3.0 | AMHS |
+| bellingham | Ketchikan | — | 38.0 | AMHS mainline |
 
 ---
 

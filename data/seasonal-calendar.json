@@ -1,0 +1,378 @@
+{
+  "months": [
+    {
+      "m": 1,
+      "name": "January",
+      "daylight_anchorage_hrs": 6.6,
+      "daylight_fairbanks_hrs": 4.6,
+      "avg_high_anchorage_f": 23,
+      "avg_high_fairbanks_f": 1,
+      "avg_high_juneau_f": 34,
+      "aurora_score": 9,
+      "crowd_score": 2,
+      "price_score": 2,
+      "summary": "Deep winter: peak aurora, dog sledding, empty trails. Brutal Interior cold, few tourists.",
+      "open": ["aurora", "dog sledding", "skiing", "ice fishing"],
+      "closed": ["Denali bus road", "most cruises", "Brooks Falls"],
+      "highlights": ["Peak aurora over Fairbanks", "World-class dog mushing", "Ice fishing on frozen lakes"]
+    },
+    {
+      "m": 2,
+      "name": "February",
+      "daylight_anchorage_hrs": 9.4,
+      "daylight_fairbanks_hrs": 8.7,
+      "avg_high_anchorage_f": 27,
+      "avg_high_fairbanks_f": 11,
+      "avg_high_juneau_f": 38,
+      "aurora_score": 9,
+      "crowd_score": 3,
+      "price_score": 3,
+      "summary": "Aurora peak continues with longer light. Fur Rondy and ice-art season begin. Cold, clear, cheap.",
+      "open": ["aurora", "dog sledding", "skiing", "Fur Rondy"],
+      "closed": ["Denali bus road", "most cruises", "Brooks Falls"],
+      "highlights": ["Fur Rondy opens in Anchorage", "World Ice Art carving begins", "Long clear aurora nights"]
+    },
+    {
+      "m": 3,
+      "name": "March",
+      "daylight_anchorage_hrs": 11.8,
+      "daylight_fairbanks_hrs": 11.7,
+      "avg_high_anchorage_f": 34,
+      "avg_high_fairbanks_f": 25,
+      "avg_high_juneau_f": 42,
+      "aurora_score": 9,
+      "crowd_score": 4,
+      "price_score": 4,
+      "summary": "Best mix of aurora and daylight. Iditarod, ski touring, spring-break energy. Still very cold.",
+      "open": ["aurora", "dog sledding", "Iditarod", "ski touring"],
+      "closed": ["Denali bus road", "most cruises", "Brooks Falls"],
+      "highlights": ["Iditarod start (first Sat)", "Equinox aurora peak", "Spring ski touring"]
+    },
+    {
+      "m": 4,
+      "name": "April",
+      "daylight_anchorage_hrs": 14.5,
+      "daylight_fairbanks_hrs": 15.0,
+      "avg_high_anchorage_f": 44,
+      "avg_high_fairbanks_f": 44,
+      "avg_high_juneau_f": 48,
+      "aurora_score": 6,
+      "crowd_score": 3,
+      "price_score": 3,
+      "summary": "Shoulder season: aurora fades by month-end, snow melts to mud. Arctic Man, quiet, low prices.",
+      "open": ["aurora (early)", "skiing", "Arctic Man", "snowmachining"],
+      "closed": ["Denali bus road", "most cruises", "Brooks Falls"],
+      "highlights": ["Arctic Man ski race", "Aurora season ends ~Apr 21", "Snowmelt and returning light"]
+    },
+    {
+      "m": 5,
+      "name": "May",
+      "daylight_anchorage_hrs": 17.2,
+      "daylight_fairbanks_hrs": 18.8,
+      "avg_high_anchorage_f": 55,
+      "avg_high_fairbanks_f": 60,
+      "avg_high_juneau_f": 55,
+      "aurora_score": 1,
+      "crowd_score": 5,
+      "price_score": 6,
+      "summary": "Summer switch flips: roads and railroad open, cruises start, whales and puffins return. Green-up.",
+      "open": ["cruises", "Alaska Railroad", "whale watching", "puffins", "hiking"],
+      "closed": ["Brooks Falls", "full Denali road", "aurora"],
+      "highlights": ["Cruise + rail season opens", "Whales & puffins return", "Denali Hwy reopens mid-month"]
+    },
+    {
+      "m": 6,
+      "name": "June",
+      "daylight_anchorage_hrs": 19.2,
+      "daylight_fairbanks_hrs": 21.8,
+      "avg_high_anchorage_f": 63,
+      "avg_high_fairbanks_f": 71,
+      "avg_high_juneau_f": 61,
+      "aurora_score": 1,
+      "crowd_score": 8,
+      "price_score": 9,
+      "summary": "Long days, wildflowers, king salmon run. Denali buses roll, midnight sun peaks. Busy and pricey.",
+      "open": ["cruises", "Denali bus", "midnight sun", "king salmon", "hiking"],
+      "closed": ["aurora", "fall colors"],
+      "highlights": ["Midnight sun & solstice", "King salmon peak", "Wildflowers bloom"]
+    },
+    {
+      "m": 7,
+      "name": "July",
+      "daylight_anchorage_hrs": 18.3,
+      "daylight_fairbanks_hrs": 20.2,
+      "avg_high_anchorage_f": 65,
+      "avg_high_fairbanks_f": 73,
+      "avg_high_juneau_f": 64,
+      "aurora_score": 1,
+      "crowd_score": 10,
+      "price_score": 10,
+      "summary": "Peak season: warmest, Brooks Falls bears, sockeye run, festivals. Most crowded, most expensive.",
+      "open": ["Brooks Falls", "cruises", "Denali bus", "sockeye salmon", "festivals"],
+      "closed": ["aurora"],
+      "highlights": ["Brooks Falls bear peak", "Sockeye salmon run", "Warmest days, festivals"]
+    },
+    {
+      "m": 8,
+      "name": "August",
+      "daylight_anchorage_hrs": 15.6,
+      "daylight_fairbanks_hrs": 16.3,
+      "avg_high_anchorage_f": 64,
+      "avg_high_fairbanks_f": 66,
+      "avg_high_juneau_f": 63,
+      "aurora_score": 4,
+      "crowd_score": 8,
+      "price_score": 9,
+      "summary": "Silvers run, fireweed tops out, aurora returns late month. Fall colors start. Busy, rain rises.",
+      "open": ["silver salmon", "cruises", "Denali bus", "fall colors (late)", "aurora (late)"],
+      "closed": ["midnight sun"],
+      "highlights": ["Silver salmon run starts", "Fireweed tops out", "Aurora returns after Aug 21"]
+    },
+    {
+      "m": 9,
+      "name": "September",
+      "daylight_anchorage_hrs": 12.8,
+      "daylight_fairbanks_hrs": 12.9,
+      "avg_high_anchorage_f": 55,
+      "avg_high_fairbanks_f": 54,
+      "avg_high_juneau_f": 56,
+      "aurora_score": 8,
+      "crowd_score": 5,
+      "price_score": 6,
+      "summary": "Fall colors peak, aurora resumes, termination dust dusts peaks. Fewer crowds, cruises wind down.",
+      "open": ["fall colors", "aurora", "Denali bus (early)", "cruises (early)", "Brooks Falls"],
+      "closed": ["midnight sun", "late-season charters"],
+      "highlights": ["Fall colors peak", "Aurora resumes", "Termination dust on peaks"]
+    },
+    {
+      "m": 10,
+      "name": "October",
+      "daylight_anchorage_hrs": 10.0,
+      "daylight_fairbanks_hrs": 9.5,
+      "avg_high_anchorage_f": 40,
+      "avg_high_fairbanks_f": 32,
+      "avg_high_juneau_f": 47,
+      "aurora_score": 9,
+      "crowd_score": 2,
+      "price_score": 3,
+      "summary": "Freeze-up shoulder: summer gone, winter not yet set. Strong aurora, low prices, most tours closed.",
+      "open": ["aurora", "freeze-up hikes"],
+      "closed": ["Denali bus road", "most cruises", "Brooks Falls"],
+      "highlights": ["Freeze-up begins", "Strong dark-sky aurora", "Last cruises depart"]
+    },
+    {
+      "m": 11,
+      "name": "November",
+      "daylight_anchorage_hrs": 7.2,
+      "daylight_fairbanks_hrs": 6.0,
+      "avg_high_anchorage_f": 28,
+      "avg_high_fairbanks_f": 11,
+      "avg_high_juneau_f": 39,
+      "aurora_score": 9,
+      "crowd_score": 2,
+      "price_score": 2,
+      "summary": "Early winter, deep dark, strong aurora. Snow builds, dog-sled season starts. Very quiet and cheap.",
+      "open": ["aurora", "dog sledding", "skiing (early)"],
+      "closed": ["Denali bus road", "most cruises", "Brooks Falls"],
+      "highlights": ["Dog-sledding season opens", "Deep-dark aurora", "Snowpack builds"]
+    },
+    {
+      "m": 12,
+      "name": "December",
+      "daylight_anchorage_hrs": 5.5,
+      "daylight_fairbanks_hrs": 3.9,
+      "avg_high_anchorage_f": 24,
+      "avg_high_fairbanks_f": 1,
+      "avg_high_juneau_f": 34,
+      "aurora_score": 9,
+      "crowd_score": 3,
+      "price_score": 3,
+      "summary": "Darkest month with holiday lights and aurora. Cold, snowy, quiet outside solstice festivities.",
+      "open": ["aurora", "dog sledding", "skiing", "holiday events"],
+      "closed": ["Denali bus road", "most cruises", "Brooks Falls"],
+      "highlights": ["Winter solstice ~Dec 21", "Holiday aurora viewing", "Ice sculptures & lights"]
+    }
+  ],
+  "windows": [
+    {
+      "label": "Denali Park bus season",
+      "start": "late May",
+      "end": "mid September",
+      "note": "Buses to ~Mile 43 (Polychrome); road beyond closed by Pretty Rocks slide until ~2027."
+    },
+    {
+      "label": "Cruise season",
+      "start": "early May",
+      "end": "late September",
+      "note": "Inside Passage & Gulf sailings; peak Jun-Aug for weather and wildlife."
+    },
+    {
+      "label": "Alaska Railroad summer service",
+      "start": "mid May",
+      "end": "mid September",
+      "note": "Daily Denali Star, Coastal Classic, Glacier Discovery on full schedule."
+    },
+    {
+      "label": "Alaska Railroad winter (Aurora Winter Train)",
+      "start": "mid September",
+      "end": "mid May",
+      "note": "Weekends only, Anchorage-Fairbanks; slower flag-stop service."
+    },
+    {
+      "label": "Brooks Falls bears - summer peak",
+      "start": "early July",
+      "end": "late July",
+      "note": "Sockeye leap the falls; most bears and most people on the platform."
+    },
+    {
+      "label": "Brooks Falls bears - fall peak",
+      "start": "early September",
+      "end": "late September",
+      "note": "Fewer crowds; fat bears feast on spawned-out salmon before denning."
+    },
+    {
+      "label": "King (Chinook) salmon run",
+      "start": "mid May",
+      "end": "late July",
+      "note": "Peak mid-June; Kenai, Kasilof, Nushagak, Copper R. Kenai kings often restricted."
+    },
+    {
+      "label": "Red (sockeye) salmon run",
+      "start": "mid May",
+      "end": "August",
+      "note": "Copper R mid-May; Russian R June; Kenai late run peaks mid-late July."
+    },
+    {
+      "label": "Pink (humpy) salmon run",
+      "start": "July",
+      "end": "August",
+      "note": "Strong even-year returns across Southcentral; easy shore fishing."
+    },
+    {
+      "label": "Chum (dog) salmon run",
+      "start": "July",
+      "end": "August",
+      "note": "Common in Interior and Arctic rivers; overlaps pink and sockeye runs."
+    },
+    {
+      "label": "Silver (coho) salmon run",
+      "start": "August",
+      "end": "September",
+      "note": "Peak late Aug-Sep; last salmon of the season, prized by anglers."
+    },
+    {
+      "label": "Halibut season",
+      "start": "mid May",
+      "end": "mid September",
+      "note": "Charters from Homer, Seward, Valdez; prime May-Sep, weather-dependent."
+    },
+    {
+      "label": "Aurora season",
+      "start": "Aug 21",
+      "end": "Apr 21",
+      "note": "Dark-sky window; best on clear cold nights near the equinoxes (Sep, Mar)."
+    },
+    {
+      "label": "Midnight sun",
+      "start": "mid May",
+      "end": "late July",
+      "note": "Utqiagvik sun never sets ~May 11-Aug 2; Fairbanks ~22h light at solstice."
+    },
+    {
+      "label": "Fall colors",
+      "start": "late August",
+      "end": "mid September",
+      "note": "Interior and Denali tundra turns first; birch and aspen gold by early Sep."
+    },
+    {
+      "label": "Termination dust",
+      "start": "mid September",
+      "end": "early October",
+      "note": "First snow dusting on mountain peaks; local sign that summer is over."
+    },
+    {
+      "label": "Iditarod Sled Dog Race",
+      "start": "first Sat of March",
+      "end": "mid March",
+      "note": "Ceremonial start Anchorage, restart Willow; 2027 race starts Mar 6."
+    },
+    {
+      "label": "Fur Rondy (Fur Rendezvous)",
+      "start": "late February",
+      "end": "early March",
+      "note": "Anchorage winter festival; sled races and Running of the Reindeer."
+    },
+    {
+      "label": "World Ice Art Championships",
+      "start": "late February",
+      "end": "late March",
+      "note": "Fairbanks; multi-block ice carving, park open evenings into late March."
+    },
+    {
+      "label": "Arctic Man Ski & Sno-Go Classic",
+      "start": "mid April",
+      "end": "mid April",
+      "note": "Summit Lake near Paxson; ski-snowmachine race and huge backcountry camp."
+    },
+    {
+      "label": "Humpback whale season",
+      "start": "late April",
+      "end": "October",
+      "note": "Arrive Southeast/Kenai Fjords/PWS in May; depart to Hawaii Oct-Nov."
+    },
+    {
+      "label": "Gray whale spring migration",
+      "start": "mid March",
+      "end": "May",
+      "note": "Pass Kodiak and Kenai coast northbound; peak viewing in April."
+    },
+    {
+      "label": "Puffin season",
+      "start": "mid May",
+      "end": "August",
+      "note": "Horned and tufted puffins nest at Gull Island, Kenai Fjords, St. Paul."
+    },
+    {
+      "label": "Wildflowers & fireweed",
+      "start": "June",
+      "end": "August",
+      "note": "Alpine blooms Jun-Jul; fireweed tops out late Aug, ~6 weeks to snow."
+    },
+    {
+      "label": "Mosquito season",
+      "start": "late May",
+      "end": "August",
+      "note": "Peak mid-Jun to mid-Jul, worst in Interior wetlands; bring DEET/headnet."
+    },
+    {
+      "label": "Denali Highway (gravel)",
+      "start": "mid May",
+      "end": "early October",
+      "note": "135 mi Paxson-Cantwell; unmaintained in winter, gates close with snow."
+    },
+    {
+      "label": "Hatcher Pass summit road",
+      "start": "early July",
+      "end": "early October",
+      "note": "Willow-side gate above Independence Mine opens only after snow clears."
+    },
+    {
+      "label": "McCarthy Road",
+      "start": "May",
+      "end": "October",
+      "note": "60 mi gravel Chitina-McCarthy; slow, no winter maintenance."
+    },
+    {
+      "label": "Nabesna Road",
+      "start": "late May",
+      "end": "September",
+      "note": "42 mi into Wrangell-St. Elias; some stream fords, best mid-summer."
+    },
+    {
+      "label": "Dalton Highway",
+      "start": "year-round",
+      "end": "year-round",
+      "note": "Open all year to Deadhorse; best Jun-Aug, winter = ice and whiteouts."
+    }
+  ]
+}
